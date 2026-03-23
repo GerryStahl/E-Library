@@ -1,0 +1,265 @@
+======================================================================
+  elibrary_cache.pkl  —  Structure & Reference Guide
+  Author: Gerry Stahl     Updated: March 2026
+======================================================================
+
+OVERVIEW
+--------
+elibrary_cache.pkl is a Python pickle file containing an ElibraryCache
+object (defined in cache/elibrary_cache.py).  It holds structured
+metadata and full text for 22 academic books and their 337 chapters,
+ready for embedding, chunking, summarization, and RAG querying.
+
+Load with:
+    import sys; sys.path.insert(0, '/Users/GStahl2/AI/elibrary')
+    from cache.elibrary_cache import ElibraryCache
+    cache = ElibraryCache.load('cache/elibrary_cache.pkl')
+
+Save with:
+    cache.save('cache/elibrary_cache.pkl')
+
+STATISTICS  (March 2026)
+------------------------
+  Books              :  22
+  Chapters (content) : 337
+  Total words        : 2,053,079
+  Total tokens       : 2,669,003  (approx., Qwen 2.5-7B tokenizer)
+  Book summaries     :  22  (one per book, AI-generated)
+  Chapter summaries  : 337  (one per chapter, AI-generated)
+
+
+======================================================================
+  CLASS HIERARCHY
+======================================================================
+
+  ElibraryCache
+  └── books: List[Book]
+        ├── [Book fields]
+        ├── book_summaries: List[BookSummary]
+        │     └── [BookSummary fields]
+        └── book_chapters: List[Chapter]
+              ├── [Chapter fields]
+              └── chapter_summaries: List[ChapterSummary]
+                    └── [ChapterSummary fields]
+
+
+======================================================================
+  ElibraryCache
+======================================================================
+
+  Field         Type          Description
+  ------------- ------------- -----------------------------------------
+  books         List[Book]    All 22 books, sorted by book_number.
+
+  Methods
+  -------
+  .add_book(book)             Add a Book, keep list sorted.
+  .get_book(number)           Return Book by number, or None.
+  .get_book_by_name(name)     Return Book by PDF filename.
+  .save(path=None)            Pickle to path (default: DEFAULT_PATH).
+  .load(path=None)            Class method: unpickle and return cache.
+  .summary_stats()            Return multi-line statistics string.
+
+  Properties
+  ----------
+  .total_books                int — number of books
+  .total_chapters             int — total content chapters (ch > 0)
+  .total_words                int — sum of all chapter words
+
+
+======================================================================
+  Book
+======================================================================
+
+  Field                   Type              Description
+  ----------------------- ----------------- ---------------------------
+  book_number             int               Sequence number 1–22.
+  book_name               str               PDF filename (e.g. "3.gc.pdf").
+  book_title              str               Full title of the book.
+  book_author             str               Primary author(s), semicolon-separated.
+  book_keywords           List[str]         Subject keywords (may be empty).
+  book_reference          str               APA-style citation for the book.
+  book_text               str               Full book text (all chapters concatenated).
+  book_number_of_pages    int               Total PDF pages.
+  book_kind               str               Content type: sections | essays |
+                                            chapters | papers | editorials |
+                                            proposals | investigations.
+  book_summaries          List[BookSummary] AI-generated whole-book summaries
+                                            (usually 1 per book, ~500 words).
+  book_chapters           List[Chapter]     All chapters incl. chapter 0 (book-
+                                            level entry).  Sorted by chapter_number.
+
+  Properties
+  ----------
+  .content_chapters       Chapters with chapter_number > 0 (excludes ch 0).
+  .total_words            Sum of chapter_number_of_words for content chapters.
+  .total_tokens           Sum of chapter_number_of_tokens for content chapters.
+
+  Methods
+  -------
+  .add_chapter(chapter)   Append and re-sort by chapter_number.
+  .get_chapter(number)    Return Chapter by number, or None.
+  .add_summary(summary)   Append a BookSummary.
+  .latest_summary()       Return most recent BookSummary, or None.
+
+
+======================================================================
+  BookSummary
+======================================================================
+
+  Field                       Type    Description
+  --------------------------- ------- ------------------------------------
+  book_summary_author         str     Model or human who wrote the summary
+                                      (e.g. "Claude Sonnet 4.6").
+  book_summary_date           str     ISO date string (e.g. "2026-03-01").
+  book_summary_prompt         str     Full prompt used to generate it.
+  book_summary_number_of_words int    Word count of summary_text.
+  book_summary_text           str     The summary (~300–500 words).
+
+
+======================================================================
+  Chapter
+======================================================================
+
+  Note: chapter_number = 0 is a book-level metadata entry (not a real
+  chapter).  Use book.content_chapters to skip it.
+
+  Field                       Type                Description
+  --------------------------- ------------------- ------------------------
+  chapter_number              int                 Chapter index within the
+                                                  book (1-based; 0 = book
+                                                  entry).
+  chapter_title               str                 Chapter or section title.
+  chapter_author              str                 Author(s) if different from
+                                                  book author.
+  chapter_keywords            List[str]           Subject keywords.
+  chapter_reference           str                 APA citation for the chapter.
+  chapter_text                str                 Full chapter text (plain text,
+                                                  extracted from PDF).
+  chapter_number_of_pages     int                 Pages in this chapter.
+  chapter_number_of_words     int                 Word count of chapter_text.
+  chapter_number_of_tokens    int                 Token count (Qwen 2.5-7B
+                                                  tokenizer; 0 if not computed).
+  chapter_number_of_symbols   int                 Character count of chapter_text.
+  chapter_summaries           List[ChapterSummary] AI-generated summaries
+                                                  (usually 1 per chapter).
+
+  Methods
+  -------
+  .add_summary(summary)       Append a ChapterSummary.
+  .latest_summary()           Return most recent ChapterSummary, or None.
+  .compute_metrics()          Derive word/symbol counts from chapter_text.
+
+
+======================================================================
+  ChapterSummary
+======================================================================
+
+  Field                           Type    Description
+  ------------------------------- ------- --------------------------------
+  chapter_summary_author          str     Model or human (e.g. "Claude Sonnet 4.6").
+  chapter_summary_date            str     ISO date string.
+  chapter_summary_prompt          str     Full prompt used.
+  chapter_summary_number_of_words int     Word count of summary_text.
+  chapter_summary_text            str     The summary (~100–300 words).
+
+
+======================================================================
+  BOOK INVENTORY  (22 books, 337 chapters)
+======================================================================
+
+   #   PDF file              Kind           Chapters    Words    Title
+  ---  --------------------  -------------  --------  ---------  -----
+   1   1.marx.pdf            sections           12      75,737   Marx and Heidegger
+   2   2.tacit.pdf           sections           15     130,818   Tacit and Explicit Understanding in Computer Support
+   3   3.gc.pdf              papers             25     191,623   Group Cognition: Computer Support for Building Collaborative Knowledge
+   4   4.svmt.pdf            papers             34     241,480   Studying Virtual Math Teams
+   5   5.euclid.pdf          chapters           11      73,836   Translating Euclid: Designing a Human-Centered Mathematics
+   6   6.analysis.pdf        chapters           13      93,105   Constructing Dynamic Triangles Together: The Development of…
+   7   7.philosophy.pdf      essays             21      77,987   Essays in Social Philosophy
+   8   8.software.pdf        essays             18     102,381   Essays in Personalizable Software
+   9   9.cscl.pdf            essays             12      69,377   Essays in Computer-Supported Collaborative Learning
+  10   10.science.pdf        essays             11      86,346   Essays in Group-Cognitive Science
+  11   11.theory.pdf         essays             15     148,169   Essays in Philosophy of Group Cognition
+  12   12.math.pdf           essays              8      66,501   Essays in Online Mathematics Interaction
+  13   13.dynamic.pdf        essays             10      48,642   Essays in Collaborative Dynamic Geometry
+  14   14.topics.pdf         sections            4      62,910   Adventures in Dynamic Geometry
+  15   15.global.pdf         sections            8      54,197   Global Introduction to CSCL
+  16   16.ijcscl.pdf         editorials         39     102,602   Editorial Introductions to ijCSCL
+  17   17.proposals.pdf      proposals          18     123,910   Proposals for Research
+  18   18.overview.pdf       chapters           18      67,571   Overview and Autobiographical Essays
+  19   19.investigations.pdf investigations     15     146,092   Theoretical Investigations: Philosophical Foundations of Group Cognition
+  20   20.form.pdf           chapters            7      31,010   Works of 3-D Form
+  21   21.game.pdf           sections           11      27,972   Dynamic Geometry Game for Pods
+  22   22.climate.pdf        chapters           12      30,813   Studying Climate Locally: The Future of Chatham's Marsh
+                                              -------  ---------
+                             TOTAL            337    2,053,079
+
+
+======================================================================
+  COMPANION FILE: editorials_cache.pkl
+======================================================================
+
+  Defined in: cache/editorials_cache.py
+
+  Stores 79 editorial introductions to ijCSCL (2006–2025) with
+  3-level summarization hierarchy (Claude / GPT-4o / GitHub Copilot):
+
+    EditorialsCache
+    ├── editorials: List[Editorial]       # 79 per-issue editorials
+    ├── annual_summaries: List[AnnualSummary]  # 20 per-year summaries
+    └── total_history: TotalHistory       # 1 full 20-year synthesis
+
+  Each of the three dataclasses (Editorial, AnnualSummary, TotalHistory)
+  carries three parallel EditorialSummary slots:
+    .summary        — Claude (Anthropic)
+    .summary_gpt4o  — GPT-4o (OpenAI)
+    .summary_book   — GitHub Copilot
+
+  Editorial fields: year, volume, issue, title, author, words, text, pdf
+
+
+======================================================================
+  CHUNKING PIPELINE  (planned — not yet stored in cache)
+======================================================================
+
+  When chapters are chunked, each chunk will be a dict:
+
+    {
+        "text":     "<chunk text>",
+        "metadata": {
+            "book_number":    int,   # 1–22
+            "chapter_number": int,   # 1-based
+            "chunk_index":    int,   # 0-based within chapter
+            "char_start":     int,   # byte offset in chapter_text
+            "char_end":       int,
+            "word_count":     int,
+            # optional extras: book_title, chapter_title, …
+        }
+    }
+
+  Chunker:  chunkers/semantic_chunker.py :: TextChunker
+            (RecursiveCharacterTextSplitter, default 1000 chars / 200 overlap)
+
+  Embedder: embedders/embedder.py :: Embedder
+            (HuggingFace all-MiniLM-L6-v2, 384-dim vectors)
+
+
+======================================================================
+  FILE LOCATIONS
+======================================================================
+
+  Cache PKL    cache/elibrary_cache.pkl
+  Cache JSON   cache/elibrary_cache.json     (text fields truncated to 10 words)
+  Cache class  cache/elibrary_cache.py
+  This file    cache/cache_structure.txt
+
+  Editorials PKL   cache/editorials_cache.pkl
+  Editorials JSON  cache/editorials_cache.json
+  Editorials class cache/editorials_cache.py
+
+  Chunker      chunkers/semantic_chunker.py
+  Hier.chunker chunkers/semantic_hierarchical_chunker.py
+  Embedder     embedders/embedder.py
+  PDF parser   parsers/pdf_parser.py
+

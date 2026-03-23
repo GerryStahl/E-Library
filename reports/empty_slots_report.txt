@@ -1,0 +1,572 @@
+========================================================================
+ELIBRARY CACHE — EMPTY SLOT AUDIT
+Generated: 2026-03-04  |  PKL: elibrary_cache.pkl
+========================================================================
+
+┌─ Book  1: Marx and Heidegger
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Chapter I. The Alternative of Marx and Heidegger
+    ch.chapter_keywords
+  ── Ch  2: Chapter II. Heidegger’s Critique of Marx
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  3: Chapter III. A Marxist Critique of Heidegger
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  4: Chapter IV. Anticipations: The Early Works
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  5: Chapter V. Research: The Grundrisse
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  6: Chapter VI. Presentation: Capital
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  7: Transitional Remarks
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  8: Chapter VII: The Work
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  9: Chapter VIII: The Thing
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 10: Chapter IX: Being-Itself
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 11: Concluding Remarks
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 12: EPILOGUE: THE WORKING OF SONIC BEING IN E-MUSIC
+    ch.chapter_keywords
+
+┌─ Book  2: Tacit and Explicit Understanding in Computer Support
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: INTRODUCTION
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  2: CHAPTER 1. OVERVIEW
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  3: Part I. Interpretation in Design
+    ch.chapter_keywords
+    chapter_summaries[0].chapter_summary_number_of_words
+    chapter_summaries[0].chapter_summary_text
+  ── Ch  4: CHAPTER 2. THREE METHODOLOGIES OF DESIGN
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  5: CHAPTER 3. INTERPRETATION IN LUNAR HABITAT DESIGN
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  6: CHAPTER 4. HEIDEGGER’S PHILOSOPHY OF INTERPRETATION
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  7: CHAPTER 5. GROUNDING EXPLICIT DESIGN KNOWLEDGE
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  8: CHAPTER 6. A THEORY OF COMPUTER SUPPORT
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  9: CHAPTER 7. RELATED COMPUTER SYSTEMS FOR DESIGN
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 10: Part III. Computer Support of Cooperative Design
+    ch.chapter_keywords
+    ch.chapter_reference
+    chapter_summaries[0].chapter_summary_number_of_words
+    chapter_summaries[0].chapter_summary_text
+  ── Ch 11: CHAPTER 8. REPRESENTING THE DESIGN SITUATION
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 12: CHAPTER 9. INTERPRETIVE PERSPECTIVES FOR COLLABORATION
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 13: CHAPTER 10. A LANGUAGE FOR SUPPORTING INTERPRETATION
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 14: CHAPTER 11. CONTRIBUTIONS
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 15: APPENDIX
+    ch.chapter_keywords
+    ch.chapter_reference
+
+┌─ Book  3: Group Cognition: Computer Support for Building Collaborati
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Essays on Technology, Interaction and Cognition
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  2: Introduction to Part I: Studies of Technology Design
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  3: Share Globally, Adapt Locally
+    ch.chapter_keywords
+  ── Ch  4: Evolving a Learning Environment
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  5: Armchair Missions to Mars
+    ch.chapter_keywords
+  ── Ch  6: Supporting Situated Interpretation
+    ch.chapter_keywords
+  ── Ch  7: Collaboration Technology for Communities
+    ch.chapter_keywords
+  ── Ch  8: Perspectives on Collaborative Learning
+    ch.chapter_keywords
+  ── Ch  9: Groupware Goes to School
+    ch.chapter_keywords
+  ── Ch 10: Knowledge Negotiation Online
+    ch.chapter_keywords
+  ── Ch 11: Introduction to Part II: Studies of Interaction Analysi
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 12: A Model of Collaborative Knowledge Building
+    ch.chapter_keywords
+  ── Ch 13: Rediscovering the Collaboration
+    ch.chapter_keywords
+  ── Ch 14: Contributions to a Theory of Collaboration
+    ch.chapter_keywords
+  ── Ch 15: In a Moment of Collaboration
+    ch.chapter_keywords
+  ── Ch 16: Collaborating with Relational References
+    ch.chapter_keywords
+  ── Ch 17: Introduction to Part III: Studies of Collaboration Theo
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch 18: Communicating with Technology
+    ch.chapter_keywords
+  ── Ch 19: Building Collaborative Knowing
+    ch.chapter_keywords
+  ── Ch 20: Group Meaning / Individual Interpretation
+    ch.chapter_keywords
+  ── Ch 21: Shared Meaning, Common Ground, Group Cognition
+    ch.chapter_keywords
+  ── Ch 22: Making Group Cognition Visible
+    ch.chapter_keywords
+  ── Ch 23: Can Collaborative Groups Think?
+    ch.chapter_keywords
+  ── Ch 24: Opening New Worlds for Collaboration
+    ch.chapter_keywords
+  ── Ch 25: Thinking at the SmallGroup Unit of Analysis
+    ch.chapter_keywords
+
+┌─ Book  4: Studying Virtual Math Teams
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Introduction to Part I: Introducing Group Cognition in 
+    ch.chapter_reference
+  ── Ch  7: Introduction to Part II: Studying Group Cognition in Vi
+    ch.chapter_reference
+  ── Ch  8: The Sequential Co-construction of the Joint Problem Spa
+    ch.chapter_reference
+  ── Ch  9: The Organization of Graphical, Narrative and Symbolic I
+    ch.chapter_reference
+  ── Ch 10: Question Co-Construction in VMT Chats
+    ch.chapter_reference
+  ── Ch 11: Resolving Differences of Perspective in a VMT Session
+    ch.chapter_reference
+  ── Ch 12: Introduction to Part III: Studying Group Discourse in V
+    ch.chapter_reference
+  ── Ch 13: Representational practices in VMT
+    ch.chapter_reference
+  ── Ch 14: Student and Team Agency in VMT
+    ch.chapter_reference
+  ── Ch 15: Group Creativity in VMT
+    ch.chapter_reference
+  ── Ch 16: Inscriptions, Mathematical Ideas and Reasoning in VMT
+    ch.chapter_reference
+  ── Ch 17: Reading’s work in VMT
+    ch.chapter_reference
+  ── Ch 18: Introduction to Part IV: Designing the VMT Collaboratio
+    ch.chapter_reference
+  ── Ch 23: Helping Agents in VMT
+    ch.chapter_reference
+  ── Ch 24: Introduction to Part V: Representing Group Interaction 
+    ch.chapter_reference
+  ── Ch 25: Thread-based Analysis of Patterns in VMT
+    ch.chapter_reference
+  ── Ch 26: Studying Response-Structure Confusion in VMT
+    ch.chapter_reference
+  ── Ch 30: A Model for Analyzing Math Knowledge Building in VMT
+    ch.chapter_reference
+  ── Ch 32: Introduction to Part VI: Conceptualizing Group Cognitio
+    ch.chapter_reference
+  ── Ch 34: Critical Ethnography in the VMT Project
+    ch.chapter_reference
+
+┌─ Book  5: Translating Euclid: Designing a Human-Centered Mathematics
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  2: Chapter 2.  History: The Origin of Geometry
+    ch.chapter_reference
+  ── Ch  3: Chapter 3.  Philosophy: The Obfuscation of Geometry
+    ch.chapter_reference
+  ── Ch  4: Chapter 4.  Mathematics: Demythologizing Geometry
+    ch.chapter_reference
+  ── Ch  5: Chapter 5.  Technology: Deconstructing Geometry
+    ch.chapter_reference
+  ── Ch  6: Chapter 6.  Collaboration: Group Geometry
+    ch.chapter_reference
+  ── Ch  9: Chapter 9.  Pedagogy: Designing Geometry
+    ch.chapter_reference
+  ── Ch 10: Chapter 10.  Practice: Doing Geometry
+    ch.chapter_reference
+  ── Ch 11: Chapter 11.  Design-Based Research: Human-Centered Geom
+    ch.chapter_reference
+
+┌─ Book  6: Constructing Dynamic Triangles Together: The Development o
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Introduction to the Analysis
+    ch.chapter_reference
+  ── Ch  2: Researching Mathematical Cognition
+    ch.chapter_reference
+  ── Ch  4: Session 1: The Team Develops Collaboration Practices
+    ch.chapter_reference
+  ── Ch  5: Session 2: The Team Develops Dragging Practices
+    ch.chapter_reference
+  ── Ch  6: Session 3: The Team Develops Construction Practices
+    ch.chapter_reference
+  ── Ch  7: Session 4: The Team Develops Tool-Usage Practices
+    ch.chapter_reference
+  ── Ch  8: Session 5: The Team Identifies Dependencies
+    ch.chapter_reference
+  ── Ch  9: Session 6: The Team Constructs Dependencies
+    ch.chapter_reference
+  ── Ch 10: Session 7: The Team Uses Transformation Tools
+    ch.chapter_reference
+  ── Ch 11: Session 8: The Team Develops Mathematical Discourse and
+    ch.chapter_reference
+  ── Ch 12: Contributions to a Theory of Mathematical Group Cogniti
+    ch.chapter_reference
+  ── Ch 13: Constructing Dynamic Triangles Together
+    ch.chapter_reference
+
+┌─ Book  7: Essays in Social Philosophy
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  8: The Economic Facts of Unemployment
+    ch.chapter_reference
+
+┌─ Book  8: Essays in Personalizable Software
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+
+┌─ Book  9: Essays in Computer-Supported Collaborative Learning
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+
+┌─ Book 10: Essays in Group-Cognitive Science
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Group Cognition as a Foundation for the New Science of 
+    ch.chapter_keywords
+  ── Ch  2: A View of ComputerSupported Collaborative Learning Rese
+    ch.chapter_keywords
+  ── Ch  3: CSCL for the era of climate change
+    ch.chapter_keywords
+  ── Ch  4: How I View Learning and Thinking in CSCL Groups
+    ch.chapter_keywords
+  ── Ch  5: Theories of Group Cognition: Foundations for CSCL and C
+    ch.chapter_keywords
+  ── Ch  6: How a Virtual Math Team Structured its Problem Solving
+    ch.chapter_keywords
+  ── Ch  7: Interaction Analysis of a Biology Chat
+    ch.chapter_keywords
+  ── Ch  8: Coding Scheme for Sequential Discourse
+    ch.chapter_keywords
+  ── Ch  9: Coordinating Collaborative Action in Online Math Proble
+    ch.chapter_keywords
+  ── Ch 10: Methodological issues in developing a multi-dimensional
+    ch.chapter_keywords
+  ── Ch 11: A Multi-Dimensional Coding Scheme for Mathematical Coll
+    ch.chapter_keywords
+
+┌─ Book 11: Essays in Philosophy of Group Cognition
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Introduction to CSCL
+    ch.chapter_keywords
+  ── Ch  2: Theories of CSCL
+    ch.chapter_keywords
+  ── Ch  3: Analysis of CSCL
+    ch.chapter_keywords
+  ── Ch  4: Curriculum for CSCL
+    ch.chapter_keywords
+  ── Ch  5: Technological Artifacts
+    ch.chapter_keywords
+  ── Ch  6: Introducing Theoretical Investigations
+    ch.chapter_keywords
+  ── Ch  7: A Vision of Group Cognition
+    ch.chapter_keywords
+  ── Ch  8: The Theory of Group Cognition
+    ch.chapter_keywords
+  ── Ch  9: A Post-cognitive Theoretical Paradigm
+    ch.chapter_keywords
+  ── Ch 10: Practices in Group Cognition
+    ch.chapter_keywords
+  ── Ch 11: Co-experiencing a Virtual World
+    ch.chapter_keywords
+  ── Ch 12: From Intersubjectivity to Group Cognition
+    ch.chapter_keywords
+  ── Ch 13: Constituting Group Cognition
+    ch.chapter_keywords
+  ── Ch 14: Sustaining Group Cognition
+    ch.chapter_keywords
+  ── Ch 15: Structuring Group Cognition
+    ch.chapter_keywords
+    ch.chapter_reference
+
+┌─ Book 12: Essays in Online Mathematics Interaction
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+
+┌─ Book 13: Essays in Collaborative Dynamic Geometry
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+
+┌─ Book 14: Adventures in Dynamic Geometry
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+
+┌─ Book 15: Global Introduction to CSCL
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: English third edition (2020)
+    ch.chapter_reference
+  ── Ch  2: English original version (2006)
+    ch.chapter_keywords
+  ── Ch  3: Spanish Translation by Cesar Alberto  & Collazos Ordoñe
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  4: Portuguese Translation by Hugo Fuks & Tatiana Escovedo
+    ch.chapter_keywords
+  ── Ch  5: Simplified Chinese Translation by Nan Zhou
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  6: Traditional Chinese Translation by Fei-Ching Chen
+    ch.chapter_keywords
+    ch.chapter_reference
+  ── Ch  7: Romanian Translation by Ştefan Trăuşan-Matu
+    ch.chapter_keywords
+  ── Ch  8: German Translation by Martin Mühlpfordt
+    ch.chapter_keywords
+    ch.chapter_reference
+
+┌─ Book 16: Editorial Introductions to ijCSCL
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch 24: 7(1): Ethnomethodologically informed
+    ch.chapter_reference
+  ── Ch 25: 7(2): Cognizing mediating: Unpacking the entanglement o
+    ch.chapter_reference
+  ── Ch 38: 10(3): Conceptualizing the intersubjective group
+    ch.chapter_reference
+
+┌─ Book 17: Proposals for Research
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Restoration of the Founding Homestead of Chatham
+    ch.chapter_reference
+  ── Ch  2: Frost Fish Creek Salt Marsh Preservation
+    ch.chapter_reference
+  ── Ch  3: Frost Fish Creek Restoration Project Application to DER
+    ch.chapter_reference
+  ── Ch  4: DR K-12: Computer-Supported Math Discourse Among Teache
+    ch.chapter_reference
+  ── Ch  5: ONR: Theories and Models of Group Cognition
+    ch.chapter_reference
+  ── Ch  6: ALT: Dynamic Support for Virtual Math Teams
+    ch.chapter_reference
+  ── Ch  7: SLC: Engaged Learning in Online Communities
+    ch.chapter_reference
+  ── Ch  8: ITR: Catalyzing & Nurturing Online Workgroups to Power 
+    ch.chapter_reference
+  ── Ch  9: NSDL: Collaboration Services for the Math Forum Digital
+    ch.chapter_reference
+  ── Ch 10: Foundations: Educational Online Communities for At-Risk
+    ch.chapter_reference
+  ── Ch 11: New Media to Support Collaborative Knowledge Building: 
+    ch.chapter_reference
+  ── Ch 12: Interoperability among Knowledge-Building Environments
+    ch.chapter_reference
+  ── Ch 13: Conceptual Frameworks and Computational Support for Org
+    ch.chapter_reference
+  ── Ch 14: Allowing Learners to be Articulate: Incorporating Autom
+    ch.chapter_reference
+  ── Ch 15: Collaborative Research on KnowledgeBuilding Environment
+    ch.chapter_reference
+  ── Ch 16: Models for Organizing Collaboration: Ways of Supporting
+    ch.chapter_reference
+  ── Ch 17: POW! (Perspectives On the Web)
+    ch.chapter_reference
+  ── Ch 18: The Research CyberStudio: Supporting Researchers as Lif
+    ch.chapter_reference
+
+┌─ Book 18: Overview and Autobiographical Essays
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Part I: Introduction to My Life and Writings
+    ch.chapter_reference
+  ── Ch  2: Intro to My Life
+    ch.chapter_reference
+  ── Ch  3: Intro to My Research & Writings
+    ch.chapter_reference
+  ── Ch  5: Union Organizing at Temple (1975-1977)
+    ch.chapter_reference
+  ── Ch  6: Community Development in Philadelphia (1978-1985)
+    ch.chapter_reference
+  ── Ch  7: Rehabbing My First House (1980-1989)
+    ch.chapter_reference
+  ── Ch 11: Homes Where I Have Lived
+    ch.chapter_reference
+  ── Ch 12: Travels Abroad
+    ch.chapter_reference
+  ── Ch 13: Academic Conferences and Presentations
+    ch.chapter_reference
+  ── Ch 14: E-Library Volumes
+    ch.chapter_reference
+  ── Ch 15: Chronological Listing of Essays with Volume and Chapter
+    ch.chapter_reference
+  ── Ch 16: Summaries of the Volumes
+    ch.chapter_reference
+  ── Ch 17: Reflections on the Volumes
+    ch.chapter_reference
+  ── Ch 18: Part V. Detailed CV
+    ch.chapter_reference
+
+┌─ Book 19: Theoretical Investigations: Philosophical Foundations of G
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Forward
+    ch.chapter_reference
+  ── Ch  2: Introducing Theoretical Investigations
+    ch.chapter_reference
+  ── Ch  3: Investigation 1. Advancing a CSCL Vision
+    ch.chapter_reference
+  ── Ch  4: Investigation 2. A Theory of Group Cognition in CSCL
+    ch.chapter_reference
+
+┌─ Book 20: Works of 3-D Form
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Sculpture: 3-D Form from Wood
+    ch.chapter_reference
+  ── Ch  2: Ceramics: 3-D Form from Clay
+    ch.chapter_reference
+  ── Ch  3: Architecture: 3-D Form for Living
+    ch.chapter_reference
+  ── Ch  4: Reflections: Philosophy of 3-D Form
+    ch.chapter_reference
+  ── Ch  5: Space: Opening Up 3-D Form
+    ch.chapter_reference
+  ── Ch  6: Practice: Sculpting 3-D Form in Wood
+    ch.chapter_reference
+  ── Ch  7: Catalog: Chronology of Works in 3-D Form
+    ch.chapter_reference
+
+┌─ Book 21: Dynamic Geometry Game for Pods
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Welcome
+    ch.chapter_reference
+  ── Ch  2: Intro for Adventurous Students
+    ch.chapter_reference
+  ── Ch  3: Intro for Parents and Teachers
+    ch.chapter_reference
+  ── Ch  4: Game Part A
+    ch.chapter_reference
+  ── Ch  5: Game Part B
+    ch.chapter_reference
+  ── Ch  6: Game Part C
+    ch.chapter_reference
+  ── Ch  7: Game Part D
+    ch.chapter_reference
+  ── Ch  8: Game Part E
+    ch.chapter_reference
+  ── Ch  9: Extra Bonus Dynamic Geometry
+    ch.chapter_reference
+
+┌─ Book 22: Studying Climate Locally: The Future of Chatham’s Marshes
+  [BOOK LEVEL]
+  book.book_keywords
+  book.book_text
+  book.book_number_of_pages
+  [CHAPTERS]
+  ── Ch  1: Introduction: Studying Climate Locally
+    ch.chapter_reference
+  ── Ch  3: Views of Chatham Neighborhoods
+    ch.chapter_reference
+  ── Ch  9: Early Study of Bucks Creek / Cockle Cove
+    ch.chapter_reference
+  ── Ch 12: For Further Information
+    ch.chapter_reference
+
+========================================================================
+SUMMARY
+========================================================================
+  Books scanned   : 22
+  Chapters scanned: 337
+  Empty book-level slots   : 66
+  Empty chapter-level slots: 224
+  Total empty slots        : 290

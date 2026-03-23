@@ -1,0 +1,47 @@
+# ─── Virtual environment ───────────────────────────────────────────
+.venv/
+
+# ─── Source PDFs and editorial PDFs (backed up separately) ────────
+sourcepdfs/
+editorials/
+
+# ─── Extracted chapter texts (copyrighted) ────────────────────────
+documents/old chapter texts/
+
+# ─── Cache — large data files (back up to disk separately) ─────────
+# The .py and .txt files in cache/ ARE included (code + prompts)
+cache/elibrary_cache.pkl
+cache/elibrary_cache.json
+cache/editorials_cache.pkl
+cache/editorials_cache.json
+cache/__pycache__/
+
+# ─── Vector store — recreatable indexes ────────────────────────────
+# query_history.json and query_history_embeddings.npy ARE included
+vector_store/elibrary.faiss
+vector_store/elibrary_meta.json
+vector_store/elibrary_build.json
+vector_store/chapter_summaries.faiss
+vector_store/chapter_summaries_meta.json
+vector_store/chapter_summaries_build.json
+vector_store/chunks_bm25/
+vector_store/summaries_bm25/
+
+# ─── Reports — large binary files and recreatable data ─────────────
+# All .csv, .txt, .json, .jsonl report files ARE included
+reports/*.png
+reports/citation_vectors.npz
+
+# ─── Python bytecode ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ─── macOS noise ───────────────────────────────────────────────────
+.DS_Store
+**/.DS_Store
+
+# ─── Editor / IDE ──────────────────────────────────────────────────
+.idea/
+*.swp
+*.swo

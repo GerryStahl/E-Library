@@ -1,0 +1,514 @@
+ijCSCL Annual Volume Summaries — GPT-4o
+======================================================================
+Generated : 2026-03-06
+Model     : gpt-4o
+Input     : All 3 Level-1 versions (Claude + GPT-4o + Book) per year
+Years     : 20 / 20
+
+You are a learning-science researcher writing for other leading researchers and advanced graduate students. You are reviewing the history of the CSCL (computer-supported collaborative learning) research field from 2006 through 2025 exclusively on the basis of the 79 editorial introductions to the volumes of the "international journal of CSCL". Write an approximately 300-word summary of each year's volume. Focus on how the editorials described the evolving trends in the field of CSCL in the year the articles were written, especially developments concerning innovations in theory (e.g., of learning, cognition, interaction, etc.), analytic methodology (e.g., for comparing experimental cases or analyzing discourse), software technology, pedagogy, curriculum. Do not use names or technical terms that are not mentioned in this corpus. Write these summaries of the individual articles as resources for later constructing a history of the CSCL field during the 20 years covered by the journal.
+
+======================================================================
+
+Year 2006  (Vol 1)
+Issues  : 4
+Titles  : ijCSCL—a journal for research in CSCL | Building knowledge in the classroom, bui | Focusing on participation in group meani | Social practices of computer-supported c
+
+**Year 2006 Summary**
+
+The 2006 volume of the International Journal of Computer-Supported Collaborative Learning (ijCSCL) encapsulates the foundational strides made by the CSCL field as it formalizes into a mature research discipline. Across its four issues, the journal highlights the convergence of interdisciplinary efforts and sets the stage for future exploration in CSCL research.
+
+**Issue 1** introduces the journal as a key platform for cultivating a global CSCL community, advocating for a holistic integration of theory, technology, and pedagogy in collaborative learning. It emphasizes moving beyond traditional frameworks by developing CSCL-specific approaches.
+
+**Issue 2** focuses on building knowledge both in classroom environments and within the CSCL community. It stresses transcending disciplinary boundaries and integrating diverse methodologies, showcasing tools and frameworks that promote knowledge building, such as the Design Principles Database and synchronous chat systems.
+
+The third issue marks a conceptual pivot towards "intersubjective meaning making," urging the field to prioritize shared meaning construction as a central analytic focus. Articles demonstrate innovative methodologies like anchored discussions and the use of networked handheld devices, providing nuanced insights into group interactions and learning strategies.
+
+**Issue 4** examines social practices within CSCL, drawing on situated learning theory to highlight the social nature of learning. It explores the balance between individual cognition and group interactions in digital environments, addressing challenges of engaging students without traditional social cues and fostering rich social practices through technology.
+
+Throughout the volume, the ijCSCL reflects on the vibrant early years of the journal, establishing a baseline for high-quality, interdisciplinary CSCL research and inviting ongoing contributions from the international community. The 2006 volume sets a foundation for future theoretical, methodological, and technological advancements in the CSCL field.
+
+----------------------------------------------------------------------
+
+Year 2007  (Vol 2)
+Issues  : 3
+Titles  : Welcome to the future: ijCSCL volume 2 | A double issue for CSCL 2007 | CSCL and its flash themes
+
+# Summary of ijCSCL Volume 2, Issue 1 (2007): "Welcome to the Future"
+
+The launch of Volume 2, Issue 1 of the International Journal of Computer-Supported Collaborative Learning (ijCSCL) signifies a pivotal shift in the CSCL field towards more formalized research dissemination. This editorial stresses the journal's role as not just a publication medium but a platform for rigorous dialogue that encapsulates matured research efforts. By emphasizing the progression from informal conference interactions to structured journal articles, the editors highlight the journal’s pivotal role in establishing a robust, peer-reviewed knowledge infrastructure.
+
+The introduction of "flash themes" stands out as a strategic editorial move, capturing organically arising research topics such as scripting, evaluation methods, and graphical supports in CSCL. This approach actively engages the community by featuring practitioner-driven themes, thus ensuring the journal stays closely aligned with groundbreaking field dynamics.
+
+The issue envisions a macro-level focus on communities of practice, pushing the boundaries of CSCL theory into examining both learning through and about technology. It emphasizes exploring diverse community configurations—such as "networks of practice" and "communities of interest"—and recognizes frameworks as essential tools situating individual learning instances within broader socio-technical contexts.
+
+Methodological pluralism emerges as a central theme, with a robust debate around integrating quantitative and qualitative methods to capture the nuanced dimensions of collaborative learning. While quantitative methods offer measurability, qualitative insights promise depth, prompting calls for methodological inter-animation to advance comprehensive understanding without settling on singular ideal methods.
+
+# Summary of ijCSCL Volume 2, Issues 2&3 (2007): A Double Issue for CSCL 2007
+
+Coinciding with the CSCL 2007 conference, this double issue explores the "flash themes" of scripting and argumentation in CSCL. The editorial advances the journal’s mission by spotlighting mature research agendas rich in theoretical and methodological innovations.
+
+The synthesis of qualitative and quantitative methods is underscored as trends in knowledge-building discourse analysis reveal how specific interaction patterns affect learning. These findings, derived from mixed-method approaches, signify CSCL's growing methodological sophistication.
+
+Technological progress is highlighted through innovations like intelligent tutoring systems, demonstrating how collaborative skills can be integrated into traditional AI-based educational tools. This alignment exemplifies the field's exploration of the interface between individual and group learning supports through intelligent systems.
+
+Within the scripting theme, contributions outline frameworks for designing effective collaboration scripts and discuss concerns around over-scripting as a challenge in optimizing learning interactions. The argumentation theme enriches CSCL discourse with European frameworks that develop analytical methodologies for debate engagement, focusing on the expansion and deepening of learners' understanding.
+
+This issue thus represents a period marked by intersecting advancements in contextually grounded research, innovative pedagogical models, and versatile methodological applications.
+
+# Summary of ijCSCL Volume 2, Issue 4 (2007): "CSCL and its Flash Themes"
+
+Volume 2, Issue 4 delves deeper into the concept of "flash themes" using the metaphor of a communal fire to articulate the dialectic interplay between individual research contributions and collective academic discourse within CSCL. This metaphor highlights the dynamic unity of individual and collective knowledge-building processes as fundamental to the field's growth.
+
+As CSCL increasingly focuses on community-based learning, the journal identifies flash themes such as "Learning in Communities," "Scripting in CSCL," "Argumentation in CSCL," and "Methods for Evaluating CSCL," each signaling
+
+----------------------------------------------------------------------
+
+Year 2008  (Vol 3)
+Issues  : 4
+Titles  : The many levels of CSCL | The strength of the lone wolf | Explorations of participation in discour | CSCL practices
+
+# Summary of ijCSCL Volume 3, Issue 1 (2008): "The many levels of CSCL"
+
+This issue emphasizes the multi-faceted nature of CSCL by exploring how learning, interaction, and knowledge building occur across individual, group, and community levels. It proposes integrating these levels through coherent pedagogical scripts, significantly advancing CSCL theory. The development of the SWISH principle highlights transitions between teacher-centered and student-directed activities, acknowledging multi-level integration as a crucial CSCL challenge. Methodologically, multilevel analysis is introduced to tackle the layered dynamics of individual and group learning outcomes.
+
+# Summary of ijCSCL Volume 3, Issue 2 (2008): "The Strength of the Lone Wolf"
+
+This issue delves into the dialectical tension between the individual and collaborative group within CSCL. Drawing on theories like activity theory and situated learning, the editorial underscores how individual cognitive skills emerge from social processes. It explores how CSCL tools mediate between individual participants and their groups. By framing this interaction as central to CSCL design, the issue highlights efforts to enhance personal and group dynamics through software and pedagogical strategies, while also noting a transition in leadership in CSCL literature dissemination.
+
+# Summary of ijCSCL Volume 3, Issue 3 (2008): "Explorations of Participation in Discourse"
+
+This issue centers on discourse participation as a critical aspect of collaborative learning, exploring the synergy of theoretical traditions and methodological innovations in CSCL. It addresses participation in discourse, emphasizing computational linguistics' potential for automated discourse analysis, balanced against the challenges of contextual discourse comprehension. Articles discuss designs that enhance participation through context-driven communication theories, scripting, and tools that bridge cultural practices and academic discourse, particularly in mathematical and cross-national settings.
+
+# Summary of ijCSCL Volume 3, Issue 4 (2008): "CSCL Practices"
+
+Concluding its third year, this issue emphasizes understanding the specific educational and professional practices linked to CSCL tools. It challenges traditional incorporation of communities of practice within formal education, proposing independent social networks instead. Theoretical advancements extend Vygotsky's concept to socio-genetic analysis levels, while empirical studies highlight the significant roles of technology and context on student self-efficacy and educational outcomes in STEM through gaming environments. Automated coding systems for discourse analysis continue to be explored, reflecting innovation in CSCL research methodologies.
+
+----------------------------------------------------------------------
+
+Year 2009  (Vol 4)
+Issues  : 4
+Titles  : Yes we can! | Practice perspectives in CSCL | Classical dialogs in CSCL | Paradigms of shared knowledge
+
+## Summary: ijCSCL Volume 4, Issue 1 (2009) – "Yes we can!"
+
+This issue from 2009 sets the stage for CSCL as not only a pedagogical tool but as a transformative force aligned with democratic ideals and global citizenship, in a period marked by significant geopolitical and economic shifts. The editorial underscores CSCL's role in challenging traditional education by fostering environments that encourage exploration, interaction, and critical dialogue among students. It highlights a need for educational systems that support global student collaboration, requiring a reevaluation of educational conceptions.
+
+Theoretical advancements include a framework categorizing learning approaches—distinguishing between instructionist, social, constructionist, and collaborative methodologies—emphasizing CSCL's unique requirements for effective collaboration beyond typical communication tools.
+
+Notably, the concept of "productive failure" is explored, revealing that initial collaborative struggles can lead to stronger individual learning gains, challenging conventional educational success metrics. Methodologically, the introduction of connective ethnography allows for a rich analysis of learning in virtual spaces by intertwining multiple data sources to trace knowledge dissemination across diverse settings.
+
+The issue also critiques collaboration training methodologies, finding video modeling and reflective prompts more productive than scripted instructions, suggesting a need for dynamic learning strategies over rigid protocols. Discussions on agency within CSCL environments expose students' tendencies to misattribute failures to technological constraints, emphasizing the need for supportive, intuitive learning technologies.
+
+---
+
+## Summary: ijCSCL Volume 4, Issue 2 (2009) – "Practice Perspectives in CSCL"
+
+This issue foregrounds the "practice turn" in CSCL, emphasizing the integration of technology and emergent educational practices to enhance collaborative learning experiences. The discussion traces intellectual influences from situated learning theories, promoting a shift towards understanding learning as embodied, materially mediated activities organized around practical understandings, extending CSCL’s traditional scope.
+
+Methodologically, the editorial contrasts regularity-based, variable-focused research with more fluid practice-oriented studies, advocating for a nuanced examination of interaction patterns over time. The need for methodologies that accommodate both quantitative rigor and the complexities of practice-oriented insights is stressed.
+
+The articles presented explore how CSCL technologies are enacted within various educational contexts. Case studies cover online environments that blend text chat and shared displays, reconsiderations of technological affordances from user's perspectives, traditional communication media's imprint on new digital platforms, and the cultivation of essential meta-skills for knowledge creation.
+
+Through these studies, the issue argues for the strategic alignment of group practices, technological affordances, interaction genres, and community meta-skills to harness CSCL’s full potential, advocating for collaborative, design-based approaches to research and development.
+
+---
+
+## Summary: ijCSCL Volume 4, Issue 3 (2009): "Classical Dialogs in CSCL"
+
+This issue reflects on the CSCL 2009 conference, underscoring the maturity of the field through its open dialogue and respect for diverse theoretical perspectives. It emphasizes the need for methodological evolution, showcasing shifts from fixed variable analyses to event-centered analyses that better capture the dynamic nature of collaborative learning interactions.
+
+Key discussions involve the distinctions between knowledge sharing, construction, and creation. The articles demonstrate that different paradigms of knowledge can foster unique collaborative dynamics, challenging researchers to consider the interplay of individual, group, and community learning processes.
+
+Several studies presented call for integrated analytical frameworks that address dialog, knowledge creation, and action within collaborative environments. They highlight the necessity for digital resource utilization that respects traditional communication practices while embracing new technological afford
+
+----------------------------------------------------------------------
+
+Year 2010  (Vol 5)
+Issues  : 4
+Titles  : The CSCL field matures | A prism of CSCL research | Guiding group cognition in CSCL | Beyond folk theories of CSCL
+
+**Year 2010 (Vol 5) — Summary of 4 Issues**
+
+**Issue 1: The CSCL Field Matures**
+The CSCL field, as marked by its journal’s indexing in the Web of Science, reflects an important maturation milestone by reinforcing its standing and significance. The journal traces the field’s journey from a 1989 workshop to the formation of ISLS, indicating the field's evolution into a global discipline. The issue tackles critical themes, including sequentiality in discourse, emphasizing argumentation, and challenges in scaffolding. It highlights the ongoing tension between cognitive science’s quantitative methods and approaches focusing on social practices, suggesting that such disparities could foster productive dialogue by finding common analytic ground.
+
+**Issue 2: A Prism of CSCL Research**
+This issue acts as a lens illuminating the interdisciplinary nature of CSCL, integrating diverse technologies, methodologies, and disciplines. The papers reflect pedagogical innovations, such as using simulations for understanding the cardiovascular system, and discourse analysis in science education to reframe conventional assessment approaches. The scripting debate is revisited, proposing that task definition might outweigh scripting’s role in collaborative learning. Additionally, the focus on distributed leadership signifies a shift towards understanding less structured group dynamics, and the issue concludes with insights on promoting metacognitive skills through technology.
+
+**Issue 3: Guiding Group Cognition in CSCL**
+A theoretical framework underscores the dialogue-centric process of group cognition, noting its rarity, complexity, and situational uniqueness. Emphasizing group-level interaction enables insights into knowledge artifacts driven by task collaboration. This issue surveys challenges in scaffolding, highlighting innovations like synchronous discussion moderation, problem-based learning, and concept mapping. It calls for balancing external controls with fostering internal group preconditions like trust, reinforcing the importance of autonomy in group cognitive processes.
+
+**Issue 4: Beyond Folk Theories of CSCL**
+A significant programmatic statement critiques reliance on 'folk theories' and emphasizes developing CSCL-specific theories. It urges moving beyond borrowing traditional frameworks to crafting theories addressing CSCL's multi-level, technology-mediated processes. Studies in this issue extend theories like distributed cognition and explore co-construction in online discussions, Activity Theory's application to dyadic gaming, and temporal experiences in learning environments. This work underscores recognizing the co-constructed, rather than given, nature of knowledge, roles, and interactions in CSCL.
+
+Throughout 2010, the journal documents CSCL’s growth into a mature field through theoretical innovation and methodological diversity, underscoring a transition from theoretical importation to theory creation specific to the domain’s unique educational and technological meditations.
+
+----------------------------------------------------------------------
+
+Year 2011  (Vol 6)
+Issues  : 4
+Titles  : CSCL in Asia | Let a hundred flowers bloom; let a hundr | Tweets from #cscl2011 | Collaborating around the tabletop
+
+In 2011, Volume 6 of the International Journal of Computer-Supported Collaborative Learning (ijCSCL) chronicled a dynamic year in CSCL research, marked by geographic, thematic, and technological exploration.
+
+**Issue 1: CSCL in Asia** initiated a deeper engagement with the Asian context, inspired by the 2009 PISA assessments where Asian regions, notably Shanghai, excelled. This juxtaposed against the rote-learning stereotype, prompting a reevaluation of educational policies in Asia that may align with CSCL ideals through systemic reforms emphasizing innovation and collaboration. Methodologically, the issue championed multi-level analysis, spanning micro to macro-educational contexts, and introduced lag-sequential analysis and the productive failure phenomenon, indicating methodological maturation in temporal interaction analysis. Moreover, theoretical frameworks like abduction in logic of inquiry and studies on hypertext tools were foregrounded, suggesting theoretical advancements in understanding collaborative learning processes.
+
+**Issue 2: Let a hundred flowers bloom; let a hundred schools of thought contend** emphasized the diversity within CSCL research as a strength, advocating for theoretical and methodological pluralism. The juxtaposition of various approaches, from dialogicality to information processing, underscored ongoing debates about the nature of collaborative knowledge building—whether reducible to individual cognition or emergent from group interplay. This issue also highlighted methodological synergy through the combination of quantitative and qualitative approaches and examined technological adaptability in educational contexts.
+
+**Issue 3: Tweets from #cscl2011** documented the CSCL 2011 conference, underscoring the burgeoning internationalization of the field, particularly in Asia, demonstrated by increased participation from Asia-Pacific regions and the integration of social media for expanded virtual engagement. This issue connected CSCL research to policy and practice, reflecting a strategic direction towards influencing educational standards and skills development. Studies in this issue explored diverse dimensions of CSCL, from social networking tools to identity in collaborative spaces, further showcasing the theoretical and methodological depth in collaborative learning research.
+
+**Issue 4: Collaborating around the tabletop** spotlighted tabletop computing as a burgeoning research focus within CSCL, with the metaphor of shared physical spaces serving as a foundation for collaborative interactions. This issue cautioned against technological determinism, emphasizing the importance of contextual user evaluation and design in effective technology integration. Articles explored the complexities of tabletop interfaces, including cost-effective collaborative tools and methods for analyzing embodied, multimodal interaction, reflecting advancements in both technological sophistication and analytical methodologies.
+
+Collectively, the 2011 volumes demonstrate the CSCL field's evolution, characterized by diversification, increasing international participation, and new technological frontiers, alongside a commitment to examining the complex interplay of theory, method, pedagogy, and policy in collaborative learning contexts.
+
+----------------------------------------------------------------------
+
+Year 2012  (Vol 7)
+Issues  : 4
+Titles  : Ethnomethodologically informed | Cognizing mediating: Unpacking the entan | An international research community | Traversing planes of learning
+
+## Summary of ijCSCL Volume 7, Issue 1 (2012): "Ethnomethodologically Informed"
+
+The 2012 editorial for Volume 7, Issue 1 of the International Journal of Computer-Supported Collaborative Learning (ijCSCL) marks a shift toward ethnomethodology (EM) within CSCL research. Celebrating Harold Garfinkel's legacy, the editorial underscores EM's relevance to understanding joint meaning-making in small-group collaborations. Unlike traditional educational psychology or sociology that focus on individuals or societal constructs, EM zeroes in on the micro-interactions that are observable in discourse, providing a more nuanced analysis suited to CSCL.
+
+The editorial argues for the adoption of conversation analysis and video analysis—tools derived from EM—as they effectively study collaborative learning processes. By rejecting predefined theoretical frameworks, EM aligns with a participant-focused perspective, allowing the analysis of inherent meaning-making processes. This methodological pivot offers insights into the design of collaboration technologies and pedagogies.
+
+Papers in this issue showcase EM's application in CSCL contexts, from examining teacher roles in guided interactions to the use of personal experiences in online learning environments, illustrating EM's capability to reveal complex interactional processes.
+
+## Summary of ijCSCL Volume 7, Issue 2 (2012): "Cognizing Mediating: Unpacking the Entanglement of Artifacts with Collective Minds"
+
+In Volume 7, Issue 2, the editorial explores the dynamic, mutually shaping interactions between human cognition and technological artifacts, introducing "cognizing mediating" as an evolving process. Addressing the interplay between artifacts and collective cognition, the editorial highlights instrumental genesis as a suitable framework for analyzing small-group dynamics in CSCL, challenging static concepts like affordances and structuration.
+
+By connecting cognitive evolution with rapid technological advancement, the editorial calls for a theoretical model that integrates these evolving processes. Empirical studies presented discuss pedagogical guidance, automated discourse analysis, and techniques for designing collaborative tasks that advance beyond traditional educational models, emphasizing 'productive failure' as a learning-enhancing challenge.
+
+## Summary of ijCSCL Volume 7, Issue 3 (2012): "An International Research Community"
+
+The editorial for Volume 7, Issue 3 underscores the international expansion and impact of CSCL research, evidenced by the journal's high ISI rankings and global reach of submissions. Highlighting submissions from diverse regions and the broad range of interdisciplinary topics in the most cited articles, it emphasizes the rich theoretical, methodological, and technological contributions shaping the field.
+
+An emphasis is placed on rigorous research standards demanding mature, in-depth investigations, aligning with the journal's standing. This issue's articles cover diverse educational contexts and innovations from augmented reality to optimal group configurations for collaborative learning, reflecting the interdisciplinary and international nature of the CSCL community.
+
+## Summary of ijCSCL Volume 7, Issue 4 (2012): "Traversing Planes of Learning"
+
+Volume 7, Issue 4 tackles the challenge of understanding the interplay among the individual, small-group, and community levels of CSCL learning. Highlighting the tendency to privilege individual or societal outcomes over the essential group cognition processes, the editorial advocates for theoretical and empirical attention to these interactions.
+
+Drawing from post-cognitive perspectives, it introduces "affordances" as conceptual bridges linking learning planes through shared resources and meaning-making processes. By analyzing these connections, the articles in this issue aim to elucidate the intricate nature of learning across various educational levels, from university settings to innovative
+
+----------------------------------------------------------------------
+
+Year 2013  (Vol 8)
+Issues  : 4
+Titles  : Learning across levels | Transactive discourse in CSCL | Collaborative Learning at CSCL 2013 | Reigniting CSCL flash themes
+
+# Summaries of Volume 8 (2013) of the International Journal of Computer-Supported Collaborative Learning (ijCSCL)
+
+## Issue 1: Learning Across Levels
+The 2013 Volume 8, Issue 1 of the ijCSCL addresses the challenge of analyzing collaborative learning across multiple levels—individual, small-group, and community. The editorial emphasizes the field's need to bridge these different levels of analysis, a theme that resonated with the CSCL 2013 conference. By introducing the concept of "interactional resources," the issue proposes a framework to connect learning across levels through artifacts and practices. These resources emerge from interactions and can mediate learning processes as they transition from situational emergents to institutionalized norms. Empirical papers in the issue explore diverse contexts like dynamic geometry problem-solving and collaborative diagram sense-making, highlighting how resources traverse different levels of analysis.
+
+## Issue 2: Transactive Discourse in CSCL
+In Volume 8, Issue 2, the focus shifts to "transactive discourse," examining how collaborative learning involves building on each other's reasoning. This issue contrasts two analytic approaches: individual cognitive explanations versus group-level interactional phenomena. Important methodological developments include the use of "thick description" to link individual and group analyses. Diverse papers explore contexts from blogging and scripting to kindergarten collaborations, underscoring how transactive discourse operates across educational settings. The issue also explores automated methods for analyzing transactivity, reflecting on its implications for measuring and supporting collaborative knowledge building.
+
+## Issue 3: Collaborative Learning at CSCL 2013
+Reflecting on the CSCL 2013 conference, Volume 8, Issue 3, highlights significant institutional and methodological advances. A notable development was PISA's plan to assess collaborative problem-solving skills, marking a policy impetus for CSCL research. Regional summaries reveal diverse research emphases: North American educational innovation, European cross-national collaborations, Australian technological applications, and Asian pedagogical integration. The editorial underscores both the diversity within CSCL research and its common goal of impacting educational practice globally. The volume suggests shifts in international education focus with the inclusion of collaborative skills in standardized assessments.
+
+## Issue 4: Reigniting CSCL Flash Themes
+Volume 8, Issue 4 revisits the concept of "flash themes"—emergent, timely topics in CSCL research. It reignites discussions on argumentation, scripting, and tabletop interfaces, while introducing eye-tracking as a novel theme. Through eye-tracking studies, the issue highlights the role of joint attention in social interaction as integral to collaborative learning. Across the themes, methodological and theoretical questions persist, such as the value of videogames in fostering argumentation and the integration of awareness prompts in collaborative activities. Despite technological advances, the editorial emphasizes that CSCL research remains fundamentally about meaning-making in joint activity.
+
+These editorials collectively illustrate a year in which CSCL research addressed critical theoretical and methodological challenges, with an increased focus on integrating multiple levels of analysis and technological innovations to enhance collaborative learning.
+
+----------------------------------------------------------------------
+
+Year 2014  (Vol 9)
+Issues  : 4
+Titles  : Analyzing the multidimensional construct | Dialogic foundations of CSCL | CSCL artifacts | Analyzing roles of individuals in small-
+
+**2014 (Vol 9) - International Journal of CSCL**
+
+*Issue 1: Analyzing the Multidimensional Construction of Knowledge in Diverse Contexts*
+
+This issue explores how knowledge construction occurs across individual, small-group, and community levels within CSCL contexts. It highlights the notion of "interactional resources" that serve as bridges across these levels, examining frameworks like Activity Theory and knowledge-building forums. Featured articles investigate these ideas through various environments such as primary schools and Wikipedia. The analysis reveals how interactions at smaller scales can influence and sustain broader educational practices, stressing the importance of community-engaged learning and innovative analytic approaches.
+
+*Issue 2: Dialogic Foundations of CSCL*
+
+The focus is on the dialogical foundations of CSCL, inspired by the work of Vygotsky and Bakhtin. This issue emphasizes the crucial shift from individualistic to social conceptions of learning and communication. Articles within explore dialogical and cognitive perspectives on group interactions, highlighting how multi-vocal discourse facilitates collaborative learning. The use of tools like PolyCAFe illustrates the potential for software in supporting dialogic interaction analysis. The editorial advocates for pluralism in methodological approaches, balancing the dialogical with the cognitive to enrich CSCL understanding.
+
+*Issue 3: CSCL Artifacts*
+
+Artifacts are positioned as key components within CSCL environments, fulfilling roles such as communication media, instructional structures, and knowledge construction tools. The editorial traces the CSCL field's evolution, marking a transition towards intersubjective meaning-making and post-cognitive approaches. Through empirical and corpus analysis studies, the issue examines how artifacts shape collaborative efforts and learning outcomes. It raises critical questions about the direction of the field, suggesting the need to better synthesize theoretical and practical insights concerning artifact use.
+
+*Issue 4: Analyzing Roles of Individuals in Small-Group Collaboration Processes*
+
+This issue delves into the dynamics between individual roles and group collaboration processes. It critiques persistent "folk theories" of fixed individual intelligence and knowledge transfer, proposing instead a socio-cultural view where group interactions fundamentally shape learning. Articles investigate aspects like joint attention, interactional leadership, emergent social roles, and expressions of uncertainty in collaborative settings. The editorial suggests a paradigm shift towards a post-cognitive theory of learning where collaborative learning is foundational for individual progress, highlighting innovative methodologies that integrate multiple analysis levels.
+
+Each issue in 2014 contributes significantly to understanding how collaborative activities, artifacts, and dialogical approaches redefine learning within CSCL contexts. The year saw a push towards reconceptualizing learning as a profoundly social process, supported by theoretical innovations and diverse methodologies.
+
+----------------------------------------------------------------------
+
+Year 2015  (Vol 10)
+Issues  : 4
+Titles  : From the editors: Collaboration and the  | The core features of CSCL: Social situat | Conceptualizing the intersubjective grou | A decade of CSCL
+
+# Year 2015 (Vol 10) — Summary of Editorial Introductions
+
+**Issue 1: Collaboration and the Formation of New Knowledge Artifacts**
+
+The first issue in 2015 underscores the integral role of knowledge artifacts in CSCL, highlighting the blending of material and semantic aspects in creating intersubjective meanings. It emphasizes that contemporary learning increasingly involves engagement with artifacts that mediate between individual understanding and community knowledge. Theoretical advancements distinguish between mental representations and collaborative artifact-based knowledge construction. The editorial introduces "alignment" as a critical analytic concept for using artifacts in interactional activities to facilitate conceptual understanding. Articles in this issue explore augmented reality, information assessment in collaborative text production, visitor interactions in a genetics exhibit, and networked second-language learning, all demonstrating diverse approaches to artifact-mediated learning.
+
+**Issue 2: The Core Features of CSCL: Social Situation, Collaborative Knowledge Processes and Their Design**
+
+In the second issue, editors articulate the fundamental components of CSCL research: the impact of social situations on collaboration, the distinct learning processes within group settings, and the design of learning technologies. This issue charts the evolution from viewing computer-mediated communication as lesser than face-to-face interaction to recognizing its potential to enhance collaboration through awareness tools. The focus on group cognition and knowledge construction highlights challenges in predicting and facilitating pivotal collaborative learning moments, suggesting microanalysis and ethnomethodology as tools for understanding these phenomena. Articles within this issue examine organizational learning hierarchies, awareness tools, and group composition, collectively probing core CSCL concerns.
+
+**Issue 3: Conceptualizing the Intersubjective Group**
+
+Issue three reframes intersubjectivity as the central tenet differentiating CSCL from other educational paradigms, emphasizing group-level processes over individual learning outcomes. The editorial traces the shift from individual-focused cognitive paradigms to those appreciating joint meaning-making within group interactions. This conceptual expansion is supported by emerging group-level theoretical constructs like group cognition and metacognition. The articles further investigate small group learning dynamics using frameworks like Habermas’ communicative action, dual-interaction spaces, and group engagement, promoting innovative theoretical and methodological approaches.
+
+**Issue 4: A Decade of CSCL**
+
+The final issue of the volume reflects on ten years of CSCL and the journal, noting the field’s theoretical evolution and acknowledging gaps in technology design and analytic methodology adaptation. The editorial reports growth in international collaboration and multi-method research, yet also challenges in aligning technologies with post-cognitive collaborative practices. Articles tackle knowledge-building discourse, argumentation prompts, dialogical cohesion, and real-time analytics, positioning CSCL as pivotal for educational transformation. The discussion advocates for comprehensive integration of technology, pedagogy, and curriculum within collaborative learning models, reinforcing the journal's ongoing commitment to global educational reform.
+
+----------------------------------------------------------------------
+
+Year 2016  (Vol 11)
+Issues  : 4
+Titles  : CSCL towards the future: The second deca | CSCL: connecting the social, emotional a | Future-looking conversations in CSCL | Collaboration scripts and scaffolding
+
+**2016 (Vol 11) Summaries of 4 Issues:**
+
+**Issue 1: CSCL towards the future: The second decade of ijCSCL**
+This editorial initiates a leadership change and sets new directions for the second decade of CSCL research. While the field has advanced in understanding group cognition and collaborative knowledge, it has lagged in integrating technology design and developing analytic methodologies. The editorial highlights the need for models that reconcile different levels of analysis and more diverse methodological approaches, such as experimental and naturalistic studies. Challenges include adapting to phenomena like mass collaboration and learning analytics and conceptualizing collaboration in design.
+
+**Issue 2: CSCL: connecting the social, emotional, and cognitive dimensions**
+This editorial elucidates classical problems in collaborative learning, analyzing how these processes materialize and are experienced—focusing on varied interpretations of sharing and common ground. The interconnectedness of emotional, cognitive, and social dimensions is emphasized, along with the role of identity and positioning in participation. New group formation and assessment methods are anticipated through advanced techniques, with a focus on collaboration as a 21st-century skill. The issue's articles explore group emotions, identity in knowledge construction, prediction of group performance, and revisitations of common ground in modeling.
+
+**Issue 3: Future-looking conversations in CSCL**
+This editorial presents initiatives like the "Squibs" format for rapid discourse and reviews studies that consolidate existing knowledge amidst rapid technological changes. It underscores the integration of social, emotional, and cognitive dimensions. The articles include investigations of shared regulation of learning, reflections on CSCL scripts, and empirical studies for low achievers and epistemic games. Discussions focus on evolving research methodologies, non-classroom learning contexts, semiotic practices, and the influence of economic and policy discussions on CSCL research.
+
+**Issue 4: Collaboration scripts and scaffolding**
+The editorial contemplates two distinct CSCL research trends: computational approaches and interactional analyses. Computational studies investigate automatic feedback tools and conversational agents that scaffold learning by encouraging dialogue explicitness and cognitive-awareness visualization. Interactional studies classify asynchronous discourse patterns and analyze inquiry-based learning environments, emphasizing tools as part of functional systems. The editorial introduces "Squibs," fostering short, thought-provoking contributions, reflecting on theoretical and methodological evolutions in CSCL to further the field's growth.
+
+----------------------------------------------------------------------
+
+Year 2017  (Vol 12)
+Issues  : 4
+Titles  : Fostering targeted group practices as a  | Frameworks for mass collaboration, adapt | Divisive or facilitative: The two faces  | Future direction for the CSCL field: Met
+
+**Summary of ijCSCL Volume 12, Issue 1 (2017) – Fostering Targeted Group Practices as a Core Focus for CSCL Task and Technology Design:**
+
+The 2017 editorial for Volume 12, Issue 1 of the International Journal of Computer-Supported Collaborative Learning (ijCSCL) emphasizes reframing CSCL research around "group practices" rather than individual cognitions or cultural practices. This paradigm shift proposes that effective CSCL support derives from analyzing and facilitating group practice adoption by student teams through intentional task and technology design. The issue introduces a "squib"—an initiative to spark debate within the field. Articles featured encompass diverse learning contexts (from elementary education using touchscreens to interprofessional medical education with video debriefings), all underscoring specific collaborative interaction characteristics essential for productive outcomes. Theoretical advancements discussed include the "venue" in asynchronous collaborations and accommodating divergent learning pathways. Embodied interactions, such as gestures and movements, are highlighted as critical in understanding collaborative learning, demanding refined recording and analytic methodologies. The editorial concludes with a call to recognize collaboration-fostering as a key design priority in CSCL.
+
+**Summary of ijCSCL Volume 12, Issue 2 (2017): Frameworks for Mass Collaboration, Adaptable Scripts, Complex Systems Theory, and Collaborative Writing:**
+
+This issue explores evolving frameworks and methodological approaches within CSCL, including mass collaboration and script-based support. Introducing the AC framework, which differentiates attendance, coordination, cooperation, and collaboration, the issue challenges linear perspectives on interaction progression in massive collaborative environments. Additionally, complex systems theory is applied to understand dynamics within learning environments, underlining aspects like self-organization and emergence. Scripting research is advanced through findings on adaptable scripts enhancing self-regulation. A study on collaborative writing elucidates its non-linear phases, contributing to a deeper understanding of collaborative cognitive processes. Collectively, these papers advocate for more intricate models of collaboration that align with emerging educational technologies while continuing to address challenges in technological and pedagogical integration.
+
+**Summary of ijCSCL Volume 12, Issue 3 (2017): Divisive or Facilitative: The Two Faces of Technology in CSCL:**
+
+Volume 12, Issue 3 presents a nuanced take on technology's dual role in CSCL settings. Articles in this issue investigate how technology's design and student appropriation can create either obstacles or synergies in collaborative learning. Positionality theory and its impact on power dynamics in technology-mediated interactions are key focal points, revealing potential divisive effects. Script-based supports, including macro and micro scripts for scaffolding collaboration, are explored with attention to maintaining balance between guidance and independence through strategies like script fading. The issue emphasizes the necessity of deliberate design to harness technology's facilitative capabilities while addressing challenges like over-scripting and inequalities in learning environments.
+
+**Summary of ijCSCL Volume 12, Issue 4 (2017): Future Direction for the CSCL Field: Methodologies and Eight Controversies:**
+
+This issue anticipates the future trajectory of CSCL through a blend of pioneering methodologies and the articulation of eight critical controversies. Among the highlighted innovations is "interaction geography," which integrates physical and spatial analyses to reveal interaction patterns in environments like museums. Methodologies quantifying learning dialogues in informal settings and exploring social dynamics through self-efficacy studies in peer tutoring are also presented. The issue culminates with a provocatively framed dialogue addressing key debates within the field, such
+
+----------------------------------------------------------------------
+
+Year 2018  (Vol 13)
+Issues  : 4
+Titles  : Multiple forms of regulation and coordin | Different technologies, methodologies an | Forming social systems by coupling minds | Developing understanding beyond the give
+
+### Summary of 2018 Volume 13 of the International Journal of CSCL
+
+#### Issue 1: Multiple Forms of Regulation and Coordination Across Levels in Educational Settings
+
+The first issue of 2018 explores the differing impacts of contextual factors on collaborative processes, emphasizing regulation forms—self-regulation, co-regulation, and social regulation. It presents a paradox: while social interaction can facilitate shared understanding essential for collaboration, delineating conditions that reliably evoke productive interactions remains elusive. Theoretical advances include distinguishing regulatory levels beyond individuals and examining how digital infrastructures complexity classroom connections. Methodologically, multi-touch tables emerge as tools for enhancing collaboration by visualizing shared representations. The issue proposes a taxonomy to unify CSCL research approaches.
+
+#### Issue 2: Different Technologies, Methodologies, and Epistemologies—Is CSCL a Community or Communities?
+
+Issue 2 assesses the CSCL's coherence amidst diverse technologies, methodologies, and epistemologies. It acknowledges epistemological tensions between information processing approaches and dominant constructivist and socio-cultural theories. The studies explore emerging literacies like "locative literacy," engagement in location-based game design, orchestration in colaborative math learning, and a theoretical proposal of a "collaborative cognitive load theory," which contrasts prevailing approaches. The editorial underscores theoretical and methodological diversity's importance while questioning CSCL's scalability and unified identity.
+
+#### Issue 3: Forming Social Systems by Coupling Minds at Different Levels of Cognition
+
+Here, the focus shifts to how individual cognitive processes integrate to form social systems across cognitive levels: attention, core cognition, metacognition, and activities. Each paper leverages distinct approaches, like using mobile eye-tracking to analyze joint attention or comparing Wiki collaboration scripts. Crucially, this issue highlights scripts and visualizations as effective tools for mind-coupling and analytical purposes. The framework developed suggests that effective coupling requires tailored theoretical, tool, and analytical approaches per cognitive level.
+
+#### Issue 4: Developing Understanding Beyond Given Knowledge and New Methodologies for Analyses in CSCL
+
+The final 2018 issue highlights challenges of teaching beyond curricula using digital resources, necessitating innovative supports. Studies focus on real-time labs for interactive science learning and digital mapping tools for navigating complex information landscapes, stressing teacher adaptability and design-based research. Methodological innovations include epistemic network analysis (ENA) for temporal learning dynamics and big data methodologies grounded in robust theoretical frameworks like sociocognitive conflict. This issue calls for further development of frameworks, methodologies, and pedagogies to address CSCL's complexities in digital contexts.
+
+In sum, 2018's volume encapsulates CSCL's ongoing negotiation between theoretical, methodological, and practical innovation, positioning it as an evolving, multifaceted research field.
+
+----------------------------------------------------------------------
+
+Year 2019  (Vol 14)
+Issues  : 4
+Titles  : Highlighting tools and technologies for  | Investigating the complexity of computer | Real-time orchestrational technologies i | Reflections and looking ahead for CSCL: 
+
+## Summary of ijCSCL Volume 14, Issue 1 (2019): Highlighting Tools and Technologies for Collaborative Learning
+
+In 2019, the "International Journal of Computer-Supported Collaborative Learning" opened its volume with an exploration of how technologies can enhance collaborative learning. These tools and technologies were evaluated through two main lenses: as scaffolds fostering group reflection and as mediums for student expression and creativity. The editorial underscores the CSCL community's focus on educational and psychological approaches over technological ones, with only a minor fraction identifying primarily with Computer Science. The articles here explore the functions of technology beyond mere utility to facilitate nuanced collaborative processes.
+
+The first pair of articles evaluated scaffolding tools designed to enhance regulatory processes in collaborative contexts—particularly around cognitive and metacognitive tasks. One article highlighted the effects of group awareness tools in dyadic collaborations, while another examined assessment mechanisms in vocational settings that aim to develop collaborative skills beyond simple instruction.
+
+The subsequent articles depicted technology as a creative medium. Utilizing Instrumental Genesis, one article delved into the mediation of collaborative design practices by artifacts, while the last article explored how student-generated multimedia supports scientific reasoning and joint meaning-making through the lens of Conceptual Metaphor Theory.
+
+The editorial suggests that, while the theoretical aim within CSCL is to deepen understanding of human cognition and social processes, the technological contributions to the field should not remain a secondary concern. Highlighting this evolving dialogue, the editors stress the importance of viewing technological tools as integral components, rather than mere aids, within collaborative learning environments.
+
+## Summary of ijCSCL Volume 14, Issue 2 (2019): Investigating the Complexity of Computer-Supported Collaborative Learning in Action
+
+In its second issue of 2019, the journal spotlighted the growing complexity and realism in CSCL research methodologies and settings. The editorial underscores a maturation within the field from controlled experiments to studies reflecting authentic learning environments, thereby encompassing the broader social contexts in which collaborative learning occurs.
+
+The issue features contributions exploring how collaborative processes are shaped by specific design elements and contextual variables. The first article introduces a taxonomy to differentiate and create a systematic comparison of authentic learning environments. The second article introduces "socio-cognitive openness" to dissect knowledge-building discourses, revealing how varying openness levels impact contributions. The third article brings to light the under-examined domain of emotions in CSCL, specifically how they interact with digital media during discussions on controversial topics.
+
+Further responses to papers from previous issues propose novel theoretical angles: one suggests a micro-ecological approach while another advocates for increased learner agency in CSCL settings. Collectively, these contributions reinforce that the heart of CSCL research lies in understanding deep, contextually embedded processes where technology and human cognition intertwine, urging a move toward more complex, authentic engagement with collaborative practices.
+
+## Summary of ijCSCL Volume 14, Issue 3 (2019): Real-time Orchestrational Technologies in CSCL
+
+The special issue on real-time orchestrational technologies reflects the CSCL field's response to the challenges posed by large, diverse classrooms in need of effective management tools for open-ended inquiry learning. The editors emphasized the era's shift from static dashboards to dynamic, real-time systems that allow teachers to provide immediate guidance and enhance collaborative learning experiences.
+
+The issue showcases Multiple innovations, including real-time data methodologies that support teacher recognition of student needs, automatic generation of feedback through natural language processing, and novel configurations of intelligent tutoring systems to enhance collaboration. Studies also investigate the design and
+
+----------------------------------------------------------------------
+
+Year 2020  (Vol 15)
+Issues  : 4
+Titles  : Experiencing CSCL: from motivation to th | Advocating for group interaction in the  | Building community together: towards equ | The richness of CSCL environments
+
+**Summary of Editorials for 2020 (Vol 15) - International Journal of CSCL**
+
+**Issue 1: Experiencing CSCL: from motivation to the embodied experience and beyond**
+
+The first editorial of 2020 marks a leadership transition and proposes a future-oriented agenda for CSCL that incorporates emerging technologies, such as big data and real-time support systems, grounded in robust theoretical models. The issue's articles delve into past and future perspectives, including a meta-analysis challenging the idea that scripted collaboration undermines motivation, showing positive effects on learning and collaboration skills. Forward-looking articles explore embodiment in collaborative efforts, applying Activity Theory to embodied experiences, studying physiological synchrony, and analyzing spatial sensemaking in augmented reality. The editorial calls for integrating innovative technologies and methodologies across new learning contexts.
+
+**Issue 2: Advocating for group interaction in the age of COVID-19**
+
+Amid the global transition to online setups due to COVID-19, the second issue emphasizes the amplified importance of CSCL as a tool to enhance virtual teamwork and reduce isolation. The articles explore themes of regulation strategies, highlighting the role of homogeneity in problem perception within self-organized study groups. Methodological advances are made through design-centered research and Social Network Analysis, offering frameworks for scaling collaborative design and evaluation. The editorial concludes with a mandate for research focusing on post-pandemic education, emphasizing multidisciplinary approaches to maintain social connections in learning.
+
+**Issue 3: Building community together: towards equitable CSCL practices and processes**
+
+The third issue reflects on the challenges of 2020's global events, proposing CSCL practices that promote equity and community. The articles focus exclusively on qualitative methodologies, examining collaborative learning through diverse lenses. Methodological innovations include Interactional Ethnography and visualization techniques for understanding collaboration dynamics in makerspaces. Theoretical discussions highlight the essential role of facilitators alongside peer interactions. Equity concerns prompt scrutiny of biases in adaptive models and conversational agents. The editorial marks an open call for special issue proposals, seeking to expand innovative CSCL research themes.
+
+**Issue 4: The richness of CSCL environments**
+
+The final issue of 2020 showcases the complexity and richness of CSCL environments, exploring collaboration across various settings and with digital agents. Articles cover knowledge building via "super notes" in cross-classroom interactions, multimodal practices in makerspaces, and the Go-Lab community's model of knowledge appropriation. An experimental study examines support tools for learning dyads, finding that implicit gaze tracking outperforms explicit conversational prompts. The editorial emphasizes the diverse intersections of CSCL—from physical to digital, individual to collective interactions—while previewing the forthcoming International Handbook of CSCL, highlighting the field's trajectory towards consensus and innovation.
+
+----------------------------------------------------------------------
+
+Year 2021  (Vol 16)
+Issues  : 4
+Titles  : Exploring multilayered collaboration des | Forms of collaboration matters: CSCL acr | Socio-technical configurations for produ | A theory-driven reflection on context-aw
+
+# Summary of Volume 16 (2021) of the International Journal of CSCL
+
+## Issue 1: Exploring Multilayered Collaboration Designs
+
+This issue focuses on the complexities of multilayered approaches in designing collaborative learning. It highlights the integration of cognitive, motivational, and emotional components in collaborative learning environments, framing these within "layers" that include core interactions, regulation processes, and technological tools to support these dynamics. The editorial discusses structured scaffolding through collaboration scripts and orchestration, balancing free-form collaboration with structured supports. The featured studies examine socio-organizational layering across different social units and technological supports such as group awareness tools and adaptive prompts aimed at promoting regulation and effective collaboration.
+
+## Issue 2: Forms of Collaboration Matters: CSCL Across the Contexts
+
+Reflecting on the inadequacy of existing paradigms to meet remote learning requirements during the pandemic, this issue re-evaluates CSCL frameworks. It emphasizes networks as analytic and instructional constructs, focusing on their role in scientific collaboration and educational contexts. The articles analyze how social network dynamics, collaborative historical knowledge-building, the integration of group awareness tools, and teacher guidance impact collaboration. Additionally, there's a call for social sensitivity in CSCL, urging interdisciplinary approaches and emphasizing the need for equitable and effective collaboration.
+
+## Issue 3: Socio-Technical Configurations for Productive Talk
+
+This issue explores configurations that foster productive discussions, underscoring methodological sophistication in CSCL through a blend of quantitative and qualitative techniques, such as Epistemic Network Analysis. The studies highlight various CSCL pedagogical tools like dashboards for classroom orchestration, prompting in pair programming, large-scale museum-based collaborative question-crafting, and sustained classroom knowledge-building. These contributions illustrate the field's progress toward large-scale studies and theoretical model testing, emphasizing the methodological integration for enhancing productive talk and interaction.
+
+## Issue 4: A Theory-Driven Reflection on Context-Aware Support for Collaborative Discussions
+
+The final issue of the year offers a reflective overview, inspired by the challenges of understanding collaborative discourse affected by students' digital practices. It explores context-aware supports across large-scale, theoretical, and practical levels, utilizing advanced network analytics and multi-modal data analysis. The studies address device-to-student ratios affecting dynamics and develop collaborative programming environment platforms. The editorial advocates for nuanced methodological approaches to bridge small-scale insights with larger societal contexts, urging a synthesis of analyses across diverse timescales to understand broad collaborative discussions.
+
+Overall, 2021's volumes illustrate CSCL's evolution toward nuanced, theoretically integrated approaches, addressing methodological sophistication and its application to both educational and wider societal challenges.
+
+----------------------------------------------------------------------
+
+Year 2022  (Vol 17)
+Issues  : 4
+Titles  : Integrating collaboration scripts, group | Relations Matter – CSCL Research Informi | Supporting perspective taking across cha | Novel CSCL design processes prompted by 
+
+# Summary of IJCSCL Volume 17 (2022)
+
+## Issue 1: Integrating Collaboration Scripts, Group Awareness, and Self-Regulation
+
+This issue delves into the integration of group awareness, collaboration scripts, and self-regulation within CSCL, addressing previously isolated study of these constructs. Group awareness involves learners' social perceptiveness, collaboration scripts guide interaction, and self-regulation covers cognitive monitoring and adaptation. The editorial highlights the synergistic potential of these elements, hypothesizing roles such as awareness informing regulation and scripts scaffolding processes. Contributions include conceptual frameworks and empirical studies in diverse contexts like mathematical argumentation and problem-solving games, using mixed methods like qualitative coding and experimental comparison. The focus is on accurate measurement of group awareness to enhance collaborative learning.
+
+## Issue 2: Relations Matter – CSCL Research Informing and Developing CL Competencies
+
+Highlighted is the significance of interpersonal relations in CSCL, emphasizing shared mental models as vital for effective group collaboration. The issue's studies traverse contexts from problem-solving to long-term community knowledge building, employing methods like social network and epistemic network analysis. The findings underscore relational dynamics as central to both successful interventions and competency development in learners. A consistent thread links these relational inquiries to broader theoretical frameworks of collaboration scripts and regulation, aligning with a focus on designing environments that foster collaborative skills.
+
+## Issue 3: Supporting Perspective Taking Across Chasms of Thinking: Do Real-Time Analytics Hold the Key?
+
+This issue explores the use of real-time analytics in facilitating perspective-taking and growth across diverse collaborative learning contexts. Articles cover theoretical advancements in understanding growth, such as humanistic knowledge-building communities, and methodological innovations employing real-time awareness tools to amplify learner engagement. Tools like iTalk-iSee and Wikiglass are explored for their capacity to enhance dialogic learning and insight through visual analytics. The issue underscores assessment as both a measure and a catalyst for human growth, advocating for CSCL's broader societal impact.
+
+## Issue 4: Novel CSCL Design Processes Prompted by Exploration of Role-Playing and Emotions
+
+Focusing on role-playing and emotions within CSCL design, this issue connects traditional psychological concepts with new applications. Role-playing is proposed as a framework for structured collaboration, demonstrated through studies on "mere exposure prompts" and microteaching with tangible and digital tools. Emotion-focused articles examine expression and recognition in digital discourse, relating emotional dynamics to collaborative efficacy. Studies highlight technology's role in facilitating emotional engagement and perspective-taking, proposing these elements as pivotal to future CSCL innovation.
+
+Overall, Volume 17 of IJCSCL illustrates the field's advancement through integrating complex interpersonal constructs, leveraging methodological innovations, and exploring emotional and role-playing dynamics, thereby proposing pioneering avenues for CSCL research and practice.
+
+----------------------------------------------------------------------
+
+Year 2023  (Vol 18)
+Issues  : 4
+Titles  : Editorial: Nine elements for robust coll | Fostering collaborative and embodied lea | Enhancing student learning and achieveme | Reflecting on what counts as collaborati
+
+**Year 2023 (Vol 18) Summary:**
+
+**Issue 1: Collaborative Analytics and Learning**
+
+In 2023, the editorial insightfully explores the growing confluence of computer-supported collaborative learning (CSCL) and learning analytics (LA), advocating for a robust framework comprising nine elements essential for effective collaborative learning analytics. It highlights the importance of advancing beyond data analysis to utilize analytics proactively for improving learning outcomes. The editorial also underscores the need for careful mapping from data to conceptual constructs and emphasizes the significance of understanding both group-level and individual-level processes in learning. It calls for ethical considerations such as power dynamics within institutions and stresses on participatory design in analytics tools. Critiquing articles within this issue, the editors commend the incorporation of temporal dynamics and inter-party relations but note a gap in bridging theory with practical learning enhancement. A synergistic approach between CSCL and LA, with ethical and human-centered considerations, is encouraged.
+
+**Issue 2: Extended Reality and Embodied Learning**
+
+This issue delves into the promising integration of extended reality (XR) techniques with collaborative and embodied learning paradigms. XR technologies like augmented, virtual, and mixed reality offer novel, immersive opportunities for collaborative learning, yet challenge traditional support systems. Grounded in the theory of embodied cognition, XR environments are examined for their pedagogical value beyond novelty-driven engagement, encouraging body-based resource utilization through movement and gesture. This issue's studies explore diverse educational contexts such as VR for geometric reasoning and AR for place-based science learning. Two research frontiers are identified: the design of immersive learning experiences and the social-political dimensions of XR technology development, especially related to corporate influence and data collection ethics.
+
+**Issue 3: Orchestration of Group Learning**
+
+The editorial from this issue focuses on optimizing collaborative processes through the orchestration of group dynamics, highlighting innovations in feedback mechanisms and group composition. It includes pioneering research using MOOCs for collaborative interventions and emphasizes methodological diversity. Examining both structured and implicit scaffolding, the research presented covers wide-ranging feedback effects and group collaboration efficiencies, informed by ability-matching strategies. The editorial underscores the significance of refined research methodologies in facilitating cognitive scaffolding and enhancing learning outcomes.
+
+**Issue 4: Redefining Collaboration**
+
+Concluding the editorial team’s tenure, this issue reflects on the core questions of what fundamentally constitutes collaboration in the evolving CSCL landscape amid socio-technological shifts. It notes transformative themes including the rise of new technologies and modalities, the impact of societal changes such as calls for equity, and the potential of generative AI. The editors argue for theoretical robustness while integrating newer paradigms, particularly in AI, urging the community to lead AI development informed by human interaction insights rather than application through existing tools. Articles in this issue explore collaborative dynamics under various contexts, proposing a rediscovery of collaboration’s essential components in this era of change and enrichment.
+
+----------------------------------------------------------------------
+
+Year 2024  (Vol 19)
+Issues  : 4
+Titles  : CSCL has come of age | Editorial notes: on dialogues and sequen | CSCL: a learning and collaboration scien | Editorial Notes: Revitalising foundation
+
+### 2024 (Vol. 19) Summary
+
+**Issue 1: CSCL Has Come of Age**
+
+The first issue of 2024 marks a significant milestone for CSCL, establishing it as a "normal science" rather than an emerging paradigm. This maturation is reflected in the field's triadic object of study—collaboration, task, and technology—which has solidified yet continues to evolve. The editors highlight the broadening scopes of collaborative activities, once dominated by STEM, to include diverse, open-ended domains. Revolutionary advancements in technology facilitate this progression, offering tools like natural language processing to enable real-time analysis. The editorial advocates for design science research methodology, computational models, and knowledge brokering as pathways to connect theory and practice, encouraging further exploration into integrating technologies within collaborative processes.
+
+**Issue 2: On Dialogues and Sequences**
+
+This issue emphasizes the role of tool-mediated dialogue and temporal sequence analysis as pivotal themes in contemporary CSCL research. Highlighted is the process by which teachers interpret, or “notice,” student interactions, which provides not just observational but interpretive insights into learning processes. Sequential analysis, both qualitative-narrative and statistical, is explored for its ability to uncover interaction patterns over time. The editorial notes an expanded scope from student-only collaboration to consider broader social and educational contexts, incorporating teacher guidance and external dialogues.
+
+**Issue 3: CSCL: A Learning and Collaboration Science?**
+
+Amidst reflections from the 2024 conference, this issue broadens the conceptualization of collaboration and addresses theoretical fragmentation in CSCL. Notable transformations include the mainstream acceptance of collaborative pedagogies and expanded definitions of learning that include collective dynamics. A provocative proposition is made to redefine CSCL as "Computer Supported Collective Learning," with a potential realignment towards a "Collaboration Science." The editorial advocates for a unifying formal language, suggesting Bayesian frameworks to encapsulate diverse theoretical models, aiming to reconcile differing theoretical perspectives within CSCL.
+
+**Issue 4: Revitalising Foundational Concepts**
+
+The concluding issue of 2024 poses the question of CSCL's paradigm status by exploring whether core learning can be fully reduced to individual learnings or if technology fundamentally alters traditional paradigms. The issue's papers delve into emergent intersubjectivity, generative AI potential for dialogue skill development, and the instrumental genesis of everyday tools within learning contexts. It emphasizes creative dialogue and socially shared regulation, marking CSCL's potential to become an established discipline bridging diverse educational and technological frameworks. The editorial closes by calling for conceptual deepening and broader theoretical integration within CSCL research.
+
+----------------------------------------------------------------------
+
+Year 2025  (Vol 20)
+Issues  : 4
+Titles  : Editorial notes: Unity in diversity at t | Editorial notes: Core issues in CSCL res | Editorial notes: Extending perennial top | Editorial notes: Mechanisms as a unifyin
+
+### Summary of CSCL Volume 20 (2025)
+
+**Issue 1: Unity in Diversity at the CSCL Crossroads**
+
+The first issue of 2025 focuses on the ongoing debate regarding the identity of CSCL as a unified field versus an interdisciplinary crossroads, emphasizing its complex triadic nature encompassing collaboration, learning, and technology. The editors propose the idea of "family resemblances" to describe the field's diversity in approaches rather than seeking a unifying theory. Despite the absence of technology design focus, the papers in this issue center on sophisticated temporal analyses of collaborative interactions, highlighting the need for theories that explain transformational processes instead of just event sequences. The tension between scripted collaboration and learner autonomy is also a notable theme.
+
+**Issue 2: Core Issues in CSCL Research**
+
+The second issue tackles essential themes in CSCL, such as task design, dialogue, and technology mediation. Through comparative studies, it illuminates how task design influences cognitive and social engagement in collaboration. Situated cognition and cognitive load are underscored as critical considerations. The studies on dialogue explore how ideas are adopted and disagreements managed, contributing to understanding collaborative argumentation. The editorial highlights the persistent importance of shared meaning-making within the field, despite technological and societal changes.
+
+**Issue 3: Extending Perennial Topics in CSCL**
+
+The third issue delves into perennial topics such as reflection, dialogue visualization, virtual reality, and collaboration assessment. It highlights innovations like visual dialogic reflection tools for young learners and frameworks for immersive virtual reality learning environments. Dialogue analysis extends through concepts like "I-positions" for understanding discourse roles. Efforts are made towards achieving unified conceptual frameworks while acknowledging the value of diverse perspectives. The studies emphasize the role of mediation tools in shaping learning processes.
+
+**Issue 4: Mechanisms as a Unifying Construct for CSCL Research**
+
+The final issue of 2025 introduces mechanistic explanations as a potential unifying construct for CSCL research. The focus is on explaining how mechanisms at micro and macro levels contribute to collaboration outcomes, using stratification in learning tasks as an example. The editorial champions this approach for integrating cognitive and socio-cultural perspectives without enforcing a singular theoretical stance. The issue's articles provide insights into participation modeling, large-scale collaboration, algorithmic group formation, and age differences in collaborative contexts. It concludes with a strategic shift in the journal's scope to reinforce the significance of analyzing collaboration processes in concert with learning and technology.
+
+----------------------------------------------------------------------

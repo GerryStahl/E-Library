@@ -1,0 +1,1154 @@
+====================================================================================================
+ALL CHAPTERS WITH LENGTH METRICS
+Generated: 2026-02-14 16:09:25
+====================================================================================================
+
+Legend:
+  Pages: Estimated (2000 chars/page)
+  Words: Word count
+  Chars: Character count
+  Tokens: Qwen tokenizer count
+  ⚠️ = Exceeds 100K characters (needs chunking for Qwen)
+
+
+1.marx.pdf (12 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Chapter I. The Alternative of Marx and Heidegger
+       Page: 19
+       Pages: 22 | Words: 6,525 | Chars: 43,715 | Tokens: 9,296
+  2. Chapter II. Heidegger’s Critique of Marx
+       Page: 33
+       Pages: 21 | Words: 6,394 | Chars: 41,449 | Tokens: 9,505
+  3. Chapter III. A Marxist Critique of Heidegger
+       Page: 48
+       Pages: 11 | Words: 3,128 | Chars: 21,420 | Tokens: 4,728
+  4. Chapter IV. Anticipations: The Early Works
+       Page: 57
+       Pages: 23 | Words: 7,086 | Chars: 46,753 | Tokens: 9,789
+  5. Chapter V. Research: The Grundrisse
+       Page: 73
+       Pages: 48 | Words: 14,526 | Chars: 95,374 | Tokens: 19,965
+  6. Chapter VI. Presentation: Capital
+       Page: 105
+       Pages: 28 | Words: 8,891 | Chars: 55,951 | Tokens: 11,822
+  7. Transitional Remarks
+       Page: 125
+       Pages: 5 | Words: 1,422 | Chars: 9,427 | Tokens: 1,929
+  8. Chapter VII: The Work
+       Page: 129
+       Pages: 18 | Words: 5,893 | Chars: 35,242 | Tokens: 8,406
+  9. Chapter VIII: The Thing
+       Page: 143
+       Pages: 12 | Words: 4,099 | Chars: 24,565 | Tokens: 5,844
+  10. Chapter IX: Being-Itself
+       Page: 153
+       Pages: 23 | Words: 7,381 | Chars: 45,488 | Tokens: 10,783
+  11. Concluding Remarks
+       Page: 170
+       Pages: 2 | Words: 634 | Chars: 4,233 | Tokens: 873
+  12. EPILOGUE: THE WORKING OF SONIC BEING IN E-MUSIC
+       Page: 179
+       Pages: 31 | Words: 9,134 | Chars: 61,553 | Tokens: 14,231
+
+
+10.science.pdf (11 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Group Cognition as a Foundation for the New Science of Learning
+       Page: 15
+       Pages: 31 | Words: 9,202 | Chars: 61,961 | Tokens: 12,976
+  2. A View of ComputerSupported Collaborative Learning Research and its Lessons
+       Page: 38
+       Pages: 28 | Words: 8,268 | Chars: 56,989 | Tokens: 11,587
+  3. CSCL for the era of climate change
+       Page: 60
+       Pages: 18 | Words: 5,018 | Chars: 36,319 | Tokens: 8,439
+  4. How I View Learning and Thinking in CSCL Groups
+       Page: 75
+       Pages: 38 | Words: 11,949 | Chars: 75,521 | Tokens: 17,103
+  5. Theories of Group Cognition: Foundations for CSCL and CSCW
+       Page: 107
+       Pages: 28 | Words: 7,953 | Chars: 55,411 | Tokens: 11,983
+  6. How a Virtual Math Team Structured its Problem Solving
+       Page: 129
+       Pages: 26 | Words: 8,303 | Chars: 52,778 | Tokens: 13,502
+  7. Interaction Analysis of a Biology Chat
+       Page: 152
+       Pages: 33 | Words: 10,275 | Chars: 66,650 | Tokens: 16,537
+  8. Coding Scheme for Sequential Discourse
+       Page: 184
+       Pages: 3 | Words: 780 | Chars: 5,774 | Tokens: 1,732
+  9. Coordinating Collaborative Action in Online Math ProblemSolving
+       Page: 195
+       Pages: 18 | Words: 5,350 | Chars: 36,425 | Tokens: 9,764
+  10. Methodological issues in developing a multi-dimensional coding procedure for small group chat communication
+       Page: 211
+       Pages: 21 | Words: 6,177 | Chars: 41,796 | Tokens: 9,810
+  11. A Multi-Dimensional Coding Scheme for Mathematical Collaboration
+       Page: 230
+       Pages: 30 | Words: 9,892 | Chars: 60,161 | Tokens: 15,750
+
+
+11.theory.pdf (15 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Introduction to CSCL
+       Page: 14
+       Pages: 33 | Words: 9,402 | Chars: 66,687 | Tokens: 14,663
+  2. Theories of CSCL
+       Page: 37
+       Pages: 30 | Words: 8,203 | Chars: 60,538 | Tokens: 13,452
+  3. Analysis of CSCL
+       Page: 60
+       Pages: 28 | Words: 7,862 | Chars: 55,543 | Tokens: 12,763
+  4. Curriculum for CSCL
+       Page: 81
+       Pages: 23 | Words: 6,668 | Chars: 46,787 | Tokens: 10,499
+  5. Technological Artifacts
+       Page: 100
+       Pages: 31 | Words: 9,182 | Chars: 61,884 | Tokens: 14,242
+  6. Introducing Theoretical Investigations
+       Page: 123
+       Pages: 7 | Words: 1,995 | Chars: 14,411 | Tokens: 3,031
+  7. A Vision of Group Cognition
+       Page: 128
+       Pages: 46 | Words: 12,738 | Chars: 92,511 | Tokens: 19,990
+  8. The Theory of Group Cognition ⚠️ NEEDS CHUNKING
+       Page: 163
+       Pages: 74 | Words: 21,095 | Chars: 148,102 | Tokens: 32,144
+  9. A Post-cognitive Theoretical Paradigm
+       Page: 212
+       Pages: 42 | Words: 12,238 | Chars: 84,908 | Tokens: 19,403
+  10. Practices in Group Cognition
+       Page: 242
+       Pages: 27 | Words: 7,614 | Chars: 53,962 | Tokens: 12,627
+  11. Co-experiencing a Virtual World
+       Page: 265
+       Pages: 23 | Words: 7,124 | Chars: 46,565 | Tokens: 12,506
+  12. From Intersubjectivity to Group Cognition
+       Page: 284
+       Pages: 45 | Words: 13,377 | Chars: 90,337 | Tokens: 20,028
+  13. Constituting Group Cognition
+       Page: 315
+       Pages: 20 | Words: 5,855 | Chars: 39,154 | Tokens: 8,850
+  14. Sustaining Group Cognition
+       Page: 331
+       Pages: 43 | Words: 13,181 | Chars: 85,397 | Tokens: 20,042
+  15. Structuring Group Cognition
+       Page: 363
+       Pages: 42 | Words: 13,042 | Chars: 83,566 | Tokens: 19,611
+
+
+12.math.pdf (8 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Interactional Achievement of Shared Mathematical Understanding in a Virtual Math Team
+       Page: 10
+       Pages: 19 | Words: 5,726 | Chars: 38,574 | Tokens: 9,158
+  2. The Joint Organization of Interaction within a Multimodal CSCL Medium ⚠️ NEEDS CHUNKING
+       Page: 26
+       Pages: 64 | Words: 19,063 | Chars: 127,003 | Tokens: 29,187
+  3. The Integration of Mathematics Discourse, Graphical Reasoning and Symbolic Expression by a Virtual Math Team ⚠️ NEEDS CHUNKING
+       Page: 73
+       Pages: 61 | Words: 18,726 | Chars: 122,386 | Tokens: 31,907
+  4. “You can divide the thing into two parts”: Analyzing Referential, Mathematical and Technological Practice in the VMT Environment
+       Page: 125
+       Pages: 15 | Words: 4,551 | Chars: 29,107 | Tokens: 8,191
+  5. Repairing Indexicality in Virtual Math Teams
+       Page: 139
+       Pages: 17 | Words: 5,249 | Chars: 33,739 | Tokens: 10,736
+  6. Group Creativity in InterAction: Collaborative Referencing, Remembering and Bridging
+       Page: 153
+       Pages: 21 | Words: 6,458 | Chars: 42,068 | Tokens: 9,179
+  7. Polyphonic Support for Collaborative Learning
+       Page: 170
+       Pages: 11 | Words: 3,273 | Chars: 22,263 | Tokens: 5,145
+  8. Book review: Exploring thinking as communicating in CSCL
+       Page: 180
+       Pages: 15 | Words: 4,252 | Chars: 29,019 | Tokens: 6,324
+
+
+13.dynamic.pdf (10 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Multi-User GeoGebra for Virtual Math Teams
+       Page: 11
+       Pages: 13 | Words: 3,918 | Chars: 25,473 | Tokens: 5,540
+  2. Designing a Learning Environment to Promote Math Discourse
+       Page: 23
+       Pages: 11 | Words: 2,962 | Chars: 22,110 | Tokens: 4,984
+  3. Supporting Group Cognition, Individual Learning and Community Practices in Dynamic Geometry
+       Page: 35
+       Pages: 8 | Words: 2,267 | Chars: 16,638 | Tokens: 3,636
+  4. Evaluating Significant Math Discourse in a Learning Environment
+       Page: 42
+       Pages: 14 | Words: 3,721 | Chars: 27,142 | Tokens: 7,085
+  5. Tracing the Change in Discourse in a Collaborative Dynamic Geometry Environment: From Visual to More Mathematical
+       Page: 52
+       Pages: 45 | Words: 13,462 | Chars: 89,920 | Tokens: 22,190
+  6. Constructing Knowledge: A Community of Practice Framework for Evaluation in the VMT Project
+       Page: 92
+       Pages: 18 | Words: 5,348 | Chars: 35,945 | Tokens: 7,984
+  7. Dragging as a Referential Resource for Mathematical Meaning Making in a Collaborative DynamicGeometry Environment
+       Page: 107
+       Pages: 18 | Words: 5,546 | Chars: 36,377 | Tokens: 8,528
+  8. Collaborative Exploration of Geometric Dependencies in Dynamic Geometry
+       Page: 121
+       Pages: 5 | Words: 1,430 | Chars: 10,895 | Tokens: 2,522
+  9. Working Group: Developing Comprehensive Open-Source Geometry Curricula using GeoGebra
+       Page: 126
+       Pages: 5 | Words: 1,480 | Chars: 10,504 | Tokens: 2,280
+  10. CSCL for the Era of Climate Change
+       Page: 132
+       Pages: 33 | Words: 9,057 | Chars: 65,456 | Tokens: 14,640
+
+
+14.topics.pdf (4 chapters)
+----------------------------------------------------------------------------------------------------
+  1. The Construction Crew Game
+       Page: 12
+       Pages: 19 | Words: 6,070 | Chars: 37,776 | Tokens: 8,320
+  2. Explore Dynamic Geometry Together
+       Page: 62
+       Pages: 27 | Words: 8,907 | Chars: 53,879 | Tokens: 11,993
+  3. Topics in Dynamic Geometry for Virtual Math Teams ⚠️ NEEDS CHUNKING
+       Page: 111
+       Pages: 52 | Words: 16,930 | Chars: 103,699 | Tokens: 23,251
+  4. Dynamic-Geometry Activities with GeoGebra for Virtual Math Teams ⚠️ NEEDS CHUNKING
+       Page: 205
+       Pages: 97 | Words: 32,186 | Chars: 193,111 | Tokens: 44,090
+
+
+15.global.pdf (8 chapters)
+----------------------------------------------------------------------------------------------------
+  1. English third edition (2020)
+       Page: 8
+       Pages: 33 | Words: 9,400 | Chars: 66,812 | Tokens: 14,688
+  2. English original version (2006)
+       Page: 32
+       Pages: 27 | Words: 7,849 | Chars: 54,937 | Tokens: 11,249
+  3. Spanish Translation
+       Page: 51
+       Pages: 31 | Words: 8,805 | Chars: 61,107 | Tokens: 15,665
+  4. Portuguese Translation
+       Page: 72
+       Pages: 29 | Words: 8,234 | Chars: 58,127 | Tokens: 15,807
+  5. Simplified Chinese Translation
+       Page: 92
+       Pages: 10 | Words: 1,024 | Chars: 19,316 | Tokens: 10,709
+  6. Traditional Chinese Translation
+       Page: 112
+       Pages: 10 | Words: 1,183 | Chars: 20,187 | Tokens: 13,330
+  7. Romanian Translation
+       Page: 129
+       Pages: 30 | Words: 8,486 | Chars: 60,767 | Tokens: 20,605
+  8. German Translation
+       Page: 149
+       Pages: 32 | Words: 7,789 | Chars: 63,097 | Tokens: 17,928
+
+
+16.ijcscl.pdf (39 chapters)
+----------------------------------------------------------------------------------------------------
+  1. 1(1): ijCSCL – a journal for research in CSCL
+       Page: 43
+       Pages: 8 | Words: 2,209 | Chars: 15,153 | Tokens: 2,963
+  2. 1(2): Building knowledge in the classroom, building knowledge in the CSCL community
+       Page: 49
+       Pages: 5 | Words: 1,351 | Chars: 9,137 | Tokens: 1,904
+  3. 1(3): Focusing on participation in group meaning making
+       Page: 53
+       Pages: 3 | Words: 833 | Chars: 5,700 | Tokens: 1,218
+  4. 1(4): Social practices of computer-supported collaborative learning
+       Page: 56
+       Pages: 5 | Words: 1,335 | Chars: 9,271 | Tokens: 1,868
+  5. 2(1): Welcome to the future: ijCSCL volume 2
+       Page: 60
+       Pages: 8 | Words: 2,288 | Chars: 15,720 | Tokens: 3,582
+  6. 2(2&3): A double issue for CSCL 2007
+       Page: 66
+       Pages: 9 | Words: 2,433 | Chars: 17,018 | Tokens: 3,438
+  7. 2(4): CSCL and its flash themes
+       Page: 72
+       Pages: 7 | Words: 2,167 | Chars: 13,513 | Tokens: 3,023
+  8. 3(1): The many levels of CSCL
+       Page: 77
+       Pages: 6 | Words: 1,834 | Chars: 12,420 | Tokens: 2,759
+  9. 3(2): The strength of the lone wolf
+       Page: 82
+       Pages: 8 | Words: 2,155 | Chars: 15,658 | Tokens: 3,683
+  10. 3(3): Explorations of participation in discourse
+       Page: 88
+       Pages: 3 | Words: 811 | Chars: 5,699 | Tokens: 1,188
+  11. 3(4): CSCL practices
+       Page: 91
+       Pages: 6 | Words: 1,574 | Chars: 11,013 | Tokens: 2,280
+  12. 4(1): Yes we can!
+       Page: 95
+       Pages: 7 | Words: 1,949 | Chars: 13,385 | Tokens: 2,624
+  13. 4(2): Practice perspectives in CSCL
+       Page: 100
+       Pages: 9 | Words: 2,690 | Chars: 18,707 | Tokens: 4,378
+  14. 4(3): Classical dialogs in CSCL
+       Page: 107
+       Pages: 7 | Words: 1,939 | Chars: 13,975 | Tokens: 3,376
+  15. 4(4): Paradigms of shared knowledge
+       Page: 113
+       Pages: 8 | Words: 2,130 | Chars: 15,190 | Tokens: 3,365
+  16. 5(1): The CSCL field matures
+       Page: 119
+       Pages: 4 | Words: 1,153 | Chars: 7,654 | Tokens: 1,594
+  17. 5(2): A prism of CSCL research
+       Page: 122
+       Pages: 5 | Words: 1,317 | Chars: 9,107 | Tokens: 1,786
+  18. 5(3): Guiding group cognition in CSCL
+       Page: 126
+       Pages: 5 | Words: 1,451 | Chars: 9,951 | Tokens: 1,969
+  19. 5(4): Beyond folk theories of CSCL
+       Page: 130
+       Pages: 7 | Words: 2,016 | Chars: 14,253 | Tokens: 3,181
+  20. 6(1): CSCL in Asia
+       Page: 136
+       Pages: 12 | Words: 3,184 | Chars: 23,579 | Tokens: 6,175
+  21. 6(2): Let a hundred flowers bloom; let a hundred schools of thought contend
+       Page: 145
+       Pages: 12 | Words: 3,336 | Chars: 23,827 | Tokens: 5,496
+  22. 6(3): Tweets from #cscl2011
+       Page: 154
+       Pages: 9 | Words: 2,391 | Chars: 17,140 | Tokens: 3,862
+  23. 6(4): Collaborating around the tabletop
+       Page: 160
+       Pages: 11 | Words: 3,067 | Chars: 21,148 | Tokens: 4,924
+  24. 7(1): Ethnomethodologically informed
+       Page: 168
+       Pages: 18 | Words: 5,218 | Chars: 35,853 | Tokens: 7,875
+  25. 7(2): Cognizing mediating: Unpacking the entanglement of artifacts with collective minds
+       Page: 181
+       Pages: 10 | Words: 2,759 | Chars: 20,097 | Tokens: 4,718
+  26. 7(3): An international research community
+       Page: 189
+       Pages: 8 | Words: 2,075 | Chars: 15,191 | Tokens: 3,959
+  27. 7(4): Traversing planes of learning
+       Page: 195
+       Pages: 11 | Words: 3,250 | Chars: 22,951 | Tokens: 5,447
+  28. 8(1): Learning across levels
+       Page: 205
+       Pages: 23 | Words: 6,556 | Chars: 46,400 | Tokens: 10,682
+  29. 8(2): Transactive discourse in CSCL
+       Page: 223
+       Pages: 5 | Words: 1,522 | Chars: 9,990 | Tokens: 2,064
+  30. 8(3): Collaborative learning at CSCL 2013
+       Page: 227
+       Pages: 5 | Words: 1,391 | Chars: 9,486 | Tokens: 1,910
+  31. 8(4): Reigniting CSCL flash themes
+       Page: 231
+       Pages: 11 | Words: 3,078 | Chars: 22,077 | Tokens: 5,515
+  32. 9(1): Analyzing the multidimensional construction of knowledge in diverse contexts
+       Page: 239
+       Pages: 10 | Words: 2,842 | Chars: 20,519 | Tokens: 4,541
+  33. 9(2): Dialogic foundations of CSCL
+       Page: 247
+       Pages: 18 | Words: 4,927 | Chars: 35,214 | Tokens: 8,079
+  34. 9(3): CSCL artifacts
+       Page: 260
+       Pages: 16 | Words: 4,536 | Chars: 31,111 | Tokens: 7,101
+  35. 9(4): Analyzing roles of individuals in small-group collaboration processes
+       Page: 272
+       Pages: 11 | Words: 3,237 | Chars: 22,748 | Tokens: 5,359
+  36. 10(1): From the editors: Collaboration and the formation of new knowledge artifacts
+       Page: 281
+       Pages: 11 | Words: 3,122 | Chars: 22,664 | Tokens: 5,109
+  37. 10(2): The core features of CSCL: Social situation, collaborative knowledge processes and their design
+       Page: 290
+       Pages: 14 | Words: 4,081 | Chars: 28,920 | Tokens: 6,855
+  38. 10(3): Conceptualizing the intersubjective group
+       Page: 302
+       Pages: 17 | Words: 4,859 | Chars: 34,525 | Tokens: 8,167
+  39. 10(4): A decade of CSCL
+       Page: 315
+       Pages: 16 | Words: 4,245 | Chars: 31,400 | Tokens: 7,993
+
+
+17.proposals.pdf (20 chapters)
+----------------------------------------------------------------------------------------------------
+  3. Restoration of the Founding Homestead of Chatham
+       Page: 19
+       Pages: 9 | Words: 2,672 | Chars: 17,650 | Tokens: 3,897
+  4. Frost Fish Creek Salt Marsh Preservation
+       Page: 28
+       Pages: 12 | Words: 3,519 | Chars: 23,204 | Tokens: 5,214
+  5. Frost Fish Creek Restoration Project Application to DER Priority Projects
+       Page: 42
+       Pages: 29 | Words: 8,830 | Chars: 58,495 | Tokens: 13,622
+  6. DR K-12: Computer-Supported Math Discourse Among Teachers and Students
+       Page: 75
+       Pages: 46 | Words: 12,728 | Chars: 92,403 | Tokens: 21,502
+  7. ONR: Theories and Models of Group Cognition
+       Page: 110
+       Pages: 43 | Words: 12,151 | Chars: 85,257 | Tokens: 20,274
+  8. ALT: Dynamic Support for Virtual Math Teams
+       Page: 142
+       Pages: 43 | Words: 12,647 | Chars: 86,492 | Tokens: 19,823
+  9. SLC: Engaged Learning in Online Communities
+       Page: 174
+       Pages: 40 | Words: 11,441 | Chars: 80,361 | Tokens: 19,239
+  10. ITR: Catalyzing & Nurturing Online Workgroups to Power Virtual Learning Communities
+       Page: 204
+       Pages: 42 | Words: 11,780 | Chars: 83,835 | Tokens: 19,508
+  11. NSDL: Collaboration Services for the Math Forum Digital Library
+       Page: 236
+       Pages: 47 | Words: 13,159 | Chars: 93,075 | Tokens: 21,869
+  12. Foundations: Educational Online Communities for At-Risk Youth
+       Page: 272
+       Pages: 6 | Words: 1,764 | Chars: 12,456 | Tokens: 2,498
+  13. New Media to Support Collaborative Knowledge Building: Beyond Consumption and Chat
+       Page: 279
+       Pages: 8 | Words: 2,128 | Chars: 15,776 | Tokens: 3,467
+  14. Interoperability among Knowledge-Building Environments
+       Page: 285
+       Pages: 4 | Words: 1,160 | Chars: 8,460 | Tokens: 1,864
+  15. Conceptual Frameworks and Computational Support for Organizational Memories and Organizational Learning
+       Page: 289
+       Pages: 43 | Words: 12,013 | Chars: 85,352 | Tokens: 19,961
+  16. Allowing Learners to be Articulate: Incorporating Automated Text Evaluation into Collaborative Software Environments
+       Page: 324
+       Pages: 29 | Words: 8,617 | Chars: 57,915 | Tokens: 11,900
+  17. Collaborative Research on KnowledgeBuilding Environments: Growing a National and International Research Community for Distance Learning Information Technology
+       Page: 348
+       Pages: 12 | Words: 3,286 | Chars: 24,053 | Tokens: 5,385
+  18. Models for Organizing Collaboration: Ways of Supporting Distributed Learning
+       Page: 359
+       Pages: 5 | Words: 1,491 | Chars: 10,422 | Tokens: 1,971
+  19. POW! (Perspectives On the Web)
+       Page: 364
+       Pages: 11 | Words: 2,874 | Chars: 21,496 | Tokens: 4,828
+  20. The Research CyberStudio: Supporting Researchers as LifeLong Learners
+       Page: 374
+       Pages: 10 | Words: 2,845 | Chars: 20,588 | Tokens: 4,247
+
+
+18.overview.pdf (21 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Part I: Introduction to My Life and Writings
+       Page: 6
+       Pages: 1 | Words: 273 | Chars: 1,839 | Tokens: 388
+  2. Intro to My Life
+       Page: 7
+       Pages: 4 | Words: 1,264 | Chars: 8,540 | Tokens: 1,916
+  3. Intro to My Research & Writings
+       Page: 11
+       Pages: 5 | Words: 1,551 | Chars: 10,438 | Tokens: 2,126
+  5. Catch.Up.Me (2009)
+       Page: 16
+       Pages: 11 | Words: 3,565 | Chars: 21,874 | Tokens: 4,910
+  6. Union Organizing at Temple (1975-1977)
+       Page: 34
+       Pages: 4 | Words: 1,109 | Chars: 7,138 | Tokens: 1,535
+  7. Community Development in Philadelphia (1978-1985)
+       Page: 37
+       Pages: 3 | Words: 771 | Chars: 5,375 | Tokens: 1,440
+  8. Rehabbing My First House (1980-1989)
+       Page: 40
+       Pages: 2 | Words: 543 | Chars: 3,262 | Tokens: 764
+  9. A Career in Informatics (2009)
+       Page: 42
+       Pages: 9 | Words: 2,697 | Chars: 17,333 | Tokens: 3,754
+  11. Retirement Activities in Chatham (2014-2021)
+       Page: 57
+       Pages: 17 | Words: 5,514 | Chars: 34,651 | Tokens: 8,861
+  12. My Timeline
+       Page: 82
+       Pages: 7 | Words: 2,047 | Chars: 14,924 | Tokens: 4,351
+  13. Homes Where I Have Lived
+       Page: 98
+       Pages: 1 | Words: 273 | Chars: 2,004 | Tokens: 697
+  14. Travels Abroad
+       Page: 101
+       Pages: 2 | Words: 496 | Chars: 3,551 | Tokens: 1,322
+  15. Academic Conferences and Presentations
+       Page: 104
+       Pages: 2 | Words: 413 | Chars: 3,002 | Tokens: 1,326
+  17. E-Library Volumes
+       Page: 111
+       Pages: 36 | Words: 8,682 | Chars: 72,591 | Tokens: 26,107
+  18. Chronological Listing of Essays with Volume and Chapter
+       Page: 141
+       Pages: 13 | Words: 4,137 | Chars: 26,316 | Tokens: 9,671
+  19. Summaries of the Volumes
+       Page: 153
+       Pages: 12 | Words: 3,404 | Chars: 23,730 | Tokens: 5,103
+  20. Reflections on the Volumes
+       Page: 164
+       Pages: 50 | Words: 14,934 | Chars: 99,795 | Tokens: 21,128
+  21. Part V. Detailed CV ⚠️ NEEDS CHUNKING
+       Page: 199
+       Pages: 74 | Words: 16,908 | Chars: 147,505 | Tokens: 46,357
+
+
+19.investigations.pdf (17 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Forward
+       Page: 6
+       Pages: 3 | Words: 971 | Chars: 6,579 | Tokens: 1,443
+  2. Introducing Theoretical Investigations
+       Page: 12
+       Pages: 9 | Words: 2,655 | Chars: 18,927 | Tokens: 3,981
+  3. Investigation 1. Advancing a CSCL Vision
+       Page: 20
+       Pages: 48 | Words: 13,441 | Chars: 96,736 | Tokens: 20,113
+  4. Investigation 2. A Theory of Group Cognition in CSCL ⚠️ NEEDS CHUNKING
+       Page: 56
+       Pages: 73 | Words: 20,789 | Chars: 146,904 | Tokens: 32,018
+  7. Investigation 15. A Paradigmatic Unit of Analysis
+       Page: 123
+       Pages: 42 | Words: 12,131 | Chars: 84,920 | Tokens: 19,448
+  8. Investigation 16. Adopting Group Practices
+       Page: 155
+       Pages: 27 | Words: 7,545 | Chars: 54,022 | Tokens: 12,760
+  9. Investigation 17. Co-experiencing a Shared World
+       Page: 180
+       Pages: 33 | Words: 10,092 | Chars: 66,650 | Tokens: 23,379
+  10. Investigation 18. From Intersubjectivity to Group Cognition
+       Page: 207
+       Pages: 45 | Words: 13,214 | Chars: 89,768 | Tokens: 19,915
+  11. Investigation 19. The Constitution of Group Cognition
+       Page: 240
+       Pages: 20 | Words: 5,807 | Chars: 39,095 | Tokens: 8,824
+  12. Investigation 20. Theories of Shared Understanding
+       Page: 256
+       Pages: 27 | Words: 7,822 | Chars: 53,806 | Tokens: 12,138
+  13. Investigation 21. Academically Productive Interaction
+       Page: 276
+       Pages: 19 | Words: 5,358 | Chars: 37,418 | Tokens: 9,053
+  14. Investigation 22. Supporting Group Cognition with a Cognitive Tool
+       Page: 294
+       Pages: 28 | Words: 8,293 | Chars: 55,301 | Tokens: 12,142
+  15. Investigation 23. Sustaining Interaction in a CSCL Environment
+       Page: 315
+       Pages: 42 | Words: 12,985 | Chars: 84,522 | Tokens: 19,853
+  16. Investigation 24. Viewing Learning and Thinking in Groups
+       Page: 348
+       Pages: 42 | Words: 12,981 | Chars: 83,505 | Tokens: 19,547
+  17. Investigation 25. Structuring Problem Solving
+       Page: 384
+       Pages: 36 | Words: 11,646 | Chars: 72,690 | Tokens: 22,079
+
+
+2.tacit.pdf (14 chapters)
+----------------------------------------------------------------------------------------------------
+  1. A few words from the author’s perspective may help to orient the reader for the task of interpreting the discussions that follow.
+       Page: 16
+       Pages: 7 | Words: 1,949 | Chars: 13,387 | Tokens: 2,552
+  2. CHAPTER 1. OVERVIEW
+       Page: 21
+       Pages: 49 | Words: 13,819 | Chars: 97,416 | Tokens: 18,947
+  3. Part I. Interpretation in Design
+       Page: 57
+       Pages: 1 | Words: 350 | Chars: 2,326 | Tokens: 483
+  4. CHAPTER 2. THREE METHODOLOGIES OF DESIGN
+       Page: 59
+       Pages: 32 | Words: 9,713 | Chars: 64,986 | Tokens: 13,194
+  5. CHAPTER 3. INTERPRETATION IN LUNAR HABITAT DESIGN
+       Page: 82
+       Pages: 40 | Words: 12,478 | Chars: 80,043 | Tokens: 16,844
+  6. CHAPTER 4. HEIDEGGER’S PHILOSOPHY OF INTERPRETATION
+       Page: 112
+       Pages: 45 | Words: 13,672 | Chars: 89,785 | Tokens: 18,830
+  7. CHAPTER 5. GROUNDING EXPLICIT DESIGN KNOWLEDGE
+       Page: 146
+       Pages: 31 | Words: 9,000 | Chars: 62,371 | Tokens: 12,513
+  8. CHAPTER 6. A THEORY OF COMPUTER SUPPORT
+       Page: 169
+       Pages: 17 | Words: 4,996 | Chars: 34,682 | Tokens: 6,771
+  9. CHAPTER 7. RELATED COMPUTER SYSTEMS FOR DESIGN
+       Page: 183
+       Pages: 44 | Words: 12,829 | Chars: 87,238 | Tokens: 17,722
+  10. Part III. Computer Support of Cooperative Design
+       Page: 215
+       Pages: 2 | Words: 448 | Chars: 3,297 | Tokens: 623
+  11. CHAPTER 8. REPRESENTING THE DESIGN SITUATION
+       Page: 217
+       Pages: 24 | Words: 7,065 | Chars: 47,182 | Tokens: 9,557
+  12. CHAPTER 9. INTERPRETIVE PERSPECTIVES FOR COLLABORATION
+       Page: 235
+       Pages: 29 | Words: 8,915 | Chars: 58,332 | Tokens: 12,506
+  13. CHAPTER 10. A LANGUAGE FOR SUPPORTING INTERPRETATION
+       Page: 264
+       Pages: 46 | Words: 13,937 | Chars: 91,855 | Tokens: 18,687
+  14. CHAPTER 11. CONTRIBUTIONS
+       Page: 302
+       Pages: 9 | Words: 2,560 | Chars: 17,642 | Tokens: 3,510
+
+
+20.form.pdf (7 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Sculpture: 3-D Form from Wood
+       Page: 18
+       Pages: 6 | Words: 1,986 | Chars: 12,822 | Tokens: 3,797
+  2. Ceramics: 3-D Form from Clay
+       Page: 69
+       Pages: 17 | Words: 5,404 | Chars: 33,471 | Tokens: 8,812
+  3. Architecture: 3-D Form for Living
+       Page: 166
+       Pages: 3 | Words: 901 | Chars: 6,329 | Tokens: 2,144
+  4. Reflections: Philosophy of 3-D Form
+       Page: 199
+       Pages: 32 | Words: 10,203 | Chars: 64,535 | Tokens: 14,093
+  5. Space: Opening Up 3-D Form
+       Page: 231
+       Pages: 4 | Words: 1,331 | Chars: 8,179 | Tokens: 1,987
+  6. Practice: Sculpting 3-D Form in Wood
+       Page: 253
+       Pages: 17 | Words: 5,664 | Chars: 33,722 | Tokens: 7,812
+  7. Catalog: Chronology of Works in 3-D Form
+       Page: 290
+       Pages: 21 | Words: 6,290 | Chars: 42,650 | Tokens: 15,987
+
+
+21.game.pdf (11 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Welcome
+       Page: 5
+       Pages: 1 | Words: 267 | Chars: 1,949 | Tokens: 424
+  2. Intro for Adventurous Students
+       Page: 11
+       Pages: 1 | Words: 467 | Chars: 2,838 | Tokens: 558
+  3. Intro for Parents and Teachers
+       Page: 12
+       Pages: 2 | Words: 648 | Chars: 4,232 | Tokens: 915
+  4. Game Part A
+       Page: 15
+       Pages: 4 | Words: 1,296 | Chars: 7,602 | Tokens: 1,690
+  5. Game Part B
+       Page: 27
+       Pages: 4 | Words: 1,512 | Chars: 8,683 | Tokens: 2,007
+  6. Game Part C
+       Page: 39
+       Pages: 4 | Words: 1,288 | Chars: 7,803 | Tokens: 1,815
+  7. Game Part D
+       Page: 49
+       Pages: 3 | Words: 1,062 | Chars: 6,550 | Tokens: 1,422
+  8. Game Part E
+       Page: 60
+       Pages: 3 | Words: 1,116 | Chars: 6,631 | Tokens: 1,512
+  9. Extra Bonus Dynamic Geometry
+       Page: 72
+       Pages: 19 | Words: 6,134 | Chars: 37,438 | Tokens: 8,295
+  10. Redesigning Mathematical Curriculum for Blended Learning
+       Page: 101
+       Pages: 23 | Words: 6,620 | Chars: 46,321 | Tokens: 10,373
+  11. Mathematical Group Cognition in the Anthropocene
+       Page: 121
+       Pages: 25 | Words: 6,962 | Chars: 50,036 | Tokens: 10,529
+
+
+22.climate.pdf (12 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Introduction: Studying Climate Locally
+       Page: 5
+       Pages: 3 | Words: 968 | Chars: 6,218 | Tokens: 1,329
+  2. Climate Change and the Marshes of  South and West Chatham
+       Page: 11
+       Pages: 20 | Words: 6,397 | Chars: 40,764 | Tokens: 9,351
+  3. Views of Chatham Neighborhoods
+       Page: 36
+       Pages: 5 | Words: 1,710 | Chars: 10,843 | Tokens: 2,473
+  4. Frost Fish Creek: A Salt Marsh of Chatham
+       Page: 52
+       Pages: 1 | Words: 424 | Chars: 2,827 | Tokens: 624
+  5. The Wonder of Chatham’s Salt Marshes
+       Page: 54
+       Pages: 5 | Words: 1,735 | Chars: 10,421 | Tokens: 3,344
+  6. Hydrology Study of Frost Fish Creek
+       Page: 60
+       Pages: 11 | Words: 3,468 | Chars: 22,703 | Tokens: 5,141
+  7. Priority Project for Frost Fish Creek
+       Page: 72
+       Pages: 22 | Words: 6,808 | Chars: 44,370 | Tokens: 10,273
+  8. Videos of Frost Fish Creek & Cockle Cove
+       Page: 89
+       Pages: 4 | Words: 1,112 | Chars: 7,209 | Tokens: 1,707
+  9. Early Study of Bucks Creek / Cockle Cove
+       Page: 97
+       Pages: 6 | Words: 1,819 | Chars: 11,888 | Tokens: 2,621
+  10. Study of Four Marshes
+       Page: 102
+       Pages: 12 | Words: 3,447 | Chars: 23,570 | Tokens: 5,648
+  11. Study of Nine Marshes
+       Page: 115
+       Pages: 9 | Words: 2,684 | Chars: 18,045 | Tokens: 4,124
+  12. For Further Information
+       Page: 124
+       Pages: 2 | Words: 371 | Chars: 3,321 | Tokens: 872
+
+
+3.gc.pdf (25 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Essays on Technology, Interaction and Cognition
+       Page: 8
+       Pages: 29 | Words: 8,598 | Chars: 58,130 | Tokens: 11,608
+  2. Introduction to Part I: Studies of Technology Design
+       Page: 29
+       Pages: 7 | Words: 1,997 | Chars: 13,592 | Tokens: 2,729
+  3. Share Globally, Adapt Locally
+       Page: 34
+       Pages: 19 | Words: 5,737 | Chars: 37,909 | Tokens: 7,567
+  4. Evolving a Learning Environment
+       Page: 51
+       Pages: 25 | Words: 7,958 | Chars: 50,112 | Tokens: 10,175
+  5. Armchair Missions to Mars
+       Page: 71
+       Pages: 20 | Words: 6,333 | Chars: 39,496 | Tokens: 8,460
+  6. Supporting Situated Interpretation
+       Page: 86
+       Pages: 14 | Words: 4,004 | Chars: 27,977 | Tokens: 5,489
+  7. Collaboration Technology for Communities
+       Page: 97
+       Pages: 31 | Words: 9,088 | Chars: 61,484 | Tokens: 12,701
+  8. Perspectives on Collaborative Learning
+       Page: 124
+       Pages: 43 | Words: 13,401 | Chars: 86,915 | Tokens: 18,204
+  9. Groupware Goes to School
+       Page: 159
+       Pages: 28 | Words: 8,693 | Chars: 56,841 | Tokens: 11,819
+  10. Knowledge Negotiation Online
+       Page: 182
+       Pages: 17 | Words: 5,164 | Chars: 34,835 | Tokens: 7,150
+  11. Introduction to Part II: Studies of Interaction Analysis
+       Page: 197
+       Pages: 11 | Words: 3,261 | Chars: 21,606 | Tokens: 4,318
+  12. A Model of Collaborative Knowledge Building
+       Page: 205
+       Pages: 15 | Words: 4,147 | Chars: 29,239 | Tokens: 6,183
+  13. Rediscovering the Collaboration
+       Page: 217
+       Pages: 18 | Words: 5,363 | Chars: 35,897 | Tokens: 7,244
+  14. Contributions to a Theory of Collaboration
+       Page: 230
+       Pages: 24 | Words: 7,084 | Chars: 48,365 | Tokens: 9,998
+  15. In a Moment of Collaboration
+       Page: 248
+       Pages: 16 | Words: 4,920 | Chars: 31,159 | Tokens: 7,033
+  16. Collaborating with Relational References
+       Page: 261
+       Pages: 23 | Words: 7,326 | Chars: 45,516 | Tokens: 9,945
+  17. Introduction to Part III: Studies of Collaboration Theory
+       Page: 279
+       Pages: 9 | Words: 2,680 | Chars: 17,323 | Tokens: 3,698
+  18. Communicating with Technology
+       Page: 286
+       Pages: 21 | Words: 6,081 | Chars: 42,128 | Tokens: 8,082
+  19. Building Collaborative Knowing
+       Page: 302
+       Pages: 38 | Words: 11,433 | Chars: 76,103 | Tokens: 16,765
+  20. Group Meaning / Individual Interpretation
+       Page: 332
+       Pages: 23 | Words: 6,995 | Chars: 46,686 | Tokens: 9,693
+  21. Shared Meaning, Common Ground, Group Cognition
+       Page: 348
+       Pages: 20 | Words: 5,914 | Chars: 39,551 | Tokens: 8,243
+  22. Making Group Cognition Visible
+       Page: 362
+       Pages: 36 | Words: 10,819 | Chars: 72,372 | Tokens: 14,776
+  23. Can Collaborative Groups Think?
+       Page: 386
+       Pages: 33 | Words: 10,137 | Chars: 65,620 | Tokens: 13,773
+  24. Opening New Worlds for Collaboration
+       Page: 410
+       Pages: 29 | Words: 8,763 | Chars: 57,465 | Tokens: 12,318
+  25. Thinking at the SmallGroup Unit of Analysis ⚠️ NEEDS CHUNKING
+       Page: 431
+       Pages: 54 | Words: 16,837 | Chars: 108,475 | Tokens: 23,397
+
+
+4.svmt.pdf (35 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Introduction to Part I
+       Page: 24
+       Pages: 6 | Words: 1,729 | Chars: 11,562 | Tokens: 2,290
+  2. A Chat about Chat
+       Page: 29
+       Pages: 14 | Words: 4,371 | Chars: 28,950 | Tokens: 5,678
+  3. The VMT Vision
+       Page: 40
+       Pages: 17 | Words: 5,259 | Chars: 34,309 | Tokens: 6,924
+  4. Mathematical Discourse as Group Cognition
+       Page: 56
+       Pages: 14 | Words: 4,163 | Chars: 28,162 | Tokens: 5,899
+  5. Interactional Methods and Social Practices in VMT
+       Page: 67
+       Pages: 23 | Words: 7,063 | Chars: 45,515 | Tokens: 9,887
+  6. From Individual Representations to Group Cognition
+       Page: 85
+       Pages: 26 | Words: 8,080 | Chars: 51,183 | Tokens: 12,193
+  7. Introduction to Part II
+       Page: 105
+       Pages: 8 | Words: 2,537 | Chars: 16,639 | Tokens: 3,389
+  8. The Sequential Co-construction of the Joint Problem Space
+       Page: 111
+       Pages: 23 | Words: 6,860 | Chars: 45,788 | Tokens: 10,196
+  9. The Organization of Graphical, Narrative and Symbolic Interactions ⚠️ NEEDS CHUNKING
+       Page: 128
+       Pages: 63 | Words: 19,299 | Chars: 126,828 | Tokens: 27,667
+  10. Question Co-Construction in VMT Chats
+       Page: 175
+       Pages: 28 | Words: 8,971 | Chars: 56,223 | Tokens: 12,707
+  11. Resolving Differences of Perspective in a VMT Session
+       Page: 196
+       Pages: 25 | Words: 8,015 | Chars: 50,939 | Tokens: 11,855
+  12. Introduction to Part III
+       Page: 218
+       Pages: 4 | Words: 1,259 | Chars: 8,686 | Tokens: 1,727
+  13. Representational practices in VMT
+       Page: 221
+       Pages: 24 | Words: 7,031 | Chars: 47,508 | Tokens: 12,934
+  14. Student and Team Agency in VMT
+       Page: 244
+       Pages: 28 | Words: 8,757 | Chars: 56,148 | Tokens: 13,467
+  15. Group Creativity in VMT
+       Page: 263
+       Pages: 16 | Words: 4,779 | Chars: 31,936 | Tokens: 6,756
+  16. Inscriptions, Mathematical Ideas and Reasoning in VMT
+       Page: 277
+       Pages: 34 | Words: 10,095 | Chars: 67,100 | Tokens: 14,625
+  17. Reading’s work in VMT
+       Page: 302
+       Pages: 24 | Words: 7,343 | Chars: 47,909 | Tokens: 10,376
+  18. Introduction to Part IV
+       Page: 323
+       Pages: 3 | Words: 764 | Chars: 5,120 | Tokens: 1,051
+  19. The Integration of Dual-interaction Spaces
+       Page: 325
+       Pages: 16 | Words: 4,799 | Chars: 31,851 | Tokens: 7,211
+  20. Designing a Mix of Synchronous and Asynchronous Media for VMT
+       Page: 340
+       Pages: 20 | Words: 6,066 | Chars: 40,090 | Tokens: 8,176
+  21. Deictic Referencing in VMT
+       Page: 357
+       Pages: 24 | Words: 7,461 | Chars: 48,523 | Tokens: 10,154
+  22. Scripting Group Processes in VMT
+       Page: 374
+       Pages: 12 | Words: 3,438 | Chars: 23,359 | Tokens: 4,789
+  23. Helping Agents in VMT
+       Page: 383
+       Pages: 27 | Words: 8,077 | Chars: 53,325 | Tokens: 11,388
+  24. Introduction to Part V
+       Page: 407
+       Pages: 3 | Words: 782 | Chars: 5,191 | Tokens: 1,015
+  25. Thread-based Analysis of Patterns in VMT
+       Page: 409
+       Pages: 13 | Words: 4,059 | Chars: 26,730 | Tokens: 5,688
+  26. Studying Response-Structure Confusion in VMT
+       Page: 422
+       Pages: 20 | Words: 6,145 | Chars: 40,037 | Tokens: 9,617
+  27. A Multidimensional Coding Scheme for VMT
+       Page: 453
+       Pages: 28 | Words: 8,484 | Chars: 56,365 | Tokens: 13,093
+  28. Combining Coding and Conversation Analysis of VMT Chats
+       Page: 477
+       Pages: 36 | Words: 11,122 | Chars: 72,045 | Tokens: 16,751
+  29. Polyphonic Inter-Animation of Voices in VMT
+       Page: 512
+       Pages: 28 | Words: 8,421 | Chars: 55,650 | Tokens: 13,438
+  30. A Model for Analyzing Math Knowledge Building in VMT
+       Page: 538
+       Pages: 23 | Words: 6,928 | Chars: 45,951 | Tokens: 11,392
+  31. the representation of uptake relationships between interactions.
+       Page: 560
+       Pages: 4 | Words: 1,092 | Chars: 7,569 | Tokens: 1,461
+  32. Introduction to Part VI
+       Page: 566
+       Pages: 4 | Words: 1,171 | Chars: 7,892 | Tokens: 1,593
+  33. Meaning Making in VMT
+       Page: 569
+       Pages: 31 | Words: 9,556 | Chars: 61,873 | Tokens: 14,043
+  34. Critical Ethnography in the VMT Project
+       Page: 595
+       Pages: 42 | Words: 12,108 | Chars: 84,546 | Tokens: 18,970
+  35. Toward a Science of Group Cognition
+       Page: 623
+       Pages: 41 | Words: 12,619 | Chars: 81,868 | Tokens: 16,874
+
+
+5.euclid.pdf (12 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Chapter 1.  Vision: The Cognitive Potential of Collaborative Dynamic Geometry
+       Page: 17
+       Pages: 25 | Words: 7,259 | Chars: 50,432 | Tokens: 10,547
+  2. Chapter 2.  History: The Origin of Geometry
+       Page: 39
+       Pages: 17 | Words: 5,023 | Chars: 33,032 | Tokens: 6,993
+  3. Chapter 3.  Philosophy: The Obfuscation of Geometry
+       Page: 52
+       Pages: 20 | Words: 5,830 | Chars: 40,050 | Tokens: 8,750
+  4. Chapter 4.  Mathematics: Demythologizing Geometry
+       Page: 68
+       Pages: 8 | Words: 2,574 | Chars: 16,317 | Tokens: 3,531
+  5. Chapter 5.  Technology: Deconstructing Geometry
+       Page: 78
+       Pages: 18 | Words: 5,618 | Chars: 35,880 | Tokens: 7,659
+  6. Chapter 6.  Collaboration: Group Geometry
+       Page: 93
+       Pages: 19 | Words: 6,218 | Chars: 38,861 | Tokens: 8,328
+  7. Chapter 7.  Research: Analyzing Geometry
+       Page: 117
+       Pages: 36 | Words: 11,736 | Chars: 72,907 | Tokens: 20,044
+  8. Chapter 8.  Theory: Resources for Geometry
+       Page: 154
+       Pages: 41 | Words: 11,912 | Chars: 81,421 | Tokens: 18,344
+  9. Chapter 9.  Pedagogy: Designing Geometry
+       Page: 189
+       Pages: 19 | Words: 5,582 | Chars: 38,218 | Tokens: 7,775
+  10. Chapter 10.  Practice: Doing Geometry
+       Page: 206
+       Pages: 13 | Words: 3,850 | Chars: 25,562 | Tokens: 5,736
+  11. Chapter 11.  Design-Based Research: Human-Centered Geometry
+       Page: 234
+       Pages: 12 | Words: 3,513 | Chars: 23,344 | Tokens: 4,886
+  12. Author’s Biography
+       Page: 262
+       Pages: 1 | Words: 346 | Chars: 2,310 | Tokens: 532
+
+
+6.analysis.pdf (13 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Introduction to the Analysis
+       Page: 11
+       Pages: 12 | Words: 3,348 | Chars: 24,092 | Tokens: 4,542
+  2. Researching Mathematical Cognition
+       Page: 20
+       Pages: 14 | Words: 3,991 | Chars: 27,727 | Tokens: 5,643
+  3. Analyzing Development of Group Cognition
+       Page: 30
+       Pages: 28 | Words: 8,157 | Chars: 55,189 | Tokens: 11,756
+  4. Session 1: The Team Develops Collaboration Practices ⚠️ NEEDS CHUNKING
+       Page: 50
+       Pages: 54 | Words: 16,998 | Chars: 108,091 | Tokens: 25,372
+  5. Session 2: The Team Develops Dragging Practices
+       Page: 93
+       Pages: 22 | Words: 7,088 | Chars: 44,619 | Tokens: 11,266
+  6. Session 3: The Team Develops Construction Practices
+       Page: 114
+       Pages: 22 | Words: 6,778 | Chars: 43,373 | Tokens: 10,107
+  7. Session 4: The Team Develops Tool-Usage Practices
+       Page: 134
+       Pages: 14 | Words: 4,403 | Chars: 27,361 | Tokens: 6,931
+  8. Session 5: The Team Identifies Dependencies
+       Page: 148
+       Pages: 12 | Words: 3,592 | Chars: 23,070 | Tokens: 5,614
+  9. Session 6: The Team Constructs Dependencies
+       Page: 161
+       Pages: 19 | Words: 5,985 | Chars: 37,716 | Tokens: 9,001
+  10. Session 7: The Team Uses Transformation Tools
+       Page: 178
+       Pages: 13 | Words: 4,218 | Chars: 26,614 | Tokens: 7,407
+  11. Session 8: The Team Develops Mathematical Discourse and Action Practices
+       Page: 192
+       Pages: 39 | Words: 12,180 | Chars: 77,353 | Tokens: 18,599
+  12. Contributions to a Theory of Mathematical Group Cognition
+       Page: 225
+       Pages: 30 | Words: 9,015 | Chars: 60,453 | Tokens: 12,707
+  13. Constructing Dynamic Triangles Together
+       Page: 247
+       Pages: 12 | Words: 3,572 | Chars: 24,094 | Tokens: 4,857
+
+
+7.philosophy.pdf (21 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Truth as Value: Nietzsche’s Escape from Nihilism
+       Page: 11
+       Pages: 47 | Words: 15,260 | Chars: 93,826 | Tokens: 20,827
+  2. The Jargon of Authenticity: An Introduction to a Marxist Critique of Heidegger
+       Page: 51
+       Pages: 13 | Words: 3,702 | Chars: 25,451 | Tokens: 5,771
+  3. Attuned to Being: Heideggerian Music in Technological Society
+       Page: 60
+       Pages: 40 | Words: 12,054 | Chars: 80,660 | Tokens: 16,556
+  4. Sound and Society: An Essay on Electronic Music
+       Page: 88
+       Pages: 20 | Words: 5,944 | Chars: 39,563 | Tokens: 8,016
+  5. Utopian Optics: Theodor W. Adorno’s Prisms: Cultural Criticism and Society
+       Page: 102
+       Pages: 21 | Words: 6,298 | Chars: 41,959 | Tokens: 8,803
+  6. A Modern Voice for Marx
+       Page: 116
+       Pages: 3 | Words: 787 | Chars: 5,310 | Tokens: 1,072
+  7. The Theory and Practice of Democratic Socialism
+       Page: 119
+       Pages: 12 | Words: 3,737 | Chars: 23,085 | Tokens: 4,795
+  9. Education for Democracy at Mondragon
+       Page: 147
+       Pages: 10 | Words: 3,294 | Chars: 20,049 | Tokens: 4,371
+  10. Problem-Based Learning: Whitepaper for a Collaboration
+       Page: 155
+       Pages: 4 | Words: 1,210 | Chars: 8,595 | Tokens: 1,958
+  11. The Evolutionary Analysis of Knowledge
+       Page: 159
+       Pages: 4 | Words: 1,204 | Chars: 8,053 | Tokens: 1,811
+  12. The Rapid Evolution of Knowledge
+       Page: 162
+       Pages: 2 | Words: 684 | Chars: 4,276 | Tokens: 961
+  13. We Have to Work in the Future Now. (In Fact, We are Already Late.)
+       Page: 165
+       Pages: 1 | Words: 506 | Chars: 2,855 | Tokens: 639
+  14. LSA Visits the Chinese Room: A Guided Tour
+       Page: 167
+       Pages: 8 | Words: 2,670 | Chars: 16,158 | Tokens: 3,495
+  15. Consciousness Without Neural Correlates
+       Page: 173
+       Pages: 4 | Words: 1,291 | Chars: 8,171 | Tokens: 1,692
+  16. Software Semiotics
+       Page: 176
+       Pages: 5 | Words: 1,479 | Chars: 9,503 | Tokens: 1,982
+  17. Software as a New Art Form
+       Page: 180
+       Pages: 6 | Words: 1,757 | Chars: 11,087 | Tokens: 2,302
+  18. On Alexander's pattern language as end-user programming
+       Page: 184
+       Pages: 3 | Words: 928 | Chars: 5,801 | Tokens: 1,263
+  19. Lela's Birthday is a "Lela Birthday"
+       Page: 188
+       Pages: 1 | Words: 371 | Chars: 2,003 | Tokens: 627
+  20. Time and Being: A translation of Martin Heidegger’s “Zeit und Sein”
+       Page: 189
+       Pages: 26 | Words: 8,683 | Chars: 52,207 | Tokens: 11,665
+  21. The Working of Aural Being in Electronic Music
+       Page: 207
+       Pages: 22 | Words: 6,459 | Chars: 43,249 | Tokens: 9,968
+
+
+8.software.pdf (18 chapters)
+----------------------------------------------------------------------------------------------------
+  1. A Hypermedia Inference Language as an Alternative to Rule-based Expert Systems
+       Page: 15
+       Pages: 34 | Words: 10,673 | Chars: 68,684 | Tokens: 14,425
+  2. A Computational Medium for Supporting Interpretation in Design
+       Page: 41
+       Pages: 36 | Words: 10,947 | Chars: 71,468 | Tokens: 14,558
+  3. Toward a Theory of Hermeneutic Software Design
+       Page: 67
+       Pages: 23 | Words: 6,549 | Chars: 45,297 | Tokens: 10,226
+  4. Supporting Personalizable Learning
+       Page: 87
+       Pages: 43 | Words: 12,510 | Chars: 86,197 | Tokens: 17,386
+  5. Personalizing the Web
+       Page: 122
+       Pages: 19 | Words: 5,486 | Chars: 37,357 | Tokens: 7,618
+  6. and Reseeding-on-demand
+       Page: 138
+       Pages: 4 | Words: 1,163 | Chars: 8,023 | Tokens: 1,547
+  7. Embedding ComputerBased Critics in the Contexts of Design
+       Page: 143
+       Pages: 17 | Words: 4,699 | Chars: 33,164 | Tokens: 6,959
+  8. Embedding Critics in Design Environments
+       Page: 156
+       Pages: 42 | Words: 12,090 | Chars: 83,895 | Tokens: 17,723
+  9. POW! Perspectives On the Web
+       Page: 188
+       Pages: 13 | Words: 3,852 | Chars: 25,865 | Tokens: 5,455
+  10. Reflections on WebGuide: Seven Issues for the Next Generation of Collaborative Knowledge-Building Environments
+       Page: 199
+       Pages: 12 | Words: 3,378 | Chars: 24,367 | Tokens: 5,294
+  11. Intertwining Perspectives and Negotiation
+       Page: 211
+       Pages: 25 | Words: 7,544 | Chars: 50,186 | Tokens: 10,612
+  12. Reflections on Supporting and Studying Collaborative Team Formation in PostCardiac Surgery Care: Lessons of CSCW for Collaborative Care Software Support
+       Page: 235
+       Pages: 12 | Words: 3,646 | Chars: 24,150 | Tokens: 5,021
+  13. Internet Repositories for Collaborative Learning: Supporting both Students and Teachers
+       Page: 244
+       Pages: 16 | Words: 4,642 | Chars: 31,550 | Tokens: 6,897
+  14. Evaluating Affordance Short-circuits by Reviewers and Authors Participating in On-line Journal Reviews
+       Page: 258
+       Pages: 14 | Words: 4,327 | Chars: 28,456 | Tokens: 6,463
+  15. Developing Summarization Skills through the Use of LSABased Feedback
+       Page: 270
+       Pages: 13 | Words: 4,029 | Chars: 25,891 | Tokens: 5,366
+  16. Designing Collaborative Learning Environments using Digital Games
+       Page: 280
+       Pages: 15 | Words: 4,496 | Chars: 30,347 | Tokens: 7,146
+  17. Introduction: Computer Support for Learning Communities
+       Page: 293
+       Pages: 8 | Words: 2,069 | Chars: 15,117 | Tokens: 3,175
+  18. Book review of Professional Development for Cooperative Learning: Issues and Approaches
+       Page: 299
+       Pages: 4 | Words: 1,299 | Chars: 8,939 | Tokens: 1,929
+
+
+9.cscl.pdf (12 chapters)
+----------------------------------------------------------------------------------------------------
+  1. Introduction to the Proceedings of CSCL 2011
+       Page: 13
+       Pages: 6 | Words: 1,717 | Chars: 12,071 | Tokens: 2,630
+  2. Engaging with Engaged Learning
+       Page: 18
+       Pages: 6 | Words: 1,690 | Chars: 11,514 | Tokens: 2,601
+  3. Toward a New Science of Collaborative Learning
+       Page: 23
+       Pages: 14 | Words: 4,141 | Chars: 27,281 | Tokens: 5,776
+  4. Team Cognition in Socio-Technical Systems
+       Page: 32
+       Pages: 8 | Words: 2,192 | Chars: 16,187 | Tokens: 3,605
+  5. Analyzing Cognition in Online Teams
+       Page: 38
+       Pages: 38 | Words: 11,595 | Chars: 76,494 | Tokens: 17,957
+  6. Sustaining Interaction in a CSCL Environment
+       Page: 67
+       Pages: 43 | Words: 13,065 | Chars: 85,602 | Tokens: 20,024
+  7. Synchronous Chat in CSCL
+       Page: 100
+       Pages: 34 | Words: 9,754 | Chars: 67,687 | Tokens: 14,956
+  8. Temporality of the Joint Problem Space
+       Page: 123
+       Pages: 24 | Words: 7,215 | Chars: 48,501 | Tokens: 11,444
+  9. Designing Problems to Support Knowledge Building
+       Page: 142
+       Pages: 13 | Words: 3,964 | Chars: 26,630 | Tokens: 5,667
+  10. Enhancing Mathematical Communication for Virtual Math Teams
+       Page: 155
+       Pages: 28 | Words: 7,955 | Chars: 55,512 | Tokens: 12,526
+  11. Analyzing the Discourse of GeoGebra Collaborations
+       Page: 178
+       Pages: 13 | Words: 3,669 | Chars: 25,756 | Tokens: 5,844
+  12. Supporting Group Math with Software Conversational Agents
+       Page: 187
+       Pages: 10 | Words: 2,842 | Chars: 20,104 | Tokens: 5,064
+
+
+====================================================================================================
+SUMMARY
+====================================================================================================
+Total PDFs: 22
+Total chapters: 337
+Total characters: 13,497,023
+Average chapter size: 40,050 characters
+
+Chapters needing chunking (>100K chars): 10
+
+Chapters requiring chunking for Qwen summarization:
+----------------------------------------------------------------------------------------------------
+  • 14.topics: Dynamic-Geometry Activities with GeoGebra for Virtual Math Teams
+    193,111 characters (97 pages)
+  • 11.theory: The Theory of Group Cognition
+    148,102 characters (74 pages)
+  • 18.overview: Part V. Detailed CV
+    147,505 characters (74 pages)
+  • 19.investigations: Investigation 2. A Theory of Group Cognition in CSCL
+    146,904 characters (73 pages)
+  • 12.math: The Joint Organization of Interaction within a Multimodal CSCL Medium
+    127,003 characters (64 pages)
+  • 4.svmt: The Organization of Graphical, Narrative and Symbolic Interactions
+    126,828 characters (63 pages)
+  • 12.math: The Integration of Mathematics Discourse, Graphical Reasoning and Symbolic Expression by a Virtual Math Team
+    122,386 characters (61 pages)
+  • 3.gc: Thinking at the SmallGroup Unit of Analysis
+    108,475 characters (54 pages)
+  • 6.analysis: Session 1: The Team Develops Collaboration Practices
+    108,091 characters (54 pages)
+  • 14.topics: Topics in Dynamic Geometry for Virtual Math Teams
+    103,699 characters (52 pages)
+
+====================================================================================================
+QWEN 2.5-7B MODEL LIMITS
+====================================================================================================
+Context window: 32,768 tokens (~128,000 characters)
+Recommended max input: 25,000 tokens (~100,000 characters)
+Leaves room for: prompt formatting + summary generation
+
+Chapters within limit: 327 (97.0%)
+Chapters needing chunking: 10 (3.0%)

@@ -1,0 +1,309 @@
+Essays in Computer-Supported Collaborative Learning
+by Gerry Stahl
+
+============================================================
+CHAPTER SUMMARIES
+============================================================
+
+Chapter 1: Introduction to the Proceedings of CSCL 2011
+
+This introductory essay defines Computer-Supported Collaborative Learning (CSCL) as a
+multidisciplinary research field that draws on constructivist and socio-cultural theories
+of learning as a social, interpersonal, meaning-making process, and designs technologies
+to mediate communication and guide inquiry among learners. The chapter frames the
+conference theme — "Connecting computer-supported collaborative learning to policy and
+practice" — arguing that research in the field must engage not only with academic theory
+and laboratory findings but with the practical realities of school classrooms and the
+concerns of educational policy makers. It describes the distinctive structure of CSCL
+2011, held in Hong Kong, which included practitioner-oriented tracks, the integration of
+the annual Knowledge Building Summer Institute, and a series of post-conference events at
+universities across mainland China. The chapter also traces the history of the CSCL
+conference series since 1995 as a community-building venue for researchers bridging
+education, psychology, communication, computer science, and social science.
+
+Keywords: CSCL, collaborative learning, learning sciences, educational policy, knowledge
+building, conference proceedings, socio-cultural theory
+
+------------------------------------------------------------
+
+Chapter 2: Engaging with Engaged Learning
+
+This preface to a collected volume on engaged learning traces the philosophical roots of
+the problem the book addresses: a dominant Western tradition — from Plato's dismissal of
+the everyday world to Descartes's separation of mind from body — has portrayed the
+isolated individual as the primary locus of thought and knowledge, denigrating the
+engagement with people and things through which human life actually proceeds. Against
+this tradition, the chapter situates a series of converging theoretical frameworks.
+Heidegger showed that human existence is fundamentally structured by concern with other
+people and things, and that tacit practical understanding precedes explicit knowledge.
+Vygotsky showed that individual learning is reliant upon and secondary to collaborative,
+interpersonal learning. Situated learning, distributed cognition, activity theory, and
+group cognition each further developed this critique of individualism. Dewey's argument
+for engaging students in open-ended inquiry rather than drill and behavioral training is
+identified as a major pedagogical source of the discussion of engaged learning. The
+chapter frames "engaged learning with emerging technology" as the practical application
+of this convergent theoretical tradition.
+
+Keywords: engaged learning, Heidegger, Vygotsky, situated learning, distributed
+cognition, group cognition, Dewey
+
+------------------------------------------------------------
+
+Chapter 3: Toward a New Science of Collaborative Learning
+
+Presented as an interview, this chapter articulates the defining claims of CSCL as a
+paradigm shift within education and educational research. Previous instructional software
+and educational research focused almost exclusively on individual learners — their mental
+models, test scores, and internal representations. CSCL proposes a shift to the small
+group as the primary unit of analysis: groups are the engines of knowledge building, and
+collaborative knowledge building is best understood not as individual learning multiplied
+but as a distinct group-level process. The chapter distinguishes three units of analysis
+— individual, small group, and community — and argues that the small group is
+understudied and theoretically underdeveloped relative to the other two. It also
+addresses the role of social context, the purpose of software design in CSCL, and the
+need for research methods — such as detailed discourse analysis — that can capture
+group-level phenomena rather than reducing them to aggregates of individual performance.
+
+Keywords: CSCL, paradigm shift, collaborative knowledge building, group cognition, unit
+of analysis, discourse analysis, learning sciences
+
+------------------------------------------------------------
+
+Chapter 4: Team Cognition in Socio-Technical Systems
+
+This commentary on a special issue of Human Factors argues that research on teams in
+socio-technical systems too often imports its categories directly from the study of
+individual cognition, reducing group phenomena to additive sums of individual processes.
+Communication and coordination are treated as secondary vehicles for the expression of
+individuals' internal mental models, rather than as the primary medium in which
+collaborative thinking occurs. Drawing on post-cognitive theory and conversation
+analysis, the chapter calls for a new science of groups with appropriate theory,
+conceptual frameworks, and analytic methods. Proposed methodological priorities include
+discourse analysis, design-based research, conceptualization of mediation rather than
+causation, and publication of detailed case studies. The core argument is that the
+group — not the individual — must serve as the primary unit of analysis in CSCL and in
+the study of teams in socio-technical systems.
+
+Keywords: team cognition, socio-technical systems, group cognition, unit of analysis,
+conversation analysis, discourse analysis, design-based research
+
+------------------------------------------------------------
+
+Chapter 5: Analyzing Cognition in Online Teams
+
+This chapter presents group cognition theory as a framework for CSCL research and
+examines the conditions under which online collaborative groups achieve genuine cognitive
+accomplishments — innovative solutions that go beyond the expertise of any individual
+participant. The chapter is particularly interested in pivotal moments of collaborative
+knowledge creation: the conditions under which creative sparks and processes of knowledge
+building are triggered during group interaction. It surveys convergent findings from
+several CSCL subcommunities — including research on transactivity, uptake, social modes
+of co-construction, and productive agency — showing that despite differences in
+theoretical framework (Vygotskian, Piagetian, and others), researchers consistently
+identify the same conversational behaviors as productive: explicit articulation of
+reasoning and visible acknowledgment of and response to prior reasoning contributions.
+The chapter calls for integrating these converging findings into a unified account of
+group cognition in online collaborative learning.
+
+Keywords: group cognition, online teams, transactivity, collaborative knowledge building,
+productive talk, discourse analysis, CSCL
+
+------------------------------------------------------------
+
+Chapter 6: Sustaining Interaction in a CSCL Environment
+
+This chapter addresses the gap between micro-level analyses of single utterances and
+macro-level analyses of community participation by examining how collaborative groups
+sustain their work across extended online math problem-solving sessions. Drawing on
+conversation analysis, the chapter identifies a unit of collaborative discourse it calls
+the math-proposal adjacency pair — a sequential exchange in which one participant
+proposes a next step in problem solving and another responds. Analysis of Virtual Math
+Teams (VMT) chat logs shows how these pairs, and sequences built from them, constitute
+the collaborative group as a working group, give direction to problem solving, and sustain
+shared meaning making over time. A "failed proposal" is analyzed in detail to clarify,
+by contrast, what makes successful proposals effective. The chapter also describes the
+design-based research methodology through which the VMT environment and pedagogy were
+iteratively revised in response to observations from successive trials.
+
+Keywords: adjacency pairs, conversation analysis, group cognition, VMT, math chat,
+design-based research, joint problem space
+
+------------------------------------------------------------
+
+Chapter 7: Synchronous Chat in CSCL
+
+This chapter reviews research on small-group interaction in synchronous text chat settings
+and analyzes the specific collaborative practices that make chat a productive medium for
+group cognition. It distinguishes synchronous chat from both asynchronous forums and from
+speech, arguing that chat has its own interactional structure and must be understood as a
+distinct genre. Using data from the VMT project, the chapter describes small-group
+practices including: resolving cognitive conflict through collaborative dialogue; pursuing
+sustained inquiry across multiple chat turns; maintaining a shared joint problem space
+across contributions from multiple participants; and coordinating multiple simultaneous
+modes of reasoning. These practices raise foundational theoretical issues about
+temporality — how meaning accumulates across time in a chat thread — and indexicality —
+how chat utterances refer to prior turns, shared objects, and the developing problem
+context. The chapter argues that these group-level interactional practices are the
+foundation of effective collaborative learning in synchronous online environments.
+
+Keywords: synchronous chat, group cognition, VMT, joint problem space, temporality,
+indexicality, conversation analysis
+
+------------------------------------------------------------
+
+Chapter 8: Temporality of the Joint Problem Space
+
+This chapter traces the history of the concept of "problem space" from its origins in
+information-processing cognitive science — where it characterized the internal state
+space of an individual problem solver — through successive reformulations in the learning
+sciences that extended it to encompass collaborative, distributed, and socially situated
+activity. The chapter then proposes that existing formulations still underspecify a
+crucial dimension: the temporal and sequential structure through which groups constitute
+a shared, intersubjective problem space over the course of an interaction. Drawing on
+detailed analysis of sustained online collaborative problem-solving sessions from the
+VMT project, the chapter argues that a joint problem space is not a static knowledge
+structure but an evolving temporal accomplishment — built incrementally through
+successive contributions, each of which must be oriented to the prior history of the
+interaction in order to be intelligible as a next move.
+
+Keywords: joint problem space, temporality, intersubjectivity, group cognition, VMT,
+knowledge building, information processing
+
+------------------------------------------------------------
+
+Chapter 9: Designing Problems to Support Knowledge Building
+
+This chapter examines how the design of mathematical topics and activities shapes the
+quality of collaborative knowledge building in the VMT environment, drawing on experience
+with trials conducted in Singapore and the United States. It traces the iterative
+development of the VMT system from a simple text chat tool (2003) to an environment
+integrating shared whiteboard, wiki, and multi-user GeoGebra. The Singapore context
+provides a particular focus: the Ministry of Education's H2 mathematics curriculum
+emphasizes creative thinking and mathematical communication, creating favorable conditions
+for a CSCL approach. The chapter argues that topic design is not incidental but central
+to whether students engage in genuine knowledge-building discourse rather than shallow
+task completion. Design-based research methodology is presented as the appropriate
+framework for iterative improvement of both software and pedagogical materials in response
+to observed patterns in student interaction.
+
+Keywords: knowledge building, VMT, design-based research, Singapore, mathematical
+discourse, GeoGebra, curriculum design
+
+------------------------------------------------------------
+
+Chapter 10: Enhancing Mathematical Communication for Virtual Math Teams
+
+This chapter describes the ongoing technical development of the VMT environment, with
+particular focus on the integration of GeoGebra — a dynamic mathematics application —
+into the multi-user collaborative platform. The chapter situates this development within
+the Math Forum's broader mission as an online resource center for school mathematics and
+describes the research base accumulated through over a thousand logged VMT sessions and
+more than a hundred academic publications. The integration of GeoGebra enables virtual
+math teams to manipulate dynamic mathematical diagrams collaboratively in real time while
+discussing them in synchronous chat. The chapter describes specific technical features —
+shared whiteboard, graphical referencing between chat and diagrams, scrollable history,
+wiki integration — and the pedagogical rationale for each. The broader aim is to create a
+rich environment for mathematical inquiry and collaborative knowledge-building that is
+freely accessible to students and teachers worldwide through the Math Forum.
+
+Keywords: VMT, GeoGebra, dynamic mathematics, mathematical communication, Math Forum,
+synchronous collaboration, online environment
+
+------------------------------------------------------------
+
+Chapter 11: Analyzing the Discourse of GeoGebra Collaborations
+
+This position paper argues for a discourse-centered view of mathematics and presents a
+set of complementary analytic approaches for studying collaborative mathematical
+interaction in the VMT/GeoGebra environment. Against "back to basics" arguments that
+students must memorize facts before engaging in inquiry, the chapter argues that
+mathematics as a discipline has always advanced through inquiry, controversy,
+reconceptualization, and collaborative discourse — as illustrated by the history of the
+concept of number and by documented accounts of professional mathematical proof. If doing
+mathematics is inherently discursive, then learning mathematics must also involve
+engagement with mathematical discourse. Computer and communication technologies can make
+the processes of collaborative mathematical thinking visible to researchers as traces of
+small-group interaction. The chapter surveys multiple analytical approaches — including
+discourse analysis, ethnomethodology, and automated text analysis — as complementary
+tools for understanding the group-level processes through which students build mathematical
+understanding together.
+
+Keywords: mathematical discourse, GeoGebra, collaborative learning, discourse analysis,
+group cognition, inquiry learning, ethnomethodology
+
+------------------------------------------------------------
+
+Chapter 12: Supporting Group Math with Software Conversational Agents
+
+This chapter reports on research integrating software conversational agents into the VMT
+collaborative environment to guide and scaffold student discourse in productive directions.
+The agents are designed to encourage academically productive talk — discourse in which
+students hold one another accountable to their mathematical task and to each other's
+contributions. The chapter describes the technical integration of agent technology
+developed independently by two research groups, and presents initial trials with student
+groups working on combinatorics problems, with plans to extend the work to multi-user
+GeoGebra sessions. The chapter situates this work within a broader argument about the
+complementary forms of scaffolding available in a CSCL environment: topic design before
+the session, teacher annotation and class discussion after the session, and now
+synchronous conversational agent interaction during the session. Conversational agents are
+proposed as a practical solution to the challenge of providing synchronous guidance to
+multiple groups when teacher attention is limited or unavailable.
+
+Keywords: conversational agents, VMT, scaffolding, productive talk, GeoGebra, synchronous
+interaction, collaborative math learning
+
+============================================================
+BOOK OVERVIEW
+============================================================
+
+Essays in Computer-Supported Collaborative Learning collects twelve essays that together
+constitute both a theoretical manifesto for the field of CSCL and a sustained research
+report on one of its most developed projects: the Virtual Math Teams (VMT) initiative.
+The collection moves from broad conceptual and institutional frameworks to increasingly
+focused methodological and empirical work, but the same core argument runs through every
+chapter: learning is fundamentally a group-level, interactional process, and the primary
+scientific and pedagogical task of CSCL is to understand and support that process at the
+group unit of analysis.
+
+The opening chapters establish the intellectual context. Chapter 1 situates the field
+within the landscape of educational research and policy. Chapter 2 traces the philosophical
+lineage of the engagement critique — from Heidegger's analysis of human existence as
+structured by concern, through Vygotsky's socio-cultural psychology, to Dewey's pedagogy
+of inquiry — showing that treating learning as an isolated individual process is not a
+neutral default but a historically specific philosophical error. Chapter 3 makes this
+argument institutional and methodological: CSCL represents a paradigm shift from the
+individual to the small group as the fundamental unit of educational analysis, research,
+and design.
+
+Chapters 4 and 5 develop the positive theoretical framework. Chapter 4 diagnoses the
+residual individualism in team cognition research and calls for a new science of groups
+with appropriate concepts and methods. Chapter 5 articulates what that science looks like
+from within CSCL: the goal is to identify and understand the pivotal moments of
+collaborative knowledge creation — the conditions under which small-group interaction
+produces genuinely new understanding — and to integrate converging empirical findings
+from multiple CSCL subcommunities on what makes collaborative discourse productive.
+
+The methodological center of the collection is the concept of the joint problem space and
+the tool of conversation analysis. Chapters 6, 7, and 8 develop these together. Chapter 6
+introduces the math-proposal adjacency pair as the basic interactional unit through which
+a collaborative group constitutes itself as a working group and sustains its shared
+problem-solving activity. Chapter 7 examines the full repertoire of small-group practices
+through which synchronous chat groups achieve group cognition, emphasizing the distinctive
+temporal and indexical structure of chat as a medium. Chapter 8 theorizes the temporal
+dimension more explicitly, tracing the evolution of the joint problem space concept and
+arguing that the shared problem space of a collaborative group is a temporally structured
+interactional accomplishment, not a static cognitive representation.
+
+Chapters 9 through 12 report on the VMT project as the primary empirical and design
+research context for the book's theoretical claims. Chapter 9 addresses the design of
+mathematical topics and activities to promote knowledge-building discourse, with experience
+from Singapore and the United States. Chapters 10 and 11 describe the technical
+integration of GeoGebra into the VMT environment and the analytic approaches suited to
+the resulting collaborative mathematical interactions. Chapter 12 introduces software
+conversational agents as a further technical means of scaffolding productive discourse
+within the collaborative environment.
+
+The collection is unified by a consistent methodological stance — design-based research
+combined with conversation analysis — and by the conviction that software design,
+pedagogical design, and scientific analysis of collaborative learning are not separable
+enterprises but aspects of a single research program.

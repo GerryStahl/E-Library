@@ -1,0 +1,181 @@
+Book 21: Dynamic Geometry Game for Pods
+Chapter and Book Summaries
+
+══════════════════════════════════════════════════════════════════════════
+
+Chapter 1: Welcome
+
+This opening chapter introduces the Dynamic Geometry Game for Pods as a
+curriculum translating traditional Euclidean geometry into a collaborative
+online experience for small student pods or home-schooled individuals. It
+describes the free GeoGebra software, the game's online location, and notes
+that two academic articles on blended learning and group cognition are
+appended at the end of the volume.
+
+Keywords: dynamic geometry, GeoGebra, student pods, online learning,
+collaborative curriculum, home-schooling, Euclidean geometry
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 2: Intro for Adventurous Students
+
+Addressed directly to student players, this chapter explains the game's
+structure of progressive levels and challenges, stresses collaborative
+discussion as the primary method, and introduces geometric dependency—
+the principle that some points and figures are constrained by their
+construction—as the central mathematical concept the game is designed to
+teach.
+
+Keywords: student introduction, collaborative play, geometric dependency,
+levels and challenges, pod discussion, GeoGebra, progressive learning
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 3: Intro for Parents and Teachers
+
+This chapter explains the pedagogical design of the fifty challenges, which
+build from free-form doodling to major theorems, following Euclid and the
+US Common Core. Originally created for the Virtual Math Teams research
+project, the challenges are adapted here for GeoGebra's Class function,
+supporting pod-based, online, or home-school settings.
+
+Keywords: pedagogy, Virtual Math Teams, GeoGebra Class, Common Core,
+fifty challenges, pod-based learning, collaborative geometry
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 4: Game Part A
+
+Levels 1 and 2 begin with free exploration of points, lines, and circles,
+then progress to constructed figures such as stick figures, polygons,
+perpendiculars, midpoints, and angle bisectors. The drag test—dragging
+constructed points to verify that dependencies hold—is introduced as the
+fundamental technique for confirming that a construction is correctly built.
+
+Keywords: beginner level, drag test, points and lines, polygon construction,
+perpendicular, angle bisector, geometric dependency
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 5: Game Part B
+
+Levels 3 through 5 deepen the concept of dependency through challenges
+involving constrained triangles—isosceles, equilateral, right, and scalene.
+Students discover that Euclid's method of constructing geometric figures is
+essentially a system of built-in dependencies, using circles to guarantee
+equal lengths and perpendiculars to guarantee right angles.
+
+Keywords: dependency level, constrained triangles, isosceles, equilateral,
+right triangle, circle construction, Euclidean dependency
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 6: Game Part C
+
+Levels 6 and 7 introduce deductive proof through the triangle congruence
+theorems—Side-Side-Side, Side-Angle-Side, and Angle-Side-Angle—and apply
+them to challenges about inscribed polygons. Students construct congruent
+triangle pairs in GeoGebra, drag them to verify the congruence, and
+articulate the underlying theorem as a provable rule.
+
+Keywords: congruence, deductive proof, SSS, SAS, ASA, inscribed polygons,
+triangle congruence theorems
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 7: Game Part D
+
+Levels 8 and 9 introduce geometric transformations—translation, reflection,
+rotation, and dilation—as an alternative approach to geometry not found in
+Euclid. Challenges ask students to apply and combine transformations, compare
+a figure before and after transformation, and explore how sequences of
+reflections or rotations relate to each other.
+
+Keywords: transformations, translation, reflection, rotation, dilation,
+non-Euclidean approach, geometric symmetry
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 8: Game Part E
+
+The advanced level introduces the four classical special points of a
+triangle—centroid, circumcenter, orthocenter, and incenter—and their
+associated constructions (medians, perpendicular bisectors, altitudes, and
+angle bisectors). Students discover that all three altitudes, all three
+medians, or all three perpendicular bisectors of any triangle are concurrent,
+which they verify through dynamic dragging.
+
+Keywords: advanced geometry, centroid, circumcenter, orthocenter, incenter,
+concurrence, special triangle points
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 9: Extra Bonus Dynamic Geometry
+
+This bonus chapter offers a special challenge—constructing an equilateral
+triangle with vertices on two parallel lines—and then guides students
+through dynamic-geometry visualizations and proofs of Thales' theorem (any
+angle inscribed in a semicircle is a right angle) and the Pythagorean
+theorem, introducing the idea of mathematical proof as the Greek
+contribution to rigorous reasoning.
+
+Keywords: bonus challenge, Thales' theorem, Pythagorean theorem, proof,
+inscribed angle, semicircle, parallel lines
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 10: Redesigning Mathematical Curriculum for Blended Learning
+
+This academic article argues that the pandemic exposed the failure to
+apply learning-sciences research to school practice, and proposes a model
+of blended curriculum using dynamic geometry for pod-based collaborative
+learning. It shows how GeoGebra supports multiple simultaneous learning
+modes—classroom, online, home-school—and describes how the pod game
+instantiates principles of computer-supported collaborative learning.
+
+Keywords: blended learning, pandemic curriculum, CSCL, collaborative
+learning, GeoGebra, learning sciences, student pods, curriculum redesign
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 11: Mathematical Group Cognition in the Anthropocene
+
+Structured as a sequence of propositions modeled on Euclid, this article
+argues that dynamic geometry can teach students to think in terms of
+dependencies within interconnected systems—a cognitive skill essential for
+understanding the Anthropocene. It reviews the Virtual Math Teams research
+to ground a theory of group cognition as the appropriate framework for
+mathematics education in an era of climate change and complex feedback loops.
+
+Keywords: group cognition, Anthropocene, dependencies, climate change,
+Virtual Math Teams, CSCL, mathematics education
+
+══════════════════════════════════════════════════════════════════════════
+
+Overview: Dynamic Geometry Game for Pods
+
+This volume has two interleaved purposes: it is simultaneously a playable
+curriculum and an argument about mathematics education. Chapters 1–8 form
+the game itself—fifty challenges arranged in five parts and eleven levels
+that lead a pod of students from free exploration of points and lines through
+construction, dependency, congruence, proof, transformation, and advanced
+triangle geometry. The progression is carefully sequenced: each level builds
+on the previous one, and the drag test introduced in Part A serves as
+the underlying epistemological tool throughout—students know that a
+construction is correct when its dependencies survive dragging.
+
+The game's design rests on a specific mathematical insight: Euclidean
+geometry is essentially a system of constructed dependencies, and dynamic
+geometry software makes those dependencies visible and testable in a way
+static diagrams cannot. This insight, implicit in the game challenges,
+is made explicit in chapters 9–11. The bonus chapter (9) introduces
+proof through Thales' theorem, connecting the game's hands-on constructions
+to the Greek tradition of deductive reasoning. The two academic articles
+(chapters 10 and 11) situate the game within the field of
+computer-supported collaborative learning and argue for its broader
+educational significance: first, that the pod-based collaborative model
+can serve as a practical template for blended learning after the pandemic;
+and second, that learning to reason about geometric dependencies provides
+exactly the kind of thinking needed to comprehend interconnected systems
+in the Anthropocene. The volume thus moves from play to pedagogy to
+philosophy, each register reinforcing the others.

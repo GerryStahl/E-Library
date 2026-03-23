@@ -1,0 +1,34 @@
+books:
+  book number
+  book name
+  book title
+  book author
+book keywords
+  book reference
+  book text
+  book number of pages
+  book kind
+  book summaries:
+      book summary author
+      book summary date
+      book summary prompt
+      book summary number of words
+      book summary text
+  book chapters:
+    chapter number
+    chapter title
+    chapter author
+chapter keywords
+    chapter reference
+    chapter text
+    chapter number of pages
+    chapter number of words
+    chapter number of tokens
+    chapter number of symbols
+    chapter summaries
+      chapter summary author
+      chapter summary date
+      chapter summary prompt
+      chapter summary number of words
+      chapter summary text
+ 

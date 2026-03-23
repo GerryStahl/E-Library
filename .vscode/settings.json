@@ -1,0 +1,20 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /Users/GStahl2/AI/elibrary && python3 -c \"\nimport sys; sys\\.path\\.insert\\(0, '\\.'\\)\nfrom elibrary_cache import ElibraryCache\ncache = ElibraryCache\\.load\\(\\)\nb19 = cache\\.get_book\\(19\\)\nfor ch in b19\\.chapters\\[10:\\]:\n    words = ch\\.text\\.split\\(\\) if ch\\.text else \\[\\]\n    excerpt = ' '\\.join\\(words\\[:600\\]\\)\n    print\\(f'=== Ch \\{ch\\.number\\}: \\{ch\\.title\\} ==='\\)\n    print\\(excerpt\\)\n    print\\(\\)\n\" 2>&1 \\| head -900$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd /Users/GStahl2/AI/elibrary && python3 -c \"\nimport sys; sys\\.path\\.insert\\(0, '\\.'\\)\nfrom elibrary_cache import ElibraryCache\ncache = ElibraryCache\\.load\\(\\)\nb17 = cache\\.get_book\\(17\\)\nprint\\(f'Title: \\{b17\\.title\\}'\\)\nprint\\(f'Chapters: \\{len\\(b17\\.chapters\\)\\}'\\)\nfor ch in b17\\.chapters:\n    words = len\\(ch\\.text\\.split\\(\\)\\) if ch\\.text else 0\n    print\\(f'Ch \\{ch\\.number\\}: \\{ch\\.title\\} \\(\\{words:,\\} words\\)'\\)\n\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd /Users/GStahl2/AI/elibrary && python3 -c \"\nimport sys; sys\\.path\\.insert\\(0, '\\.'\\)\nfrom elibrary_cache import ElibraryCache\ncache = ElibraryCache\\.load\\(\\)\nb17 = cache\\.get_book\\(17\\)\nfor ch in b17\\.chapters\\[:6\\]:\n    words = ch\\.text\\.split\\(\\) if ch\\.text else \\[\\]\n    excerpt = ' '\\.join\\(words\\[:550\\]\\)\n    print\\(f'=== Ch \\{ch\\.number\\}: \\{ch\\.title\\} ==='\\)\n    print\\(excerpt\\)\n    print\\(\\)\n\" 2>&1 \\| head -900$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "/^cd /Users/GStahl2/AI/elibrary && python3 -c \"\nimport sys; sys\\.path\\.insert\\(0, '\\.'\\)\nfrom elibrary_cache import ElibraryCache\ncache = ElibraryCache\\.load\\(\\)\nb17 = cache\\.get_book\\(17\\)\nfor ch in b17\\.chapters\\[6:12\\]:\n    words = ch\\.text\\.split\\(\\) if ch\\.text else \\[\\]\n    excerpt = ' '\\.join\\(words\\[:550\\]\\)\n    print\\(f'=== Ch \\{ch\\.number\\}: \\{ch\\.title\\} ==='\\)\n    print\\(excerpt\\)\n    print\\(\\)\n\" 2>&1 \\| head -900$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

@@ -1,0 +1,67 @@
+# Guide to Gerry's RAG System
+
+** System to create a well-organized cache of elibrary chapters with summaries and vectors **
+* Version 2.0 - March 2026 - in directory ~/ai/elibrary *
+
+1. chunk 337 chapters of 22 pdfs
+only list major chapters (as listed in "chapters.cvs") in "elibrary_cache.pkl"
+2. associate with references for each book and chapter  (as listed in"chapters.cvs")
+save metadata such as starting page number, # pages, words, tokens, letters
+3. save text in cache and embedding in vector store
+4. summarize using AI agent: 500 words for book, 300 words for chapter
+  (book summary based on chapter summaries)
+5. edit "book.html" for each book with TOC and summaries of book and chapters
+6. hierarchical chunking of chapter texts and then 5 iterations of semantic similarity merging
+  (all chunks in cache and embedding in "elibrary_vector_store" with metadata)
+7. clean up code and document pipeline system and cache structure
+
+--------------------------------------------------------------------------------------------------------------------
+
+structure of "elibrary_cache.pkl"
+
+books:
+  book number
+  book name
+  book title
+  book author
+  book keywords
+  book reference
+  book text
+  book number of pages
+  book kind
+  book summaries:
+      book summary author
+      book summary date
+      book summary prompt
+      book summary number of words
+      book summary text
+  book chapters:
+    chapter number
+    chapter title
+    chapter author
+    chapter keywords
+    chapter reference
+    chapter text
+    chapter number of pages
+    chapter number of words
+    chapter number of tokens
+    chapter number of symbols
+    chapter summaries
+      chapter summary author
+      chapter summary date
+      chapter summary prompt
+      chapter summary number of words
+      chapter summary text
+    
+-------------------------------------------------------------
+
+1. set up "elibrary_cache.pkl" with content from "chapters.cvs"
+chunk chapters of 22 pdfs
+only list major chapters (as listed in "chapters.cvs") in "elibrary_cache.pkl"
+
+revise main.py pipeline
+use files in new workspace
+keep selection of chapters based on H1/H2, font size, list to eliminate
+delete all use of LLMs
+match chapters with titles in cache
+save text and metadata

@@ -1,0 +1,128 @@
+pdf_embedder project
+coded by Gerry Stahl and the Claude Sonnet 4.5 agent in Visual Studio Code python environment
+===============
+March 1, 2026
+I want to develop a Python AI project to embed chunks from several pdfs and store the chunks in vector-stores for summarization and querying.
+The texts are my academic books, mainly in the fields of philosophy, computer science and social science.
+There are 22 books, consisting of a total of 337 chapters.
+
+The workspace is ~/ai/elibrary
+The pdf files are in /sourcepdfs
+A spreadsheeet of the structure for elibrary_cache.pkl is in /documents/cache_structure.txt
+A list of data for the cache is in /documents/chapters.csv
+
+Create the cache; define its structure; copy the content from the spreadsheet into the cache
+The export_cache_json.py script can be re-run any time after the cache is updated (e.g. after PDF text or summaries are populated) to keep the JSON in sync.
+
+In elibraray/documents is a webpage template named book.html. Substitute for the bracketed terms from the cache for 1.marx and save the file as "marx.html". The comment at the top of the file indicates what to substitute for the bracketed terms.
+=================
+March 2, 2026
+
+add to prompt to produce 5-8 keywords for each chapter. add these to cache. add word count to cache for each chapter
+
+Using the prompts, have Claude summarize the 22 books and all their chapters. Save the summaries in txt reports.
+
+Store the summaries in the cache.
+
+Also insert the summaries in book.html; save each of the 22 index.html files in the elibrary pages of the website.
+
+===================
+
+run hierarchical chunking on all the chapters. maintain metadata of pdf name and page number. store embedddings in vector store
+
+run iterative merging of chunks based on semantic similarity.maintain metadata of pdf name and page number. store embedddings in vector store
+
+run clustering analysis of all vectors, defining areas of interest
+
+======================
+March 3, 2026
+
+you already copied the book and chapters keywords and summaries from /reports/1.marx_summary.txt to /documents/marx.html and to the cache section for 1.marx.pdf.
+That involved: (1) filling in each of the bracketed fields of /documents/book.html with text from the 1.marx_summary.txt report (including  titles and summaries for the book and each of its chapters,
+(2) saving the revised file with the name "/documents/marx.html",
+(3) filling in the "book keywords" and "book summaries" section for 1.marx.pdf and copies of its "chapter keywords" and  "chapter summaries" sections for each of the chapters in 1.marx.pdf.
+Then you did the same thing for 2.tacit, using /scripts/generate_tacit_html.py .
+Can you do the same thing with the keywords and summaries for the 20 other elibrary books
+in  /reports/ ? Only some of the reports include book and chapter keywords.
+
+All 20 HTML files created in documents, cache pkl and JSON updated.
+
+Final cache state (books 3–22):
+
+Book	Chapters	Book Summary
+3 gc	24/25	✓
+4 svmt	34/34	—
+5 euclid	11/11	—
+6 analysis	13/13	—
+7 philosophy	21/21	✓
+8 software	18/18	✓
+9 cscl	12/12	✓
+10 science	7/11	—
+11 theory	15/15	—
+12–14, 19	all complete	✓
+15–18, 20–22	all complete	—
+Two remaining gaps (not fixable without manual intervention):
+
+Book 3, Ch 11 "Introduction to Part II" — a structural part header in the report, not a content chapter
+Book 10, Chs 2/4/6/7 — report uses descriptive prose headings ("Originally delivered as guidance…") instead of chapter titles; fuzzy matching can't bridge that gap
+What drove the fixes: the report format had three tricky cases, all now handled — --- (3-char) separators, no-separator chapter blocks (secondary split), and structural headers ("Book N:", "CHAPTER SUMMARIES") that were absorbing Chapter 1 content. The sorted greedy matcher also fixed the off-by-one cascade in book 20.
+
+The standard listing of chapters for summarization is /documents/chapters.csv. Most of the chapters defined in that spreadsheet should have summaries, except for those in 15.global.pdf.
+
+enter the following values for all books and chapters if there is no value already there:
+"book summary author": "Claude agent"
+"book summary date": "March 2, 2026"
+"chapter summary author": "Claude agent"
+"chapter summary date": "March 2, 2026"
+
+calculate the following values for all books and chapters if there is no value already there:
+"chapter summary number of words" from "chapter summary text"
+"book summary number of words" from "book summary text"
+
+============================
+
+The dominant patterns across all 22 books:
+
+book_text, book_keywords, book_number_of_pages — empty on every single book (66 of the 66 book-level empties come from these three fields)
+chapter_keywords — missing on the majority of chapters, especially Books 1–3, 10–11 (books without keyword lists in the PKL)
+chapter_reference — missing on many chapters, particularly Books 17–22 and structural/part-intro chapters throughout
+chapter_summary_text + chapter_summary_number_of_words — only 2 remaining empties: Book 2 Ch 3 ("Part I. Interpretation in Design") and Book 2 Ch 10 ("Part III. Computer Support of Cooperative Design") — both structural part-header chapters with no substantive summary
+
+
+================================
+
+prompt for editorials -- all 80
+
+Now generate summaries of the texts in the editorials_cache.pkl, using the following prompt. Store the summaries in the cache and in a txt report.
+
+Prompt: You are a learning-science researcher writing for other leading researchers. You are reviewing the history of the CSCL (computer-supported colaborative learning) research field from 2006 through 2025 exclusively on the basis of the 79 editorial introductions to the volumes of the "interternational journal of CSCL". Write an approximately 300-word summary of each of these articles. Focus on how it described the evolving trends in the field of CSCL at the time the article was written, especially developments concerning innovations in theory (e.g., of learning, cognition, ineraction, etc.), analytic methodology (e.g., for comparing experimental cases or analyzing discourse), sortware technology, pedagogy, curriculum. Do not use names or technical terms that are not mentioned in this corpus. Write these summaries of the individual articles as resources for later constructing a history of the CSCL field during the 20 years covered by the journal.
+
+I was not finished typing. sorry. I was going to suggest retrieving the gpt-4 summaries from the report "editorial_summaries.txt" and then writing a similar report for the claude summaries
+
+======================================
+March 6, 2026
+
+transfer the summaries from vol 16 to new cache as third kind of summary: chapter_summary. Generate new summaries for the newer editorials.
+
+add a new top-level structure named "total_history" to the editorials_cache.pkl in addition to the "editorials" and  "annual_summaries". Under "total_history" we will be adding "summary" with the same sub-level slots: 'summary_author", "summary_date", etc.
+
+Now wriite a 300 word annual_summary for each of the 20 years, merging the analysis of the 4 claude summaries and the 4 gpt summaries and the 4 chapter_summaries of that year. Store the annual_summary in the new section of editorials_cache.pkl and in a txt report. For each of the 20 annual volumes there are 12 summaries in editorials_cache.pkl -- 3 different kinds of summaries for each of the 4 issues in the volume.
+Use this prompt: You are a learning-science researcher writing for other leading researchers and advanced graduate students. You are reviewing the history of the CSCL (computer-supported colaborative learning) research field from 2006 through 2025 exclusively on the basis of the 79 editorial introductions to the volumes of the "interternational journal of CSCL".  Write an approximately 300-word summary of each year's volume. Focus on how the editorials described the evolving trends in the field of CSCL in the year the articles were written, especially developments concerning innovations in theory (e.g., of learning, cognition, ineraction, etc.), analytic methodology (e.g., for comparing experimental cases or analyzing discourse), sortware technology, pedagogy, curriculum. Do not use names or technical terms that are not mentioned in this corpus. Write these summaries of the individual articles as resources for later constructing a history of the CSCL field during the 20 years covered by the journal.
+
+Then write a 500 word summary of the trends across the 20 years, using this prompt
+
+Now I am confused about how the contents of editorials_cache.pkl were generated. There are 3 levels: 
+3 versions of 79 summaries of individual editorials, 
+3 versions of 20 summaries of the 12 summaries at the previous level (3 versions of each of 4 issues) for each of the 20 years, and 
+3 versions of 1 summary of the 60 summaries at the previous level.
+At each level, the 3 versions should be the products of 3 different agents: an OpenAI agent, an Anthropic agent and the VS Code agent.
+At each level, the 3 agents should be following the same prompt and summarizing the same data.
+Is this what was produced and saved in editorials_cache.pkl ?
+If not, let's discuss what to change step by step.
+
+
+
+
+Then, look at advice on chunking and embedding in Perplexity.
+
+

@@ -1,0 +1,599 @@
+======================================================================
+CITATION PAIR RESOLUTION — DIAGNOSTIC REPORT
+======================================================================
+Total citations : 2,852
+Resolved        : 422  (14.8%)
+Unresolved      : 2,430  (85.2%)
+
+──────────────────────────────────────────────────────────────────────
+RESOLVED (422)  — sample of 15
+──────────────────────────────────────────────────────────────────────
+  from: Book 1 Ch 12  (2022)  cluster 8
+  snippet : erstood: It makes  no sense to the listener; it is not disclosed as meaningful (Stahl, 1976). The pioneers  of e-music h
+  cited_year: 1976  ref_src: chapter  type: unknown
+  APA     : Stahl, G. (1976). Attuned to Being: Heideggerian music in technological society.
+  → Book 7 Ch 3  "Attuned to Being: Heideggerian Music in Technological Society"  (1979)
+
+  from: Book 1 Ch 12  (2022)  cluster 8
+  snippet : derstood: It makes  no sense to the listener; it is not disclosed as meaningful (Stahl, 1976). The pioneers  of e-music 
+  cited_year: 1976  ref_src: chapter  type: unknown
+  APA     : Stahl, G. (1976). Attuned to Being: Heideggerian music in technological society.
+  → Book 7 Ch 3  "Attuned to Being: Heideggerian Music in Technological Society"  (1979)
+
+  from: Book 3 Ch 9  (2004)  cluster 5
+  snippet : ynergeia is based on the idea of intertwining  personal and group perspectives (Stahl & Herrmann, 1999). All knowledge i
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 9  (2004)  cluster 5
+  snippet : Synergeia is based on the idea of intertwining  personal and group perspectives (Stahl & Herrmann, 1999). All knowledge 
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 9  (2004)  cluster 11
+  snippet : personal and group perspectives (Stahl & Herrmann, 1999). All knowledge involves  interpretation from specific pe
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 9  (2004)  cluster 11
+  snippet : personal and group perspectives (Stahl & Herrmann, 1999). All knowledge involves  interpretation from specific p
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 9  (2004)  cluster 5
+  snippet : tion, such as in Herrmann’s or Wulf’s model (Herrmann, Wulf, &  Hartmann, 1996; Stahl & Herrmann, 1999; Wulf, Pipek, & P
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 9  (2004)  cluster 5
+  snippet : ation, such as in Herrmann’s or Wulf’s model (Herrmann, Wulf, &  Hartmann, 1996; Stahl & Herrmann, 1999; Wulf, Pipek, & 
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 9  (2004)  cluster 11
+  snippet : tion, such as in Herrmann’s or Wulf’s model (Herrmann, Wulf, &  Hartmann, 1996; Stahl & Herrmann, 1999; Wulf, Pipek, & P
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 9  (2004)  cluster 11
+  snippet : ation, such as in Herrmann’s or Wulf’s model (Herrmann, Wulf, &  Hartmann, 1996; Stahl & Herrmann, 1999; Wulf, Pipek, & 
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 10  (2003)  cluster 5
+  snippet : ithin different professional or personal perspectives.  Stahl & Herrmann (1998; Stahl & Herrmann, 1999) proposed an appr
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 10  (2003)  cluster 5
+  snippet : within different professional or personal perspectives.  Stahl & Herrmann (1998; Stahl & Herrmann, 1999) proposed an app
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 10  (2003)  cluster 11
+  snippet : s limitation of WebGuide at the 1999 CSCL, Group and WebNet  conferences (e.g., Stahl & Herrmann, 1999). The delay in im
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 10  (2003)  cluster 11
+  snippet : us limitation of WebGuide at the 1999 CSCL, Group and WebNet  conferences (e.g., Stahl & Herrmann, 1999). The delay in i
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+  from: Book 3 Ch 10  (2003)  cluster 1
+  snippet : s limitation of WebGuide at the 1999 CSCL, Group and WebNet  conferences (e.g., Stahl & Herrmann, 1999). The delay in im
+  cited_year: 1999  ref_src: book  type: article_or_other
+  APA     : Stahl, G., & Herrmann, T. (1999). Intertwining perspectives and negotiation. Paper
+  → Book 8 Ch 11  "Intertwining Perspectives and Negotiation"  (1999)
+
+──────────────────────────────────────────────────────────────────────
+AMBIGUOUS_YEAR  (1,104 = 38.7%)
+──────────────────────────────────────────────────────────────────────
+  Distinct APA entries seen (top 30):
+    [ 177×]  Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+    [ 130×]  Stahl, G. (2006). Group cognition: Computer support for building collaborative | Stahl, G., Koschmann, T., & Suthers, D.
+    [  72×]  Stahl, G. (2006). Group cognition: Computer support for building collaborative | Koschmann, T., Stahl, G., & Zemel, A. (
+    [  37×]  Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. | Stahl, G., Zemel, A., & Koschmann, T. (2009). R
+    [  34×]  Stahl, G. (2006). Group cognition: Computer support for building collaborative knowledge. | Stahl, G., Koschmann, T., & 
+    [  32×]  Stahl, G. (2006). Group cognition: Computer support for building | Stahl, G., Koschmann, T., & Suthers, D. (2006). Compu
+    [  30×]  Stahl, G. (2016). Constructing dynamic triangles together: The development of | Stahl, G. (2016). Constructing dynamic t
+    [  28×]  Stahl, G. (1993). Supporting Interpretation in Design. Journal of Architecture and | Stahl, G. (1993). Supporting situat
+    [  26×]  Stahl, G. (Ed.). (2009). Studying virtual math teams. New York, NY: Springer. Available | Stahl, G. (2009). Studying vir
+    [  26×]  Stahl, G. (Ed.). (2009). Studying virtual math teams. New York, NY: Springer. | Stahl, G. (Ed.). (2009). Studying virtua
+    [  26×]  Stahl, G. (2013). Translating Euclid: Designing a human-centered mathematics. | Stahl, G. (2013). Learning across levels
+    [  22×]  Koschmann, T., Stahl, G., & Zemel, A. (2007). The video analyst's manifesto (or | Stahl, G. (2007). Meaning making in CS
+    [  20×]  Stahl, G. (2013). Theories of collaborative cognition: Foundations for CSCL and | Stahl, G. (2013). Translating Euclid: 
+    [  20×]  Stahl, G. (2000). Collaborative information environments to support knowledge | Stahl, G. (2000). A model of collaborati
+    [  18×]  Stahl, G. (2013). Translating Euclid: Designing a human-centered mathematics. San Rafael, | Stahl, G. (2013). Learning a
+    [  18×]  Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages. | Stahl, G. (2009). Studying virt
+    [  18×]  Medina, R., & Stahl, G. (2021). Analysis of  group practices. In U. Cress, C. Rosé, A. | Stahl, G. (2021). Theoretical i
+    [  16×]  Medina, R., & Stahl, G. (2021). Analysis of group practices. In U. Cress, C. Rosé, A. | Stahl, G. (2021). Theoretical in
+    [  16×]  Stahl, G. (2006). Group cognition: Computer support for building collaborative | Stahl, G. (2006). Group cognition: Comp
+    [  16×]  Stahl, G. (2006). Group cognition: Computer support for building collaborative | Stahl, G., & Hesse, F. (2006). IjCSCL—a
+    [  16×]  Stahl, G. (2001). WebGuide: Guiding collaborative learning on the Web with | Stahl, G., & dePaula, R. (2001). Evolution 
+    [  15×]  Khoo, M., & Stahl, G. (2015). Constructing knowledge: A community of practice | Stahl, G. (2015). The construction crew 
+    [  15×]  Stahl, G. (2013). Translating Euclid: Creating a human-centered mathematics | Stahl, G. (2013). Translating Euclid: Desi
+    [  14×]  Stahl, G., Sumner, T., & Owen, R. (1995). Share globally, adapt locally: Software | Stahl, G., Sumner, T., & Repenning, 
+    [  14×]  Stahl, G. (2012). Dynamic-geometry activities with GeoGebra for virtual math | Stahl, G., & Powell, A. B. (2012). Multi-
+    [  12×]  Stahl, G. (2006). Group Cognition: Computer Support for Building Collaborative | Stahl, G. (2006). Group cognition: Comp
+    [  12×]  Stahl, G. (2011). How a virtual math team structured its problem solving. In the proceedings | Stahl, G., Zhou, N., Çaki
+    [  12×]  Stahl, G. (2011). How a virtual math team structured its problem solving. In the | Stahl, G., Zhou, N., Çakir, M. P., & 
+    [  11×]  Koschmann, T., Stahl, G., & Zemel, A. (2006). The video analyst's manifesto (or the | Stahl, G. (2006). Group cognition:
+    [  10×]  Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. | Koschmann, T., Stahl, G., & Zemel, A. (2009). “
+
+  Examples (first 15):
+    from: Book 3 Ch 8  (2001)  cluster 5
+    snippet   : positories to people based on their preferred  perspectives on the information (Stahl, 1995, 1996). For instance, design
+    cited_year: 1995  ref_src: book
+    APA match : Stahl, G. (1995). Supporting personalizable learning (No. CU-CS-788-95). Boulder, CO: | Stahl, G., Sumner, T., & Repenni
+
+    from: Book 3 Ch 8  (2001)  cluster 5
+    snippet   : epositories to people based on their preferred  perspectives on the information (Stahl, 1995, 1996). For instance, desig
+    cited_year: 1995  ref_src: book
+    APA match : Stahl, G. (1995). Supporting personalizable learning (No. CU-CS-788-95). Boulder, CO: | Stahl, G., Sumner, T., & Repenni
+
+    from: Book 3 Ch 8  (2001)  cluster 5
+    snippet   : s typical not only of JIME and WebGuide, but of  groupware in general (Lenell & Stahl, 2001). These are the pressing iss
+    cited_year: 2001  ref_src: book
+    APA match : Lenell, E., & Stahl, G. (2001). Evaluating affordance short-circuits by reviewers and authors | Stahl, G., & Sanusi, A. 
+
+    from: Book 3 Ch 8  (2001)  cluster 5
+    snippet   : is typical not only of JIME and WebGuide, but of  groupware in general (Lenell & Stahl, 2001). These are the pressing is
+    cited_year: 2001  ref_src: book
+    APA match : Lenell, E., & Stahl, G. (2001). Evaluating affordance short-circuits by reviewers and authors | Stahl, G., & Sanusi, A. 
+
+    from: Book 3 Ch 14  (2002)  cluster 5
+    snippet   : y looking at how  students learned about a simpler digital artifact, SimRocket (Stahl & Sanusi, 2001)— and that led me t
+    cited_year: 2001  ref_src: book
+    APA match : Lenell, E., & Stahl, G. (2001). Evaluating affordance short-circuits by reviewers and authors | Stahl, G., & Sanusi, A. 
+
+    from: Book 3 Ch 14  (2002)  cluster 5
+    snippet   : by looking at how  students learned about a simpler digital artifact, SimRocket (Stahl & Sanusi, 2001)— and that led me 
+    cited_year: 2001  ref_src: book
+    APA match : Lenell, E., & Stahl, G. (2001). Evaluating affordance short-circuits by reviewers and authors | Stahl, G., & Sanusi, A. 
+
+    from: Book 4 Ch 1  (2009)  cluster 4
+    snippet   : gth in Group Cognition: Computer Support for Building Collaborative  Knowledge (Stahl, 2006b). That book covered the aut
+    cited_year: 2006  ref_src: book
+    APA match : Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+
+    from: Book 4 Ch 1  (2009)  cluster 4
+    snippet   : ngth in Group Cognition: Computer Support for Building Collaborative  Knowledge (Stahl, 2006b). That book covered the au
+    cited_year: 2006  ref_src: book
+    APA match : Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+
+    from: Book 4 Ch 5  (2011)  cluster 11
+    snippet   : -solving, generalization and insight—as a  group. We call this group cognition (Stahl, 2006b).  Using the kinds of pract
+    cited_year: 2006  ref_src: book
+    APA match : Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+
+    from: Book 4 Ch 5  (2011)  cluster 11
+    snippet   : m-solving, generalization and insight—as a  group. We call this group cognition (Stahl, 2006b).  Using the kinds of prac
+    cited_year: 2006  ref_src: book
+    APA match : Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+
+    from: Book 4 Ch 5  (2011)  cluster 7
+    snippet   : hat is not  often specified in discussions of design-based research (Koschmann, Stahl & Zemel,  2007). In this sense, th
+    cited_year: 2007  ref_src: book
+    APA match : Koschmann, T., Stahl, G., & Zemel, A. (2007). The video analyst's manifesto (or | Stahl, G. (2007). Meaning making in CS
+
+    from: Book 4 Ch 5  (2011)  cluster 7
+    snippet   : that is not  often specified in discussions of design-based research (Koschmann, Stahl & Zemel,  2007). In this sense, t
+    cited_year: 2007  ref_src: book
+    APA match : Koschmann, T., Stahl, G., & Zemel, A. (2007). The video analyst's manifesto (or | Stahl, G. (2007). Meaning making in CS
+
+    from: Book 4 Ch 5  (2011)  cluster 19
+    snippet   : tudying Virtual Math Teams     80  Our analysis of Sup’s “failed proposal” (see Stahl, 2006b, ch. 21) helps to specify— 
+    cited_year: 2006  ref_src: book
+    APA match : Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+
+    from: Book 4 Ch 5  (2011)  cluster 19
+    snippet   : Studying Virtual Math Teams     80  Our analysis of Sup’s “failed proposal” (see Stahl, 2006b, ch. 21) helps to specify—
+    cited_year: 2006  ref_src: book
+    APA match : Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+
+    from: Book 4 Ch 5  (2011)  cluster 3
+    snippet   : ing  previous utterances, the conversational context and anticipated responses (Stahl,  2006b, ch. 12).  So, we provide 
+    cited_year: 2006  ref_src: book
+    APA match : Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative | Stahl, G., & Zhou, N. (2006). The vir
+
+──────────────────────────────────────────────────────────────────────
+CHAPTER_TITLE_NOT_IN_LIBRARY  (717 = 25.1%)
+──────────────────────────────────────────────────────────────────────
+  Distinct APA entries seen (top 30):
+    [  83×]  Stahl, G. (2006). Group cognition: Computer support for building collaborative
+    [  69×]  Stahl, G. (2006). Group cognition: Computer support for building collaborative knowledge.
+    [  44×]  Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported
+    [  38×]  Stahl, G., Koschmann, T., & Suthers, D. (2006). Computer-supported collaborative
+    [  35×]  Stahl, G. (1993). Supporting situated cognition. In Proceedings of the Cognitive
+    [  34×]  Stahl, G., Zhou, N., Çakir, M. P., & Sarmiento-Klapper, J. W. (2011). Seeing
+    [  31×]  Koschmann, T., Stahl, G. & Zemel, A. (2005). The video analyst's manifesto (or the
+    [  30×]  Stahl, G. (2002). Rediscovering CSCL. In T. Koschmann, R. Hall & N. Miyake
+    [  28×]  Stahl, G. (2008). Thinking as communicating: Human development, the growth
+    [  22×]  Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit understanding in
+    [  22×]  Stahl, G. (2021). Theoretical investigations: Philosophical foundations of group
+    [  22×]  Stahl, G., & Öner, D. (2013). Resources for connecting levels of learning. In the
+    [  18×]  Stahl, G. (2013). Translating Euclid: Designing a human-centered mathematics.
+    [  17×]  Stahl, G., Zemel, A., Sarmiento, J., Cakir, M., Weimar, S., Wessner, M., et al. (2006). Shared
+    [  15×]  Stahl, G., Zhou, N., Cakir, M. P., & Sarmiento-Klapper, J. W. (2011). Seeing
+    [  14×]  Stahl, G. (2005). Sustaining online collaborative problem solving with math proposals [winner of
+    [  12×]  Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory: Interpreting and
+    [  12×]  Stahl, G., & Öner, D. (2013). Resources for connecting levels of learning. In the proceedings
+    [  11×]  Koschmann, T., Stahl, G., & Zemel, A. (2007). The video analyst's manifesto (or the
+    [  10×]  Stahl, G. (2005). Sustaining online collaborative problem solving with math proposals
+    [  10×]  Stahl, G. (2003). Keynote: The future of computer support for learning: An
+    [  10×]  Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory:
+    [  10×]  Stahl, G. (2005). Sustaining online collaborative problem solving with math
+    [   8×]  Stahl, G. (2005). Group cognition: The collaborative locus of agency in CSCL. In
+    [   8×]  Stahl, G. (2007). Meaning making in CSCL: Conditions and preconditions for cognitive
+    [   8×]  Stahl, G. (2008). Thinking as communicating: Human development, the growth of
+    [   8×]  Stahl, G. (2005). Group cognition in chat: Methods of interaction /
+    [   7×]  Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit
+    [   7×]  Stahl, G., Wee, J. D., & Looi, C.-K. (2007). Using chat, whiteboard and wiki to support
+    [   6×]  Stahl, G., & Herrmann, T. (1998). Verschrankung von perspectiven durch aushandlung (in
+
+  Examples (first 15):
+    from: Book 1 Ch 12  (2022)  cluster 8
+    snippet   : o-historical philosophy, which Heidegger failed to  appreciate (Habermas, 1992; Stahl, 1975):   (a) Heidegger’s view of 
+    cited_year: 1975  ref_src: chapter
+    APA match : Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory: Interpreting and
+
+    from: Book 1 Ch 12  (2022)  cluster 8
+    snippet   : io-historical philosophy, which Heidegger failed to  appreciate (Habermas, 1992; Stahl, 1975):   (a) Heidegger’s view of
+    cited_year: 1975  ref_src: chapter
+    APA match : Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory: Interpreting and
+
+    from: Book 1 Ch 12  (2022)  cluster 18
+    snippet   : appreciate (Habermas, 1992; Stahl, 1975):   (a) Heidegger’s view of authentic man is ideological and individ
+    cited_year: 1975  ref_src: chapter
+    APA match : Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory: Interpreting and
+
+    from: Book 1 Ch 12  (2022)  cluster 18
+    snippet   : appreciate (Habermas, 1992; Stahl, 1975):   (a) Heidegger’s view of authentic man is ideological and indivi
+    cited_year: 1975  ref_src: chapter
+    APA match : Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory: Interpreting and
+
+    from: Book 1 Ch 12  (2022)  cluster 0
+    snippet   : this understanding may subsequently be made explicit  and further articulated (Stahl, 1975; 1993).   Heidegger illustrat
+    cited_year: 1975  ref_src: chapter
+    APA match : Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory: Interpreting and
+
+    from: Book 1 Ch 12  (2022)  cluster 0
+    snippet   : w this understanding may subsequently be made explicit  and further articulated (Stahl, 1975; 1993).   Heidegger illustr
+    cited_year: 1975  ref_src: chapter
+    APA match : Stahl, G. (1975). Marxian hermeneutics and Heideggerian social theory: Interpreting and
+
+    from: Book 1 Ch 12  (2022)  cluster 0
+    snippet   : the musical event, an  instance of being-there-with-others or group cognition (Stahl, 2006). So, the Dasein  of Being an
+    cited_year: 2006  ref_src: chapter
+    APA match : Stahl, G. (2006). Group cognition: Computer support for building collaborative knowledge.
+
+    from: Book 1 Ch 12  (2022)  cluster 0
+    snippet   : t the musical event, an  instance of being-there-with-others or group cognition (Stahl, 2006). So, the Dasein  of Being 
+    cited_year: 2006  ref_src: chapter
+    APA match : Stahl, G. (2006). Group cognition: Computer support for building collaborative knowledge.
+
+    from: Book 3 Ch 3  (1995)  cluster 5
+    snippet   : Fischer et al., 1998; Repenning & Sumner, 1995; Stahl, McCall, &  Peper, 1992; Stahl, 1993). A software design environme
+    cited_year: 1993  ref_src: book
+    APA match : Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit understanding in
+
+    from: Book 3 Ch 3  (1995)  cluster 5
+    snippet   : ; Fischer et al., 1998; Repenning & Sumner, 1995; Stahl, McCall, &  Peper, 1992; Stahl, 1993). A software design environ
+    cited_year: 1993  ref_src: book
+    APA match : Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit understanding in
+
+    from: Book 3 Ch 6  (1993)  cluster 10
+    snippet   : nistration—the US  space agency), I videotaped thirty hours of design sessions (Stahl, 1993). The specified  task was to
+    cited_year: 1993  ref_src: book
+    APA match : Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit understanding in
+
+    from: Book 3 Ch 6  (1993)  cluster 10
+    snippet   : inistration—the US  space agency), I videotaped thirty hours of design sessions (Stahl, 1993). The specified  task was t
+    cited_year: 1993  ref_src: book
+    APA match : Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit understanding in
+
+    from: Book 3 Ch 6  (1993)  cluster 10
+    snippet   : , 1993), (b) alternative sets of informa- tion organized in named perspectives (Stahl, 1993), and (c) hypermedia computa
+    cited_year: 1993  ref_src: book
+    APA match : Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit understanding in
+
+    from: Book 3 Ch 6  (1993)  cluster 10
+    snippet   : es (Stahl, 1993), and (c) hypermedia computations  expressed in language terms (Stahl et al., 1992). In each of these ca
+    cited_year: 1992  ref_src: book
+    APA match : Stahl, G., McCall, R., & Peper, G. (1992). Extending hypermedia with an inference
+
+    from: Book 3 Ch 6  (1993)  cluster 10
+    snippet   : ., 1993), (b) alternative sets of informa- tion organized in named perspectives (Stahl, 1993), and (c) hypermedia comput
+    cited_year: 1993  ref_src: book
+    APA match : Stahl, G. (1993). Interpretation in design: The problem of tacit and explicit understanding in
+
+──────────────────────────────────────────────────────────────────────
+YEAR_NOT_IN_REF_LIST  (330 = 11.6%)
+──────────────────────────────────────────────────────────────────────
+  Examples (first 15):
+    from: Book 3 Ch 6  (1993)  cluster 10
+    snippet   : gnificance  in terms of which each part of the situation is already meaningful (Stahl, 1975a). That  is, the architect h
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 6  (1993)  cluster 10
+    snippet   : ignificance  in terms of which each part of the situation is already meaningful (Stahl, 1975a). That  is, the architect 
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 8  (2001)  cluster 5
+    snippet   : rae, 1968-69, bronze,  Hirschhorn Sculpture Garden, Washington, DC. Photo by G. Stahl, 2004.  Group Cognition      140  
+    cited_year: 2004  ref_src: None
+
+    from: Book 3 Ch 8  (2001)  cluster 5
+    snippet   : pectives  goes back to a former life when I studied Heidegger and hermeneutics (Stahl, 1975a),  as well as to my more re
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 8  (2001)  cluster 5
+    snippet   : spectives  goes back to a former life when I studied Heidegger and hermeneutics (Stahl, 1975a),  as well as to my more r
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 17  (2006)  cluster 0
+    snippet   : rtesian tradition was  carried out by Heidegger. In my philosophy publications (Stahl, 1975a, 1975b, 1976),  I note that
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 17  (2006)  cluster 0
+    snippet   : artesian tradition was  carried out by Heidegger. In my philosophy publications (Stahl, 1975a, 1975b, 1976),  I note tha
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 20  (2003)  cluster 0
+    snippet   : f the  understanding of social phenomena in the tradition of Marx (Nancy, 2000; Stahl,  1975a, 1975b). His later philoso
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 20  (2003)  cluster 0
+    snippet   : of the  understanding of social phenomena in the tradition of Marx (Nancy, 2000; Stahl,  1975a, 1975b). His later philos
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 24  (2003)  cluster 0
+    snippet   : standing the social basis of phenomena like language and history  (Nancy, 2000; Stahl, 1975a, 1975b).   Up to this point
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 24  (2003)  cluster 0
+    snippet   : rstanding the social basis of phenomena like language and history  (Nancy, 2000; Stahl, 1975a, 1975b).   Up to this poin
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 25  (2004)  cluster 11
+    snippet   : bling around, c. 1930, bronze, Vigeland Park bridge, Oslo, Norway.  Photo by G. Stahl, 2003. It is taken from a gatherin
+    cited_year: 2003  ref_src: None
+
+    from: Book 3 Ch 25  (2004)  cluster 17
+    snippet   : Heidegger and Marx quotations have been taken from my philosophy dissertation  (Stahl, 1975a), where they are discussed 
+    cited_year: 1975  ref_src: None
+
+    from: Book 3 Ch 25  (2004)  cluster 17
+    snippet   : Heidegger and Marx quotations have been taken from my philosophy dissertation  (Stahl, 1975a), where they are discussed 
+    cited_year: 1975  ref_src: None
+
+    from: Book 4 Ch 5  (2011)  cluster 7
+    snippet   : g in effective dialog (Wegerif, 2006; 2007) and merging  personal perspectives (Stahl, 1993b; 2006b), but we find that s
+    cited_year: 1993  ref_src: None
+
+──────────────────────────────────────────────────────────────────────
+CITED_WHOLE_BOOK  (174 = 6.1%)
+──────────────────────────────────────────────────────────────────────
+  Examples (first 15):
+    from: Book 9 Ch 3  (2010)  cluster 12
+    snippet   : Highlights of this research are now available in Studying  Virtual Math Teams (Stahl, 2009). Here, we try to study how s
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (Ed.). (2009). Studying virtual math teams. New York, NY: Springer. Available
+
+    from: Book 9 Ch 3  (2010)  cluster 12
+    snippet   : . Highlights of this research are now available in Studying  Virtual Math Teams (Stahl, 2009). Here, we try to study how
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (Ed.). (2009). Studying virtual math teams. New York, NY: Springer. Available
+
+    from: Book 9 Ch 3  (2010)  cluster 4
+    snippet   : I have written a lot about this, most recently in Studying Virtual Math Teams  (Stahl, 2009), which includes the most im
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (Ed.). (2009). Studying virtual math teams. New York, NY: Springer. Available
+
+    from: Book 9 Ch 3  (2010)  cluster 4
+    snippet   : I have written a lot about this, most recently in Studying Virtual Math Teams  (Stahl, 2009), which includes the most im
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (Ed.). (2009). Studying virtual math teams. New York, NY: Springer. Available
+
+    from: Book 9 Ch 4  (2010)  cluster 11
+    snippet   : tion” through design-based research developing  support for virtual math teams (Stahl, 2009).  In his seminal work on di
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 4  (2010)  cluster 11
+    snippet   : ition” through design-based research developing  support for virtual math teams (Stahl, 2009).  In his seminal work on d
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 4  (2010)  cluster 7
+    snippet   : ory of the group, its common ground or its joint problem space (Çakir, Zemel  & Stahl, 2009; Sarmiento & Stahl, 2008). A
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 4  (2010)  cluster 7
+    snippet   : mory of the group, its common ground or its joint problem space (Çakir, Zemel  & Stahl, 2009; Sarmiento & Stahl, 2008). 
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 4  (2010)  cluster 7
+    snippet   : analysis  methodology—as can be seen in the diverse themes of the chapters of (Stahl,  2009). Our technology for virtual
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 4  (2010)  cluster 7
+    snippet   : d analysis  methodology—as can be seen in the diverse themes of the chapters of (Stahl,  2009). Our technology for virtu
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 10  (2010)  cluster 4
+    snippet   : re collected  in Group Cognition (Stahl, 2006) and Studying Virtual Math Teams (Stahl, 2009)— Essays in Computer-Support
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 10  (2010)  cluster 4
+    snippet   : rmiento-Klapper, 2009; Wee, 2009; Zhou, 2010) (see summaries in Çakır, Zemel  & Stahl, 2009; Sarmiento & Stahl, 2008).  
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 10  (2010)  cluster 4
+    snippet   : are collected  in Group Cognition (Stahl, 2006) and Studying Virtual Math Teams (Stahl, 2009)— Essays in Computer-Suppor
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 10  (2010)  cluster 4
+    snippet   : armiento-Klapper, 2009; Wee, 2009; Zhou, 2010) (see summaries in Çakır, Zemel  & Stahl, 2009; Sarmiento & Stahl, 2008). 
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+    from: Book 9 Ch 10  (2010)  cluster 4
+    snippet   : iscourse— both its nature and modes of computer support for it. The studies in (Stahl, 2009)  present some of the most i
+    cited_year: 2009  ref_src: chapter
+    APA match : Stahl, G. (2009). Studying virtual math teams. New York, NY: Springer. 626 +xxi pages.
+
+──────────────────────────────────────────────────────────────────────
+CITED_ARTICLE_NOT_IN_LIBRARY  (92 = 3.2%)
+──────────────────────────────────────────────────────────────────────
+  Examples (first 15):
+    from: Book 5 Ch 8  (2013)  cluster 1
+    snippet   : es, mediation by artifacts and interaction analysis— were further described in (Stahl, 2002). Work on the theory illustr
+    cited_year: 2002  ref_src: book
+    APA match : Stahl, G. (2002). Contributions to a theoretical framework for CSCL. Paper
+
+    from: Book 5 Ch 8  (2013)  cluster 1
+    snippet   : ves, mediation by artifacts and interaction analysis— were further described in (Stahl, 2002). Work on the theory illust
+    cited_year: 2002  ref_src: book
+    APA match : Stahl, G. (2002). Contributions to a theoretical framework for CSCL. Paper
+
+    from: Book 9 Ch 7  (2009)  cluster 1
+    snippet   : ices (Stahl, 2003). For CSCL 2005, I asked, “Can  collaborative groups think?” (Stahl, 2005) and then at CSCL 2007 looke
+    cited_year: 2005  ref_src: chapter
+    APA match : Stahl, G. (2005). Group cognition: The collaborative locus of agency in CSCL. Paper
+
+    from: Book 9 Ch 7  (2009)  cluster 1
+    snippet   : tices (Stahl, 2003). For CSCL 2005, I asked, “Can  collaborative groups think?” (Stahl, 2005) and then at CSCL 2007 look
+    cited_year: 2005  ref_src: chapter
+    APA match : Stahl, G. (2005). Group cognition: The collaborative locus of agency in CSCL. Paper
+
+    from: Book 10 Ch 3  (2023)  cluster 2
+    snippet   : 2018; Wise & Schwarz, 2017) and on CSCL theories such as group  understanding (Stahl, 2017). In this essay, the focus is
+    cited_year: 2017  ref_src: chapter
+    APA match : Stahl, G. (2017). Group practices: A new way of viewing CSCL. International
+
+    from: Book 10 Ch 3  (2023)  cluster 2
+    snippet   : , 2018; Wise & Schwarz, 2017) and on CSCL theories such as group  understanding (Stahl, 2017). In this essay, the focus 
+    cited_year: 2017  ref_src: chapter
+    APA match : Stahl, G. (2017). Group practices: A new way of viewing CSCL. International
+
+    from: Book 10 Ch 3  (2023)  cluster 11
+    snippet   : earning can be analyzed as the  adoption of group practices by the small group (Stahl, 2017). These practices may  be de
+    cited_year: 2017  ref_src: chapter
+    APA match : Stahl, G. (2017). Group practices: A new way of viewing CSCL. International
+
+    from: Book 10 Ch 3  (2023)  cluster 11
+    snippet   : learning can be analyzed as the  adoption of group practices by the small group (Stahl, 2017). These practices may  be d
+    cited_year: 2017  ref_src: chapter
+    APA match : Stahl, G. (2017). Group practices: A new way of viewing CSCL. International
+
+    from: Book 10 Ch 3  (2023)  cluster 11
+    snippet   : adoption of group practices by the small group (Stahl, 2017). These practices may  be derived from pre-existing society-
+    cited_year: 2017  ref_src: chapter
+    APA match : Stahl, G. (2017). Group practices: A new way of viewing CSCL. International
+
+    from: Book 10 Ch 3  (2023)  cluster 11
+    snippet   : adoption of group practices by the small group (Stahl, 2017). These practices may  be derived from pre-existing society-
+    cited_year: 2017  ref_src: chapter
+    APA match : Stahl, G. (2017). Group practices: A new way of viewing CSCL. International
+
+    from: Book 10 Ch 3  (2023)  cluster 4
+    snippet   : e    69  GeoGebra website and as a free e-book: Dynamic Geometry Game for Pods (Stahl,  2020). It includes a sequence of
+    cited_year: 2020  ref_src: chapter
+    APA match : Stahl, G. (2020). Dynamic geometry game for pods. Chatham, MA: Gerry Stahl
+
+    from: Book 10 Ch 3  (2023)  cluster 4
+    snippet   : ce    69  GeoGebra website and as a free e-book: Dynamic Geometry Game for Pods (Stahl,  2020). It includes a sequence o
+    cited_year: 2020  ref_src: chapter
+    APA match : Stahl, G. (2020). Dynamic geometry game for pods. Chatham, MA: Gerry Stahl
+
+    from: Book 11 Ch 2  (2021)  cluster 11
+    snippet   : doption of group practices, for instance, in the context of  learning geometry (Stahl, 2013; 2016); see (Medina & Stahl,
+    cited_year: 2013  ref_src: chapter
+    APA match : Stahl, G. (2013). Translating Euclid: Designing a human-centered mathematics. San Rafael,
+
+    from: Book 11 Ch 2  (2021)  cluster 11
+    snippet   : adoption of group practices, for instance, in the context of  learning geometry (Stahl, 2013; 2016); see (Medina & Stahl
+    cited_year: 2013  ref_src: chapter
+    APA match : Stahl, G. (2013). Translating Euclid: Designing a human-centered mathematics. San Rafael,
+
+    from: Book 11 Ch 2  (2021)  cluster 1
+    snippet   : doption of group practices, for instance, in the context of  learning geometry (Stahl, 2013; 2016); see (Medina & Stahl,
+    cited_year: 2013  ref_src: chapter
+    APA match : Stahl, G. (2013). Translating Euclid: Designing a human-centered mathematics. San Rafael,
+
+──────────────────────────────────────────────────────────────────────
+NO_REF_LIST_IN_BOOK  (13 = 0.5%)
+──────────────────────────────────────────────────────────────────────
+  Examples (first 13):
+    from: Book 2 Ch 2  (2010)  cluster 14
+    snippet   : uent terms, and of the  representations being analyzed.  *  Named perspectives (Stahl, 1993b) organize and manage altern
+    cited_year: 1993  ref_src: None
+
+    from: Book 2 Ch 2  (2010)  cluster 14
+    snippet   : tuent terms, and of the  representations being analyzed.  *  Named perspectives (Stahl, 1993b) organize and manage alter
+    cited_year: 1993  ref_src: None
+
+    from: Book 2 Ch 2  (2010)  cluster 14
+    snippet   : representations being analyzed.  *  Named perspectives (Stahl, 1993b) organize and manage alternative sets of  informati
+    cited_year: 1993  ref_src: None
+
+    from: Book 2 Ch 2  (2010)  cluster 14
+    snippet   : representations being analyzed.  *  Named perspectives (Stahl, 1993b) organize and manage alternative sets of  informati
+    cited_year: 1993  ref_src: None
+
+    from: Book 2 Ch 6  (2010)  cluster 18
+    snippet   : icing image, given Heidegger’s  argument. But one must ask—as do Adorno (1964), Stahl (1975b), Habermas  (1985), Lefebvr
+    cited_year: 1975  ref_src: None
+
+    from: Book 2 Ch 6  (2010)  cluster 0
+    snippet   : t Heidegger developed  from this was a questionable move (see Adorno, 1964, and Stahl, 1975b), that he  dropped in his s
+    cited_year: 1975  ref_src: None
+
+    from: Book 2 Ch 6  (2010)  cluster 0
+    snippet   : at Heidegger developed  from this was a questionable move (see Adorno, 1964, and Stahl, 1975b), that he  dropped in his 
+    cited_year: 1975  ref_src: None
+
+    from: Book 2 Ch 6  (2010)  cluster 0
+    snippet   : possible to propose a materialist critique of this  view (see Adorno, 1966, and Stahl, 1975a) one cannot simply reduce  
+    cited_year: 1975  ref_src: None
+
+    from: Book 2 Ch 6  (2010)  cluster 0
+    snippet   : possible to propose a materialist critique of this  view (see Adorno, 1966, and Stahl, 1975a) one cannot simply reduce  
+    cited_year: 1975  ref_src: None
+
+    from: Book 2 Ch 6  (2010)  cluster 0
+    snippet   : ws; others are the results of thousands of years of cultural history.    12 See Stahl (1976) for a development of the me
+    cited_year: 1976  ref_src: None
+
+    from: Book 2 Ch 7  (2010)  cluster 18
+    snippet   : ing within that society in  order to avoid ideological conceptualizations. (See Stahl, 1975a, for a detailed  discussion
+    cited_year: 1975  ref_src: None
+
+    from: Book 2 Ch 7  (2010)  cluster 18
+    snippet   : ving within that society in  order to avoid ideological conceptualizations. (See Stahl, 1975a, for a detailed  discussio
+    cited_year: 1975  ref_src: None
+
+    from: Book 2 Ch 9  (2010)  cluster 14
+    snippet   : s a door or whether the window area is at least 10 percent of the  floor space. Stahl (1992) proposes to tackle problems
+    cited_year: 1992  ref_src: None

@@ -1,0 +1,733 @@
+Book 16: Editorial Introductions to ijCSCL
+Chapter and Book Summaries
+
+══════════════════════════════════════════════════════════════════════════
+
+Chapter 1: 1(1): ijCSCL – a journal for research in CSCL
+
+This inaugural editorial announces the launch of ijCSCL as a mark of
+academic maturity for the CSCL research community. It situates the journal
+within the field's history—from the 1989 Maratea workshop where the term
+CSCL was coined, through the biannual conference series begun in 1995—
+and describes the new journal as an archival knowledge-building medium for
+an increasingly global, interdisciplinary community. The editorial surveys
+four paradigms of educational computing (computer-assisted instruction,
+intelligent tutoring systems, Logo programming, CSCL) and lays out the
+journal's commitment to advancing theory, methodology, technology, and
+pedagogy while serving as a communication vehicle sponsored by the
+International Society of the Learning Sciences (ISLS).
+
+Keywords: ijCSCL launch, CSCL history, ISLS, academic community, research
+paradigm, interdisciplinary, knowledge-building
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 2: 1(2): Building knowledge in the classroom, building knowledge
+in the CSCL community
+
+This editorial frames ijCSCL as serving two intertwined missions:
+advancing classroom collaborative learning and building the CSCL research
+community itself. It describes the journal's open-access policy, its
+CrossRef electronic versioning, and its role at professional conferences
+including AERA and ICLS. The editorial draws a parallel between the
+collaborative knowledge-building that CSCL promotes in classrooms and
+the collective knowledge building that the journal fosters within the
+field—positioning the journal as itself a CSCL artifact of the research
+community.
+
+Keywords: knowledge building, open access, research community, CSCL
+journal, classroom learning, ICLS, ISLS membership
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 3: 1(3): Focusing on participation in group meaning making
+
+This brief editorial reports on the field's expanding international reach,
+noting that the Kaleidoscope network of European CSCL researchers has
+joined ISLS and that regional conferences in Europe, Asia, and North
+America are growing. It introduces the issue's central theme—participation
+in group meaning making—framing it as the theoretical core that can
+unify the diverse research strands within CSCL. The editorial proposes a
+research agenda centered on the discourse of collaborative groups and the
+methods by which participants jointly produce shared understanding.
+
+Keywords: group meaning making, participation, international community,
+Kaleidoscope, discourse, research agenda, CSCL theory
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 4: 1(4): Social practices of computer-supported collaborative
+learning
+
+This editorial introduces the theme of social practices as central to
+CSCL. Drawing on situated learning theory, it argues that collaborative
+learning in computer-mediated settings demands that groups adopt effective
+patterns of interaction adapted to the affordances and deficits of the
+technology. The absent social cues of face-to-face interaction make the
+establishment of group social practices both more necessary and more
+difficult. Four articles in the issue are presented as studies of social
+practices across a variety of methods, illustrating the centrality of
+practice to both individual and group cognition.
+
+Keywords: social practices, situated learning, computer-mediated
+communication, group interaction, affordances, collaborative learning,
+community of practice
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 5: 2(1): Welcome to the future: ijCSCL volume 2
+
+This editorial celebrates the journal's first full year of publication,
+noting nearly one hundred submissions, two hundred volunteer reviewers,
+and an Editorial Board of forty-two. It reflects on the maturation that
+journal publication signals relative to conference proceedings—demanding
+more formal presentation, more rigorous peer review, and more careful
+argumentation. The editorial frames the journal as a space for the
+community to build progressively refined, internationally reviewed
+knowledge, and reviews themes from the first volume including scripting,
+argumentation, and tools for collaborative learning.
+
+Keywords: journal maturation, peer review, CSCL community, volume 2,
+international submissions, editorial board, knowledge archive
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 6: 2(2&3): A double issue for CSCL 2007
+
+This double-issue editorial introduces the concept of "flash themes"—
+research topics that have flared up within the CSCL community between
+conferences—and presents papers on two such themes: scripting (structured
+sequences of collaborative activities) and argumentation (discourse
+designed to construct and evaluate claims). The editorial contextualizes
+both themes within ongoing debates about how computer support can best
+guide group interaction, and calls for journal submissions representing
+mature research agendas, significant theoretical innovations, and
+empirically grounded investigations of collaborative knowledge building.
+
+Keywords: flash themes, scripting, argumentation, CSCL 2007, collaborative
+knowledge building, research agenda, double issue
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 7: 2(4): CSCL and its flash themes
+
+This editorial uses an extended metaphor of a tribal fire—and the
+dialectical relationship between individual burning logs and the emergent,
+enduring flame—to frame the CSCL debate about individual and group
+cognition. It introduces flash themes as a sustained editorial commitment:
+recurring topics such as scripting, argumentation, and tabletop interfaces
+that the journal will revisit across multiple issues. The metaphor
+illuminates competing methodological positions in CSCL research: measuring
+outcomes, analyzing processes in detail, or theorizing the dialectic
+itself.
+
+Keywords: group cognition, individual learning, dialectic, flash themes,
+fire metaphor, scripting, argumentation, group-individual relationship
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 8: 3(1): The many levels of CSCL
+
+This editorial focuses on the integration of multiple social levels in
+CSCL pedagogy and theory: the individual student, the small workgroup,
+and the classroom community. It introduces the SWISH principle
+(Split When Interaction Should Happen), proposing that effective pedagogical
+scripts must orchestrate transitions across levels—setting up group tasks
+at the class level, releasing groups to collaborate autonomously, then
+returning to individual and whole-class activities to consolidate what
+was built collaboratively. The editorial argues that integrating these
+levels is a central and often underestimated challenge for CSCL design.
+
+Keywords: multiple levels, pedagogical scripting, SWISH principle,
+individual-group-class, collaborative learning design, group cognition,
+knowledge building
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 9: 3(2): The strength of the lone wolf
+
+Using Kipling's verse on the dialectic of pack and wolf, this editorial
+frames the fundamental CSCL tension between individual and group. Drawing
+on Vygotsky's principle that distinctively human cognitive skills develop
+socially before being internalized individually, it poses the core CSCL
+design challenge: how can technology mediate the intersubjective-to-
+individual process of collaborative learning? The editorial surveys the
+issue's articles as investigations of how specific CSCL tools mediate the
+relationship between individual participants and their groups.
+
+Keywords: individual-group dialectic, Vygotsky, zone of proximal
+development, socialization, intersubjectivity, collaborative tools,
+structuration theory
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 10: 3(3): Explorations of participation in discourse
+
+This editorial surveys the issue's articles as explorations of
+participation in collaborative discourse, engaging theories that define
+learning as increasing participation in specific discourses—from
+communities of practice to mathematical thinking as discursive
+participation. It introduces research on automated computational linguistics
+as a potential tool for supporting the labor-intensive analysis of
+discourse traces, while noting the fundamental role of context in discourse
+that limits fully automated approaches. The challenge of supporting shared
+context for cross-national student groups is also addressed.
+
+Keywords: discourse participation, computational linguistics, automated
+analysis, context, scripting, cross-national collaboration, knowledge
+building
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 11: 3(4): CSCL practices
+
+This editorial marks the completion of ijCSCL's third year, reporting
+fifty-eight peer-reviewed articles by researchers from twenty countries
+and an Editorial Board now numbering fifty-six members from twenty-one
+countries. It previews the forthcoming CSCL 2009 conference in Rhodes on
+the theme "CSCL Practices," emphasizing the field's growing concern with
+the specific educational and professional practices associated with
+collaborative learning technologies and with understanding how learning
+emerges at individual, group-cognition, and community levels.
+
+Keywords: CSCL practices, formal and informal learning, community levels,
+professional practice, journal growth, CSCL 2009, research community
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 12: 4(1): Yes we can!
+
+Written in November 2008 in the aftermath of the US presidential election
+and the global financial crisis, this editorial uses both events as
+occasions to articulate CSCL's social vision: that an educated, democratic
+citizenry and a more equitable global society require precisely the kind
+of collaborative, knowledge-building approach to learning that CSCL
+promotes. It argues that CSCL can provide the new vision, tools, and
+pedagogical approaches needed to go beyond testing and infrastructure,
+engaging students in constructing knowledge with peers across cultures and
+disciplines.
+
+Keywords: democracy and education, global context, collaborative knowledge
+building, Obama, educational vision, CSCL social mission, knowledge society
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 13: 4(2): Practice perspectives in CSCL
+
+This editorial frames the CSCL 2009 conference theme of "CSCL Practices"
+in terms of the broader "practice turn" in social theory—from explicit
+knowledge and social structures to embodied, materially mediated arrays
+of human activity organized around shared practical understanding. It
+traces the influence of situated learning and knowledge-building theory
+on CSCL's attention to practice, and argues that practice perspectives
+can be applied at individual, group, and community levels. The editorial
+calls for research that attends to how practices are enacted and
+transformed in CSCL settings.
+
+Keywords: practice turn, social theory, situated learning, knowledge
+building, embodied activity, CSCL 2009, community of practice
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 14: 4(3): Classical dialogs in CSCL
+
+This editorial offers a vivid account of the CSCL 2009 conference in
+Rhodes, noting the historical resonance of meeting near the birthplace
+of Western philosophy while discussing the future of learning technology.
+It reflects on the field's growing maturity—its ability to hold pointed
+theoretical disagreements without denigrating alternative views—and
+reports on the journal's progress: seventy-five articles published,
+one hundred sixty-seven authors from twenty-one countries. The term
+"classical dialogs" gestures at the enduring theoretical tensions that
+animate CSCL, now conducted with Mediterranean clarity.
+
+Keywords: CSCL 2009 conference, Rhodes, theoretical diversity, academic
+maturity, ijCSCL growth, interdisciplinary community, classical philosophy
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 15: 4(4): Paradigms of shared knowledge
+
+This editorial introduces four paradigms for conceptualizing shared
+knowledge in collaborative settings: shared individual mental
+representations, distributed external representations, intersubjectively
+constructed meaning, and socially practiced knowledge. It argues that
+each CSCL study implicitly or explicitly adopts one of these paradigms,
+with significant consequences for how interventions are designed, how
+data are collected, and what counts as evidence of collaborative learning.
+The editorial presents the issue's articles on wikis, virtual reality,
+PowerPoint, and group-formation software as exemplifying each paradigm.
+
+Keywords: paradigms, shared knowledge, mental representations, distributed
+cognition, intersubjectivity, social practice, collaborative learning design
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 16: 5(1): The CSCL field matures
+
+This editorial announces ijCSCL's acceptance into the ISI Web of Science
+indices—including the Social Sciences Citation Index and Journal Citation
+Reports—marking a milestone in the field's academic legitimacy. It
+situates this development within the field's broader trajectory from the
+1989 Maratea workshop through the establishment of ISLS as an
+international institution, and notes that the ISI indexing reflects the
+collective work of the Editorial Board, reviewers, authors, and readers
+who built the journal from scratch into a leading international venue.
+
+Keywords: ISI indexing, academic legitimacy, Web of Science, impact factor,
+ISLS, journal maturation, CSCL field history
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 17: 5(2): A prism of CSCL research
+
+This editorial presents the issue's papers as a prism—refracting the
+broad spectrum of current CSCL work across multiple disciplines,
+technologies, pedagogies, and methodologies. It emphasizes that CSCL
+must bridge computer science and learning science while remaining open
+to the full range of approaches through which each can contribute.
+The issue's articles investigate a cardiovascular simulation, epistemic
+games, and other technology-mediated collaborative learning environments,
+each privileging pedagogical aims and analyzing collaboration processes.
+
+Keywords: interdisciplinary prism, technology-mediated learning,
+simulation, epistemic games, computer science and learning science,
+research diversity, collaboration processes
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 18: 5(3): Guiding group cognition in CSCL
+
+This editorial offers a theoretical diagram of the major influences on
+group cognition, placing at the center the sequential dialogical interaction
+through which individual voices are woven into collective meaning-making
+processes. It argues that supporting group cognition is rare, complex,
+and situation-specific, and that understanding it requires analyzing
+interactions at individual, group, and community levels. The editorial
+surveys articles addressing how group processes are guided, scaffolded,
+and measured, positioning the study of group cognition as the defining
+challenge of CSCL research.
+
+Keywords: group cognition, dialogical interaction, sequential interaction,
+knowledge artifacts, scaffolding, unit of analysis, individual-group-
+community
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 19: 5(4): Beyond folk theories of CSCL
+
+This editorial critiques two inadequate modes of CSCL research: naive
+empiricism that imports folk theories of individual minds without
+reflection, and mechanical application of psychological or educational
+theories not developed for CSCL. It advocates for a third kind of
+research—theoretically self-conscious inquiry that investigates and
+refines theoretical perspectives specifically suited to the phenomena
+of computer-supported collaborative learning. The editorial calls for
+CSCL-specific theories grounded in the field's unique concern with
+intersubjective meaning making and group-level processes.
+
+Keywords: folk theories, theory-laden research, CSCL-specific theory,
+intersubjectivity, naive empiricism, research methodology, meaning making
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 20: 6(1): CSCL in Asia
+
+This editorial uses the 2009 PISA results—in which Shanghai placed first
+in reading, science, and mathematics—as a starting point for examining
+CSCL's relationship to Asian educational systems. It challenges the
+assumption that Asian success reflects rote learning, citing evidence
+of curricular reform and creative problem solving in Shanghai schools,
+and asks what CSCL can offer regions whose educational cultures are
+rapidly modernizing. The editorial contextualizes growing Asian
+participation in the CSCL research community and the field's potential
+for global educational transformation.
+
+Keywords: PISA results, Asian education, Shanghai, CSCL global context,
+educational reform, rote learning critique, international community
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 21: 6(2): Let a hundred flowers bloom; let a hundred schools of
+thought contend
+
+This editorial—drawing on a classical Chinese poem—celebrates the
+productive diversity of theoretical, methodological, pedagogical, and
+ideological perspectives within CSCL. It argues that scientific
+revolutions require the confrontation of viewpoints and the critique of
+established paradigms, and that CSCL itself, by favoring collaborative
+and co-constructive knowledge building over received facts, enacts this
+openness. The editorial frames the journal as a venue explicitly
+committed to hosting multiple competing schools of thought rather than
+imposing a dominant orthodoxy.
+
+Keywords: theoretical pluralism, schools of thought, paradigm critique,
+scientific revolution, knowledge co-construction, open inquiry, CSCL
+diversity
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 22: 6(3): Tweets from #cscl2011
+
+Co-authored by the lead editor with Nancy Law and Friedrich Hesse, this
+editorial reports on the CSCL 2011 conference in Hong Kong—the first
+with large-scale Asian participation—where over four hundred registrants
+from more than thirty countries convened. It describes how tweets, blogs,
+video streaming, and other social media extended the conference's reach
+globally, while also noting the limitations of social media compared to
+genuine collaborative knowledge building. The conference's special theme—
+connecting CSCL to policy and practice—reflected the priority in many
+Asian countries for education policy to be informed by research.
+
+Keywords: CSCL 2011, Hong Kong, Asian participation, social media, policy
+and practice, video streaming, international conference
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 23: 6(4): Collaborating around the tabletop
+
+This editorial develops the metaphor of collaborative discourse around a
+shared physical surface—from the family dinner table to the tribal fire
+to the interactive digital tabletop—as a way of theorizing how shared
+spaces enable joint meaning making. It connects the tabletop as a
+technological artifact to deeper questions about how proximity, shared
+orientation, and simultaneous access to a common workspace support
+intersubjective collaboration. The journal's flash theme of tabletop
+interfaces is introduced, with articles exploring gesture, gaze, and
+multi-touch interaction in small-group collaborative learning.
+
+Keywords: tabletop interfaces, shared workspace, joint attention, gesture,
+intersubjectivity, collaborative discourse, co-located collaboration
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 24: 7(1): Ethnomethodologically informed
+
+Dedicated to Harold Garfinkel following his death in 2011, this substantial
+editorial argues that the CSCL research field is becoming increasingly
+ethnomethodologically informed. It explains ethnomethodology's focus on
+the methods that members of a community use to establish and maintain
+intersubjective understanding, and argues for its particular relevance to
+CSCL's concern with joint meaning making. The editorial acknowledges
+tensions between ethnomethodology's resistance to theoretical framing and
+CSCL's design and educational agendas, while arguing that conversation
+analysis and video analysis derived from ethnomethodology are especially
+powerful tools for studying collaborative learning processes.
+
+Keywords: ethnomethodology, Garfinkel, conversation analysis, intersubjective
+understanding, members' methods, video analysis, meaning making
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 25: 7(2): Cognizing mediating: Unpacking the entanglement of
+artifacts with collective minds
+
+This editorial develops the concept of "cognizing mediating"—treating
+human cognition and technological mediation not as fixed nouns but as
+mutually shaping process verbs. Drawing on Hegel, Vygotsky, and activity
+theory, it argues that artifacts and minds are dialectically entangled:
+tools shape thought and thought reshapes tools. As digital technologies
+evolve at exponential speed, understanding how users adopt and adapt them
+becomes critical for CSCL design. The editorial calls for theory that
+can keep pace with the continuous co-evolution of collaborative learning
+technology and the cognitive practices it enables.
+
+Keywords: cognizing mediating, artifacts, dialectic, Vygotsky, mediated
+cognition, activity theory, collective minds, tool adaptation
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 26: 7(3): An international research community
+
+Co-authored with Nancy Law and Friedrich Hesse, this editorial reports
+ijCSCL's ISI impact factor ranking—eleventh among two hundred three
+education journals, sixth among eighty-three information science
+journals—as evidence of the field's international standing. It notes
+that the journal receives submissions from fifty-three countries, reaches
+seven thousand universities through Springer, and has accumulated two
+million hits on its open-access website. The editorial presents the most
+frequently cited and downloaded articles as indicators of the themes
+dominating the field.
+
+Keywords: impact factor, ISI ranking, international reach, open access,
+citations, research community, global CSCL network
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 27: 7(4): Traversing planes of learning
+
+This editorial theorizes the connections among the three planes of analysis
+characteristic of CSCL: individual learning, small-group cognition, and
+community knowledge building. It argues that while all three planes are
+actualized in CSCL practice—typically in the sequence individual
+preparation, small-group work, whole-class sharing—group cognition tends
+to be treated as secondary to individual or community goals. Drawing on
+Vygotsky's foundational claim that intersubjective processes are primary,
+it calls for explicit empirical analysis and theoretical understanding
+of how the planes are connected, not merely assumed.
+
+Keywords: planes of learning, unit of analysis, individual-group-community,
+Vygotsky, intersubjectivity, small-group cognition, level connections
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 28: 8(1): Learning across levels
+
+This extended editorial introduces the theme of the CSCL 2013 conference—
+"learning across levels of space, time, and scale"—as a fundamental
+challenge for CSCL theory, analysis, and practice. It proposes that
+the levels of individual learning, group cognition, and community
+knowledge building may be connected by emergent interactional resources:
+artifacts, concepts, and practices that bridge local sequential interaction
+with larger socio-cultural contexts. The editorial surveys multiple
+theoretical frameworks for thinking about such connections—collaborative
+emergence, structuration theory, activity theory—and calls for empirical
+investigation of how resources mediate across levels.
+
+Keywords: learning across levels, interactional resources, collaborative
+emergence, scale, CSCL 2013, structuration, activity theory
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 29: 8(2): Transactive discourse in CSCL
+
+This editorial introduces the concept of transactivity—reasoning that
+builds on a previous utterance's reasoning—as a lens for exploring the
+multi-level character of collaborative discourse. It contrasts two ways
+of analyzing transactive sequences: reducing them to the mental states
+of individual participants, or treating them as group-level interactional
+achievements analyzable without reference to internal states. The
+editorial presents the issue's articles as investigations of how students
+from kindergarten to college build on each other's reasoning through
+shared computer media, and how such transactivity can be measured and
+supported.
+
+Keywords: transactivity, transactive discourse, unit of analysis, group
+interaction, individual cognition, reasoning sequences, collaborative
+discourse
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 30: 8(3): Collaborative learning at CSCL 2013
+
+Co-authored with Nancy Law and Friedrich Hesse, this editorial reports
+on the CSCL 2013 conference in Madison, Wisconsin, describing pre-
+conference workshops on interactional resources across levels of analysis
+and on cyber-infrastructure for design-based research. It highlights a
+workshop in which PISA's framework for measuring collaborative problem-
+solving skills was made public for the first time, noting its significance:
+if international standardized testing begins assessing collaborative
+skills, CSCL research will gain urgency for students, parents, teachers,
+and policymakers worldwide.
+
+Keywords: CSCL 2013, Madison, PISA, collaborative problem solving,
+design-based research, cyber-infrastructure, interactional resources
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 31: 8(4): Reigniting CSCL flash themes
+
+Co-authored with Nancy Law and Friedrich Hesse, this editorial returns
+to the journal's commitment to flash themes, reigniting ongoing
+discussions of argumentation, scripting, and tabletop interfaces while
+introducing a new theme: eye-tracking technology as a tool for studying
+and supporting collaborative joint attention. The editorial notes that
+research in these areas continues to raise fundamental theoretical and
+methodological controversies rather than merely refining established
+findings, and that joint attention—from infancy through adult
+collaboration—is foundational to intersubjective sense making in any
+CSCL setting.
+
+Keywords: flash themes, eye-tracking, joint attention, argumentation,
+scripting, tabletop interfaces, intersubjective sense making
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 32: 9(1): Analyzing the multidimensional construction of knowledge
+in diverse contexts
+
+Co-authored with Ulrike Cress, Nancy Law, and Sten Ludvigsen, this
+editorial presents articles spanning a wide range of contexts—from
+primary school knowledge-building forums to first-year college classes to
+Wikipedia—as explorations of the interrelationships among individual,
+small-group, and community learning. It foregrounds Activity Theory as
+a framework for analyzing the systemic contexts of CSCL practices, and
+develops the notion of interactional resources as bridges across levels
+of analysis, comparing their role to that of scaffolds, epistemic-game
+notes, and Wikipedia pivotal postings.
+
+Keywords: knowledge construction, diverse contexts, Activity Theory,
+interactional resources, Wikipedia, primary school, multi-level analysis
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 33: 9(2): Dialogic foundations of CSCL
+
+Co-authored with Ulrike Cress, Sten Ludvigsen, and Nancy Law, this
+substantial editorial traces the dialogical foundations of CSCL back to
+Vygotsky and Bakhtin, whose social, developmental, dialectical approaches
+to psychology and linguistics countered the individualism of Western
+philosophical tradition. Vygotsky demonstrated that higher cognitive
+faculties develop through social interaction before being internalized
+individually; Bakhtin showed that ideas emerge from multi-vocal discourse
+rather than self-contained minds. Together, their work provides CSCL
+with a theoretical vocabulary for analyzing how group discourse constitutes
+knowledge rather than merely transmitting it.
+
+Keywords: dialogic theory, Vygotsky, Bakhtin, social development,
+multi-vocal discourse, dialectic, knowledge constitution, CSCL foundations
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 34: 9(3): CSCL artifacts
+
+Co-authored with Sten Ludvigsen, Nancy Law, and Ulrike Cress, this
+editorial surveys the multiple roles of artifacts in CSCL: as communication
+media, as structures for shared representation, as instructional scaffolds,
+as targets of collaborative co-construction, and as products of group
+knowledge building. It also notes that CSCL research is itself an
+artifact-producing practice—generating publications, data sets, and
+theoretical frameworks that constitute the evolving corpus of the field.
+The issue's articles both study artifact use in classrooms and mine the
+corpus of CSCL publications for indications of the field's development.
+
+Keywords: CSCL artifacts, shared representation, scaffolding, co-
+construction, knowledge artifacts, research corpus, materiality
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 35: 9(4): Analyzing roles of individuals in small-group
+collaboration processes
+
+Co-authored with Nancy Law, Ulrike Cress, and Sten Ludvigsen, this
+editorial introduces the issue's articles as innovative approaches to
+analyzing individual roles within small-group collaboration, ranging
+from coding utterances of individual participants to characterizing
+group trajectories. It critiques the persistence of folk theories—
+naïve conceptions of fixed individual intelligence and knowledge
+transfer—that still pervade classroom practice and some CSCL research.
+The editorial argues that moving beyond folk theories requires methods
+sensitive to both the individual contributions and the group-level
+dynamics of collaborative learning.
+
+Keywords: individual roles, small-group collaboration, folk theories,
+unit of analysis, group trajectories, utterance coding, collaborative
+dynamics
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 36: 10(1): From the editors: Collaboration and the formation of
+new knowledge artifacts
+
+Co-authored with Sten Ludvigsen, Nancy Law, and Ulrike Cress, this
+editorial opens volume 10 by examining how knowledge artifacts—objects
+combining material and semiotic aspects—are formed through collaborative
+engagement. It argues that the interpenetration of conceptual structures
+and material anchors is at the heart of CSCL's mission, creating
+conditions for specific types of participant interaction. The editorial
+surveys multiple theoretical frameworks—cognitive, socio-cognitive, and
+socio-cultural—for conceptualizing artifacts, noting their convergence on
+the bidirectional interdependence of collaboration and the artifacts
+that structure it.
+
+Keywords: knowledge artifacts, materiality, semiotics, collaborative
+formation, conceptual-material interpenetration, socio-cultural theory,
+structuring resources
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 37: 10(2): The core features of CSCL: Social situation,
+collaborative knowledge processes and their design
+
+Co-authored with Ulrike Cress, Sten Ludvigsen, and Nancy Law, this
+editorial identifies the social situation of collaboration—including
+qualities of the group and characteristics of its members—as a key
+determinant of collaborative outcomes. It traces the evolution of
+research on computer-mediated communication from early deficit models
+(CMC as deprived of social cues) to current views recognizing that
+computer mediation can support rich collaborative interaction through
+appropriate design. Three core topics are foregrounded: social situation,
+collaborative knowledge processes, and the design of learning environments.
+
+Keywords: social situation, computer-mediated communication, social cues,
+collaborative knowledge processes, group composition, learning design,
+awareness
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 38: 10(3): Conceptualizing the intersubjective group
+
+This editorial proposes intersubjectivity as the defining characteristic
+of CSCL—not a state in which individuals hold similar beliefs, but a
+condition achieved through productive participation in joint meaning-making
+discourse. It argues that CSCL groups are not arbitrary gatherings but
+functional groups that have built shared understanding through interaction,
+and that collaborative learning in CSCL refers to increases in intersubjective
+knowledge at the group level, not to the sum of individual learning.
+The editorial positions this focus on the intersubjective group as
+what fundamentally differentiates CSCL from other learning sciences.
+
+Keywords: intersubjectivity, group unit of analysis, joint meaning making,
+shared understanding, collaborative learning, group discourse, CSCL
+definition
+
+──────────────────────────────────────────────────────────────────────────
+
+Chapter 39: 10(4): A decade of CSCL
+
+This closing editorial surveys ten years of ijCSCL publication as a
+record of the field's progression from the post-cognitive paradigm
+revolution of the 1990s—with its expansion of the unit of cognition
+beyond the individual mind—through increasingly refined theoretical,
+methodological, and technological contributions. It charts the field's
+growing engagement with physical artifacts, interactional resources,
+dialogical approaches, and practice-oriented analysis, while noting that
+technology design and analysis methodology have been slower to adopt
+post-cognitive perspectives than theory has. The editorial calls for
+continued self-invention as CSCL faces new opportunities and challenges.
+
+Keywords: CSCL decade, post-cognitive paradigm, distributed cognition,
+activity theory, interactional resources, theory and methodology, field
+development
+
+══════════════════════════════════════════════════════════════════════════
+
+Overview: Editorial Introductions to ijCSCL
+
+This book collects the thirty-nine editorial introductions written for
+each issue of ijCSCL across its first decade of publication, from 2006
+to 2016. Read together, they constitute a sustained record of a research
+field thinking publicly about itself—tracking its growth, debating its
+theoretical foundations, and advocating for its social vision.
+
+Several thematic threads run through the decade. The most persistent is
+the question of units of analysis: what is the appropriate level at which
+to study, support, and measure collaborative learning? The early editorials
+introduce the individual-group-community trichotomy; the middle-decade
+editorials (chapters 27–30) make the connections among these levels the
+central theoretical challenge, proposing interactional resources as
+bridges between the planes; and the later editorials (chapters 35–39)
+revisit the question from the perspectives of artifact formation, dialogic
+theory, and the concept of the intersubjective group.
+
+A second major thread is the field's relationship to theory. Chapters 7
+and 19 set up the dialectic between flash-theme empiricism and folk-theory
+naivety on one side, and theoretically self-conscious CSCL-specific inquiry
+on the other. Chapters 24, 25, and 33 make the most ambitious theoretical
+arguments—for ethnomethodologically informed analysis, for dialectical
+theories of cognizing-mediating artifacts, and for the dialogical
+foundations of the field in Vygotsky and Bakhtin—while chapter 15
+identifies four competing paradigms of shared knowledge that implicitly
+organize the entire field.
+
+A third thread is internationalization. The editorials document the
+journal's growth from a North American and European venture into a
+genuinely global community, with particular attention to the rise of Asian
+CSCL research (chapters 20, 22, 26). Chapters 21 and 26 celebrate
+theoretical pluralism and geographic reach as mutually reinforcing values,
+while the institutional milestones of ISI indexing (chapters 16 and 26)
+confirm the field's academic standing worldwide.
+
+Running beneath all these threads is the editors' conviction that the
+journal is itself a CSCL artifact—a knowledge-building medium in which the
+research community practices the collaborative meaning making it studies.

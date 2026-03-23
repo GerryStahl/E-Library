@@ -1,0 +1,12 @@
+Citation Pair Resolution Report
+==================================================
+Total self-citations: 2,852
+  Resolved (with vectors): 422  (14.8%)
+
+Unresolved breakdown:
+  no_ref_list_in_book                         13  (0.5%)
+  year_not_in_ref_list                       330  (11.6%)
+  cited_whole_book                           174  (6.1%)
+  cited_article_not_in_library                92  (3.2%)
+  ambiguous_year                           1,104  (38.7%)
+  chapter_title_not_in_library               717  (25.1%)
