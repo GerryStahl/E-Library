@@ -9,8 +9,9 @@ This Guide document is the **authoritative reference** for the elibrary project.
 1. **The RAG query system** — hybrid retrieval + Claude/Ollama generation
 2. **A custom, local query interface for analyzing the e-library
 3. **Summaries of the books and chapters based on chunk semantics
-4. **The citation/cluster analysis pipeline** — thematic clustering and self-citation timelines
+4. **A citation/cluster analysis pipeline** — thematic clustering and self-citation timelines
 5. **Long-term memory for the chat Copilot
+6. **GitHub private repository for file backup
 
 This Guide document is designed to be attached as context in Copilot Chat sessions and to also serve as a human-readable project overview and record.
 
@@ -30,8 +31,8 @@ The main pipeline for extracting the chapters in the books, chunking them and em
 ### Querying. The query interface for human users permits natural-language questions to be submitted. One of 6 different LMM models can be selected: Anthropic's Claude models of varying size, power and cost (Haiku / Sonnet / Opus) or smaller models running on the local computer without requiring costs or Internet access (Qwen2.5 14b / Llama3.1 8b / Gemma3 4b).
 
 
-### Summaries. Summaries of each of the 22 books and each of their 337 chapters were created and displayed on the webpage for the e-library. 
-The semantic vectors were also analyzed to cluster the books, chapters and their component chunks to define 20 cluster topics to sort the e-library writings into different topic areas.
+### Summaries. Summaries of each of the 22 books and each of their 337 chapters were generated and are displayed on the webpage for the e-library. 
+The semantic vectors were also analyzed to cluster the books, chapters and their component chunks to define 20 cluster topics to sort the e-library writings into different topic areas. The topics were graphed on a timeline to show development of themes.
 
 
 ### Citation Analysis.
@@ -46,6 +47,9 @@ Instead, the focus shifted to **cluster publication timelines**: visualising the
 * MCP Knowledge Graph (`memory/elibrary_memory.jsonl`) -- a JSONL queryable memory structure about the project.
 * Auto-generated Project Status (`documents/project_status.md`) -- summarizes the current status of the ongoing project.
 * In addition, query_history.json -- is a repository of previous queries; semantically similar queries are also used for context and deambiguity.
+
+### Github Repository
+The files for this system are backed up on GitHub at GerryStahl/E-Library
 
 --
 

@@ -1,10 +1,10 @@
 # E-Library — RAG Query System & Thematic Analysis Pipeline
 
-A personal research tool built around a **22-volume academic library** authored by Gerry Stahl,
+A personal research tool built around a **22-volume academic library including ** authored by Gerry Stahl,
 primarily on computer-supported collaborative learning (CSCL) and related topics (philosophy of
 mind, dynamic geometry, collaborative design).
 
-The project has two components:
+The project has several components:
 
 1. **RAG query system** — ask free-form questions about the library in natural language and receive
    grounded, cited answers. Uses hybrid retrieval (FAISS dense search + BM25 keyword search +
