@@ -824,6 +824,72 @@ def extract_year(reference: str) -> int | None:
 
 ---
 
+## GitHub Backup
+
+The project scripts, documents, and analysis outputs are backed up in a **private GitHub repository**:
+
+**Repo:** `https://github.com/GerryStahl/E-Library` (private)  
+**Account:** `GerryStahl`  
+**Auth:** GitHub CLI (`gh`) with token stored in macOS keyring — no password needed
+
+### What is in the repo
+
+Everything that matters but is not too large to recreate:
+
+| Included | Excluded (recreatable or too large) |
+|---|---|
+| All `scripts/`, `chunkers/`, `embedders/`, `parsers/`, `summarizers/` | `.venv/` (1.4 GB — `pip install -r requirements.txt`) |
+| `reports/` — all CSV, TXT, JSON, JSONL outputs | `reports/*.png`, `reports/citation_vectors.npz` |
+| `documents/` — Guide, project status, planning docs | `cache/elibrary_cache.pkl` and `.json` (back up to disk) |
+| `summarizers/book summaries/` — 22 book summary TXT files | `vector_store/*.faiss`, BM25 index folders |
+| `webpages/` — all generated HTML pages | `sourcepdfs/`, `editorials/` PDFs |
+| `cache/` — Python source files and prompt text only | Ollama models (~22 GB in `~/.ollama/`) |
+| `vector_store/query_history.json` + embeddings | HuggingFace model cache (~18 GB in `~/.cache/huggingface/`) |
+| `memory/elibrary_memory.jsonl` | |
+| `.github/copilot-instructions.md`, `.vscode/mcp.json` | |
+| `.gitignore` | |
+
+The `.gitignore` at the project root controls these exclusions — edit it if new large files need to be excluded.
+
+### How to push updates
+
+After any working session where scripts, documents, or reports changed:
+
+```bash
+cd /Users/GStahl2/AI/elibrary
+git add -A
+git commit -m "brief description of what changed"
+git push
+```
+
+The `http.postBuffer` is already set to 500 MB in the repo config (needed because the initial push was ~5.7 MB — future pushes are incremental and will be tiny).
+
+### Disaster recovery
+
+If the local disk fails, to restore the full working system:
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/GerryStahl/E-Library.git elibrary
+   ```
+2. Restore `cache/elibrary_cache.pkl` from your local backup disk (86 MB — the irreplaceable asset)
+3. Recreate the venv:
+   ```bash
+   cd elibrary && python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+   ```
+4. Rebuild the vector indexes from the cache (~20 min total):
+   ```bash
+   .venv/bin/python scripts/build_vector_store.py
+   .venv/bin/python scripts/build_chapter_summary_vectors.py
+   .venv/bin/python scripts/build_bm25_index.py
+   ```
+5. Re-pull Ollama models if needed: `ollama pull qwen2.5:14b` etc.
+6. HuggingFace models (e5-base-v2, bge-reranker-base) re-download automatically on first script run.
+
+Everything else — cluster CSVs, citation outputs, timeline PNGs — can be regenerated deterministically by re-running the analysis pipeline scripts in order.
+
+---
+
 ## Project Status & Roadmap
 
 ### Completed ✅
