@@ -1,7 +1,8 @@
 # Gerry's E-Library — Full Project Memory
 
-**Last updated:** March 2026  
+**Last updated:** March 23, 2026  
 **Workspace:** `/Users/GStahl2/AI/elibrary/`  
+**GitHub backup:** `https://github.com/GerryStahl/E-Library` (private)  
 **Library:** 22 books · 337 chapters · 36,089 chunks  
 **Python venv:** `.venv/bin/python` (never bare `python` or `python3`)
 
@@ -676,6 +677,7 @@ Goal: determine which clusters' body chunks cite works that originated in which 
 
 | Script | Purpose |
 |---|---|
+| `scripts/launch_app.sh` | Shell script to activate the venv and launch `query_app.py` in one step |
 | `scripts/main.py` | Gradio web app (legacy; superseded by `query_app.py`) |
 | `scripts/query_app.py` | **Primary web chat interface** — Gradio at `localhost:7860`; model selector, sliders, reranker toggle |
 | `scripts/query_library.py` | **Terminal REPL** — `--model`, `--chapters`, `--chunks`, `--no-rerank`, `--verbose`, `--user` |
@@ -834,7 +836,8 @@ The project scripts, documents, and analysis outputs are backed up in a **privat
 
 **Repo:** `https://github.com/GerryStahl/E-Library` (private)  
 **Account:** `GerryStahl`  
-**Auth:** GitHub CLI (`gh`) with token stored in macOS keyring — no password needed
+**Auth:** GitHub CLI (`gh`) with token stored in macOS keyring — no password needed  
+**README:** `README.md` at repo root (GitHub displays this on the repo front page; must stay at root)
 
 ### What is in the repo
 

@@ -102,7 +102,7 @@ _PAT_PAREN_BROAD = re.compile(r'\(([^()]*\bStahl\b[^()]*)\)')
 
 ## Behavioural guardrails
 
-- **Check existing scripts before writing a new one** — there are ~85 scripts; the task may already be done
+- **Check existing scripts before writing a new one** — there are ~90 scripts; the task may already be done
 - **Prefer editing existing files over creating new ones** for incremental changes
 - **Never hardcode absolute paths** in scripts — always use `Path(__file__).resolve().parent.parent` to find the workspace root
 - **Do not rewrite working code** unless explicitly asked; prefer targeted edits
