@@ -888,6 +888,19 @@ If the local disk fails, to restore the full working system:
 
 Everything else — cluster CSVs, citation outputs, timeline PNGs — can be regenerated deterministically by re-running the analysis pipeline scripts in order.
 
+### Giving others access
+
+The repo is private. To grant a collaborator access:
+
+1. Go to `https://github.com/GerryStahl/E-Library`
+2. Click **Settings** → **Access** → **Collaborators** → **Add people**
+3. Enter their GitHub username or email and choose a role:
+   - **Read** — view and clone only (right choice for colleagues reviewing the code)
+   - **Write** — can also push commits
+   - **Admin** — full control including settings
+
+They will receive an email invitation and must accept before they can see the repo.
+
 ---
 
 ## Project Status & Roadmap
