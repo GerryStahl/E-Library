@@ -2,7 +2,8 @@
 
 A personal research tool built around a **22-volume academic library including ** authored by Gerry Stahl,
 primarily on computer-supported collaborative learning (CSCL) and related topics (philosophy of
-mind, dynamic geometry, collaborative design).
+mind, dynamic geometry, collaborative design), but also including social philosophy, sculpture and ecology. 
+The E-Library is available at: https://gerrystahl.net/elibrary .
 
 The project has several components:
 
