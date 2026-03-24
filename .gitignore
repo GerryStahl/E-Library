@@ -1,9 +1,11 @@
 # ─── Virtual environment ───────────────────────────────────────────
 .venv/
 
-# ─── Source PDFs and editorial PDFs (backed up separately) ────────
-sourcepdfs/
+# ─── Editorial PDFs ────────────────────────────────────────────────
 editorials/
+
+# sourcepdfs/ is INCLUDED — all 22 volumes are copyright Gerry Stahl
+# and freely available on his public website
 
 # ─── Extracted chapter texts (copyrighted) ────────────────────────
 documents/old chapter texts/
