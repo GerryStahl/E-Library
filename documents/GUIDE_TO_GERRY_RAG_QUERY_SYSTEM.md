@@ -1,6 +1,6 @@
 # Gerry's E-Library — Full Project Memory
 
-**Last updated:** March 23, 2026  
+**Last updated:** March 24, 2026  
 **Workspace:** `/Users/GStahl2/AI/elibrary/`  
 **GitHub backup:** `https://github.com/GerryStahl/E-Library` (private)  
 **Library:** 22 books · 337 chapters · 36,089 chunks  
@@ -11,8 +11,9 @@ This Guide document is the **authoritative reference** for the elibrary project.
 2. **A custom, local query interface for analyzing the e-library
 3. **Summaries of the books and chapters based on chunk semantics
 4. **A citation/cluster analysis pipeline** — thematic clustering and self-citation timelines
-5. **Long-term memory for the chat Copilot
-6. **GitHub private repository for file backup
+5. **A stylometric analysis pipeline** — 40 style features per chapter, 6 visualisation reports
+6. **Long-term memory for the chat Copilot
+7. **GitHub private repository for file backup
 
 This Guide document is designed to be attached as context in Copilot Chat sessions and to also serve as a human-readable project overview and record.
 
@@ -623,9 +624,31 @@ Both plots use **EXCLUDE_CLUSTERS = {6, 12}** (noise only). Non-CSCL clusters 8,
 
 ---
 
+### Style Analysis Pipeline ✅
+
+A separate pipeline analyses **how Gerry's prose style has changed** across 60 years of writing (1967–2026), using the cleaned narrative corpus rather than the raw sidecar chunks.
+
+#### Step S0 — Chapter Inventory (`scripts/chapter_inventory.py`) ✅
+Diagnostic verification: 337 chapters, pub years, word counts. Output: `reports/chapter_inventory.txt`
+
+#### Step S1 — Narrative Chunk Builder (`scripts/build_narrative_chunks.py`) ✅
+One-pass cleaning of 17,441 level-0 sidecar chunks: strips running headers, reference sections, chat logs, figure captions, lone page numbers, footnote clusters. Pre-cleaning APA-density filter excludes 488 bibliography chunks. **Results:** 16,727 kept (95.9%), 2,340,439 narrative words. Output: `reports/narrative_chunks.json` (22.9 MB).
+
+#### Step S2 — Style Feature Extraction (`scripts/analyze_style.py`) ✅
+Computes **40 stylometric features** per chapter across 9 groups: sentence rhythm, readability (Flesch/FK/Fog), vocabulary (TTR/hapax/abstract ratio), hedging vs assertion, discourse connectors, voice (I/we/passive), punctuation (semicolon/emdash/colon), citation density, academic register (metalinguistic/definitional/subordinate conjunctions). **Results:** 336 chapters · 1967–2026 · 2,333,301 words. Output: `reports/style_features.csv` (336 × 40).
+
+**Global means:** sent_mean=22.8w · Flesch=30.1 · FK grade=14.2 · Fog=17.8 · TTR=0.245 · hapax=0.122 · hedge=3.34/1k · assert=2.51/1k · citation=5.0/1k
+
+**Key early (1967-84) → late (2016-26) shifts:** sentences shorter (22.3→19.4w) · `we_per_1k` collapsed (9.3→3.5) · `assert_per_1k` halved (4.9→2.2) · `causal_per_1k` dropped (1.6→0.4) · citation density exploded (0.95→5.1/1k)
+
+#### Step S3 — Style Visualisations (`scripts/visualize_style*.py`) ✅
+12 PNG reports across 3 scripts: core metrics, rhythm & argumentative moves, readability & register. Each script produces a time-series panel (scatter + 5-yr rolling mean) and a by-cluster boxplot panel. See Reports table for full file list.
+
+---
+
 ### Step 4 — Cross-Cluster Citation Matrix ❌ Pending
 
-Goal: determine which clusters' body chunks cite works that originated in which other clusters, by matching `cited_year` back to the cluster(s) whose chapters were published in that year.
+Goal: determine which clusters' chunks cite works originating in which other clusters
 
 ---
 
@@ -735,6 +758,22 @@ Goal: determine which clusters' body chunks cite works that originated in which 
 | `scripts/seed_mcp_memory.py` | One-time seed of MCP knowledge graph from `cluster_summaries.json` + `self_citations.csv`; re-run after major pipeline changes |
 | `scripts/generate_project_status.py` | Auto-generate `documents/project_status.md` status snapshot (no API calls); run at end of each session |
 
+### Style Analysis Pipeline
+
+| Script | Purpose |
+|---|---|
+| `scripts/chapter_inventory.py` | **Step S0** — diagnostic listing of all 337 chapters with pub year and word count; output: `reports/chapter_inventory.txt` |
+| `scripts/build_narrative_chunks.py` | **Step S1** — one-pass cleaning of all 17,441 level-0 sidecar chunks; strips headers, chat logs, captions, footnotes, bibliography chunks; output: `reports/narrative_chunks.json` (22.9 MB, 16,727 chunks) |
+| `scripts/analyze_style.py` | **Step S2** — compute 40 stylometric features per chapter from narrative corpus; output: `reports/style_features.csv` (336 rows × 40 cols) |
+| `scripts/visualize_style.py` | **Step S3a** — core 6-panel time series + cluster boxplots (sent_mean, TTR, hedge/assert, I/k, we/k, citation/k) |
+| `scripts/visualize_style_extended.py` | **Step S3b** — rhythm & complexity panels + argumentative moves panels (4 PNG outputs) |
+| `scripts/visualize_style_report56.py` | **Step S3c** — readability (Flesch/FK/Fog/punctuation) + register (hapax/abstract/metalinguistic/definitional/subordinate) panels (4 PNG outputs) |
+| `scripts/check_style.py` | Diagnostic: early (1967–84) vs late (2016–26) comparison table |
+| `scripts/verify_cleaning.py` | 8-case unit test for `build_narrative_chunks.py` cleaning pipeline |
+| `scripts/sample_sidecar_text.py` | Exploration: sample raw sidecar chunks (diagnostic) |
+| `scripts/sample_chat_and_headers.py` | Exploration: identify running header / chat log patterns (diagnostic) |
+| `scripts/sample_vmt_chat_format.py` | Exploration: identify VMT multi-line chat turn format (diagnostic) |
+
 ### Report Generation
 
 | Script | Purpose |
@@ -777,6 +816,19 @@ Citation pair analysis probe scripts (all prefixed `_`):
 | `reports/cluster_timelines.png` | — | Chapter-level publication timeline: plurality-cluster per chapter, 18 clusters, 1970–2026 |
 | `reports/chunk_timelines.png` | — | Chunk-level publication timeline: each level-0 chunk in its own cluster, 15,629 chunks, 1970–2026 |
 | `reports/timeline_data.csv` | 40 year rows × 74 cols | Raw counts + share % per cluster for both chapter and chunk timelines; spreadsheet-ready |
+| `reports/chapter_inventory.txt` | 337 rows | Chronological listing: pub year, word count, chapter title |
+| `reports/narrative_chunks.json` | 16,727 records · 22.9 MB | Cleaned narrative chunks: `{vector_id, book/chapter, pub_year, cluster_id, original_word_count, narrative_word_count, narrative_text}` |
+| `reports/style_features.csv` | 336 rows × 40 cols | One row per chapter: all 40 stylometric features, identity fields, pub_year, cluster_id |
+| `reports/style_timeseries.png` | — | Core 6-panel time series: sent_mean / TTR / hedge-assert ratio / I / we / citations |
+| `reports/style_by_cluster.png` | — | Core 6 metrics as boxplots by cluster |
+| `reports/style_rhythm_timeseries.png` | — | Rhythm: sent_mean / std / pct_long / pct_short / questions / passive |
+| `reports/style_rhythm_by_cluster.png` | — | Rhythm metrics by cluster |
+| `reports/style_moves_timeseries.png` | — | Argumentative moves: causal / contrast / additive / exemplify / hedge / assert |
+| `reports/style_moves_by_cluster.png` | — | Moves metrics by cluster |
+| `reports/style_readability_timeseries.png` | — | Readability: Flesch / FK grade / Fog / semicolon / emdash / colon |
+| `reports/style_readability_by_cluster.png` | — | Readability metrics by cluster |
+| `reports/style_register_timeseries.png` | — | Register: hapax / abstract ratio / mean word len / metalinguistic / definitional / subordinate |
+| `reports/style_register_by_cluster.png` | — | Register metrics by cluster |
 | `reports/annual_summaries.txt` | — | Year-by-year narrative summaries of Gerry's output |
 | `reports/annual_summaries_book.txt` | — | Book-organised version of annual summaries |
 | `reports/total_history.txt` | — | Full intellectual history of the library (Claude-generated) |
@@ -928,6 +980,7 @@ They will receive an email invitation and must accept before they can see the re
 - Analysis Step 3: Visualisation (scatter grid + global heatmap)
 - Analysis Step 2b: Self-citation pair resolution pipeline built (422/2852 = 14.8% resolved); paused after review
 - Analysis Step 3b: Cluster publication timelines — chapter-level and chunk-level, plus CSV export
+- Style analysis pipeline: narrative corpus cleaning (16,727 chunks), 40-feature extraction (336 chapters × 40 cols), 6 visualisation reports (12 PNGs)
 - Long-term memory: `copilot-instructions.md`, `generate_project_status.py`, MCP knowledge graph seeded (42 entities, 27 relations)
 
 ### Pending / Paused ❌

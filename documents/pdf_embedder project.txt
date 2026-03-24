@@ -209,7 +209,8 @@ revise summarization process:
 Do not name the author in the summary if it is just "Gerry Stahl" or "G. Stahl"
 Use the masculine pronouns for a single author ("he", "his", "him", not "their".
 Try to avoid using the words from the text in the summary. Try to use less common words.
-Use prompts like: • “Summarize the following text into its main ideas, reducing detail while preservingthe key points.” • “Extract the most critical insights and themes from this text.”
+Use prompts like: • “Summarize the following text into its main ideas, reducing detail while preserving
+the key points.” • “Extract the most critical insights and themes from this text.”
 Do not write a summary for any chapter with less than 1,000 words. Instead, return "Too brief to summarize."
 4. Try to write commentary rather than repeating the statements of the text.
 5. Instead of referring to the text as a "chapter", call it "section" (especially in pdf 1, 2, 14, 15), "paper" (especially in pdf 3, 4), "chapter" (especially in pdf 5, 6, 18, 20, 21, 22), essay  (especially in pdf 7, 8, 9, 10, 11, 12, 13), investigation (especially in pdf 19), "editorial" (especially in pdf 16), "proposal" (especially in pdf 17), analysis, discussion, text, writing, etc.
@@ -329,7 +330,14 @@ Crucially, the writing posits that knowledge retention hinges on the ability to 
 
 Furthermore, the investigation illuminates the internalization and recontextualization of communicative resources, aligning with the work of sociologists like Bernstein, and offering a sophisticated re-evaluation of learning processes within Computer-Supported Collaborative Learning (CSCL) environments. Ultimately, this detailed examination—particularly concerning the VMT Spring Fest 2006 Team B event—provides a valuable framework for understanding group cognition and its inherent social dimensions, promising to stimulate further scholarly discourse regarding effective educational methodologies.
 
-In this Investigation, we will look at the meaning-making work of a group of students, analyzing their language-based interaction at multiple levels:• The overall event,• A specific hour-long session of the two-week event,• A discussion theme that arose in the session,• A discourse move that triggered that theme,• A pivotal interchange that carried out the discourse move,• A single utterance that was part of the interchange and• A particular reference in the utterance.
+In this Investigation, we will look at the meaning-making work of a group of students, analyzing their language-based interaction at multiple levels:
+• The overall event,
+• A specific hour-long session of the two-week event,
+• A discussion theme that arose in the session,
+• A discourse move that triggered that theme,
+• A pivotal interchange that carried out the discourse move,
+• A single utterance that was part of the interchange and
+• A particular reference in the utterance.
 event, session, theme, move, interchange, utterance, reference
 
 ======================

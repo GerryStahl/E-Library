@@ -13,7 +13,7 @@
 
 This workspace is the **elibrary project**: a Python RAG (retrieval-augmented generation) system built around a **22-volume academic library** authored by Gerry Stahl, primarily on **computer-supported collaborative learning (CSCL)** and related topics (philosophy of mind, dynamic geometry, collaborative design).
 
-The project has two major components:
+The project has two several components:
 
 1. **The RAG system** — FAISS + BM25 indexes, a Gradio web app (`scripts/main.py`) and a terminal REPL (`scripts/query_library.py`) for querying the library using local Ollama models (qwen2.5:14b, llama3.1:8b, gemma3:4b) and Anthropic Claude.
 
@@ -21,6 +21,16 @@ The project has two major components:
 
 The Copilot assistant is acting as a **data analysis and programming collaborator** on this project — not a coding tutor.
 
+---
+
+## User identity
+
+The project runs on a 2026 Macbook Pro with an Apple M5 Chip set, 32 GB Memory, 4 TB Storage
+
+The User is trained in computer science, including AI, with a BS from MIT (1967) and a PhD from Colorado (1994).
+He is also trained in philosophy, especially German social thought, at MIT, Heidelberg, Frankfurt, with a PhD from Northwestern ()
+He is currently a wood sculptor and serves of the Town of Chatham's Energy and Climate Action Comittee. He lives on Cape Cod.
+His website is: http://GerryStahl.net .
 ---
 
 ## Technical conventions
@@ -51,6 +61,8 @@ The Copilot assistant is acting as a **data analysis and programming collaborato
 | `reports/cluster_timelines.png` | Chapter-level publication timeline: plurality-cluster per chapter, 18 clusters, 1970–2026 |
 | `reports/chunk_timelines.png` | Chunk-level publication timeline: each level-0 chunk in its own cluster, 15,629 chunks |
 | `reports/timeline_data.csv` | Spreadsheet of raw counts + share % per cluster for both chapter and chunk timelines |
+| `reports/narrative_chunks.json` | 16,727 cleaned narrative chunks (22.9 MB): `{vector_id, book/chapter, pub_year, cluster_id, narrative_text, …}` |
+| `reports/style_features.csv` | 336 rows × 40 cols: one row per chapter, all stylometric features + pub_year + cluster_id |
 | `memory/elibrary_memory.jsonl` | MCP knowledge graph (JSONL); 42 entities, 27 relations; read by `elibrary-memory` MCP server |
 | `.vscode/mcp.json` | MCP server config — `elibrary-memory` via `npx @modelcontextprotocol/server-memory` |
 | `.github/copilot-instructions.md` | This file — auto-injected into every Copilot Chat session |
@@ -76,11 +88,22 @@ The Copilot assistant is acting as a **data analysis and programming collaborato
 - **Step 3: Visualisation** — `scripts/visualize_self_citations.py` — per-cluster scatter grid and global heatmap
 - **Step 2b: Self-citation pair resolution** (paused) — `scripts/build_citation_pairs.py` — attempted to resolve citations to specific cited chapters; 422/2,852 resolved (14.8%); paused because chapter-level vectors too coarse and ambiguous-year rate too high (38.7%)
 - **Step 3b: Cluster publication timelines** — `visualize_cluster_timelines.py` (chapter) + `visualize_chunk_timelines.py` (chunk) + `export_timeline_data.py` (CSV); 18 clusters, 1970–2026; chunk-level preferred
+- **Style analysis pipeline** — `build_narrative_chunks.py` → `narrative_chunks.json` (16,727 cleaned chunks); `analyze_style.py` → `style_features.csv` (336 chapters × 40 features, 1967–2026); 12 PNG visualisation reports via `visualize_style.py`, `visualize_style_extended.py`, `visualize_style_report56.py`
 - **Long-term memory infrastructure** — `copilot-instructions.md` (auto-injected), `documents/project_status.md` (auto-generated snapshot), MCP knowledge graph (`memory/elibrary_memory.jsonl`, 42 entities, 27 relations, seeded by `scripts/seed_mcp_memory.py`)
 
 ### Pending
 - **Step 4: Cross-cluster citation matrix** — which clusters' chunks cite works originating in which other clusters; requires matching `cited_year` back to the cluster of that year's chapters
 - **Step 2b resumption** (if useful case identified): improving citation pair resolution rate by filtering monographs from `ambiguous_year` candidates
+- **Style analysis Report 5 — vocabulary depth**: hapax ratio per decade, top-N content words as wordclouds (not yet started)
+
+### Style analysis key findings (treat as established)
+- **Sentences shorter over time**: early (1967-84) mean 22.3w → late (2016-26) 19.4w
+- **`we_per_1k` collapsed**: 9.3 → 3.5 — early philosophical rhetorical "we" → CSCL collaborative register
+- **`assert_per_1k` halved**: 4.9 → 2.2 — fewer "clearly/must/obviously" in mature academic prose
+- **`causal_per_1k` dropped**: 1.6 → 0.4 — less explicit syllogistic scaffolding ("therefore/thus/hence")
+- **Citation density exploded**: 0.95 → 5.1/1k — philosophical essay register → literature-heavy CSCL
+- **`metalinguistic_per_1k` near zero** (global mean 0.05) — moves rarely announced explicitly ("this chapter argues")
+- **Readability stable**: Flesch ≈ 30, FK grade ≈ 14, Fog ≈ 18 throughout — solidly graduate-level prose
 
 ### Key findings (treat as established)
 - **2006** is by far the most-cited year (773 hits) — corresponds to *Group Cognition* (MIT Press)

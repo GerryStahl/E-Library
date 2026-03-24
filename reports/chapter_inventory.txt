@@ -1,0 +1,385 @@
+ELIBRARY CHAPTER INVENTORY — chronological
+Generated: March 24, 2026   |   Total chapters: 337
+Year source: 200 from chapter_ref, 137 from book_ref (marked *), 0 unknown
+
+Year     Bk   Ch    Words  Title                                                         Book
+------------------------------------------------------------------------------------------------------------------------
+1967      7    1    15097  Truth as Value: Nietzsche’s Escape from Nihilism              Essays in Social Philosophy
+
+1970      7   20     8646  Time and Being: A translation of Martin Heidegger’s “Zeit un  Essays in Social Philosophy
+
+1974      7    4     5921  Sound and Society: An Essay on Electronic Music               Essays in Social Philosophy
+1974      7    5     6261  Utopian Optics: Theodor W. Adorno’s Prisms: Cultural Critici  Essays in Social Philosophy
+
+1975      1    1     6510  Chapter I. The Alternative of Marx and Heidegger              Marx and Heidegger
+1975      7    2     3670  The Jargon of Authenticity: An Introduction to a Marxist Cri  Essays in Social Philosophy
+
+1976      7    7     3758  The Theory and Practice of Democratic Socialism               Essays in Social Philosophy
+
+1978      7    6      761  A Modern Voice for Marx                                       Essays in Social Philosophy
+
+1979      7    3    12003  Attuned to Being: Heideggerian Music in Technological Societ  Essays in Social Philosophy
+
+1984      7    9     3242  Education for Democracy at Mondragon                          Essays in Social Philosophy
+
+1992      7   11     1202  The Evolutionary Analysis of Knowledge                        Essays in Social Philosophy
+1992      7   12      681  The Rapid Evolution of Knowledge                              Essays in Social Philosophy
+1992      8    1    10516  A Hypermedia Inference Language as an Alternative to Rule-ba  Essays in Personalizable Software
+1992      8    2    10830  A Computational Medium for Supporting Interpretation in Desi  Essays in Personalizable Software
+1992      8    3     6496  Toward a Theory of Hermeneutic Software Design                Essays in Personalizable Software
+
+1993      2    3      296  Part I. Interpretation in Design                              Tacit and Explicit Understanding in Comp
+1993      3    6     3999  Supporting Situated Interpretation                            Group Cognition: Computer Support for Bu
+1993      8    7     4638  Embedding ComputerBased Critics in the Contexts of Design     Essays in Personalizable Software
+1993      8    8    11957  Embedding Critics in Design Environments                      Essays in Personalizable Software
+
+1995      3    3     5714  Share Globally, Adapt Locally                                 Group Cognition: Computer Support for Bu
+1995      8    4    12390  Supporting Personalizable Learning                            Essays in Personalizable Software
+1995      8   13     4553  Internet Repositories for Collaborative Learning: Supporting  Essays in Personalizable Software
+
+1996      3    5     6303  Armchair Missions to Mars                                     Group Cognition: Computer Support for Bu
+1996      7   13      484  We Have to Work in the Future Now. (In Fact, We are Already   Essays in Social Philosophy
+1996      7   18      881  On Alexander's pattern language as end-user programming       Essays in Social Philosophy
+1996      8    5     5419  Personalizing the Web                                         Essays in Personalizable Software
+
+1997      7   14     2668  LSA Visits the Chinese Room: A Guided Tour                    Essays in Social Philosophy
+1997      7   15     1280  Consciousness Without Neural Correlates                       Essays in Social Philosophy
+
+1998      3    7     8985  Collaboration Technology for Communities                      Group Cognition: Computer Support for Bu
+1998      7   10     1185  Problem-Based Learning: Whitepaper for a Collaboration        Essays in Social Philosophy
+1998      7   16     1495  Software Semiotics                                            Essays in Social Philosophy
+1998      7   17     1725  Software as a New Art Form                                    Essays in Social Philosophy
+1998      7   19      399  Lela's Birthday is a "Lela Birthday"                          Essays in Social Philosophy
+
+1999      8    6     1177  Supporting Personalization and Reseeding-on-demand            Essays in Personalizable Software
+1999      8    9     3827  POW! Perspectives On the Web                                  Essays in Personalizable Software
+1999      8   10     3335  Reflections on WebGuide: Seven Issues for the Next Generatio  Essays in Personalizable Software
+1999      8   11     7530  Intertwining Perspectives and Negotiation                     Essays in Personalizable Software
+
+2000      3   12     4118  A Model of Collaborative Knowledge Building                   Group Cognition: Computer Support for Bu
+2000      8   15     3974  Developing Summarization Skills through the Use of LSABased   Essays in Personalizable Software
+2000      8   18     1316  Book review of Professional Development for Cooperative Lear  Essays in Personalizable Software
+
+2001      3    8    13342  Perspectives on Collaborative Learning                        Group Cognition: Computer Support for Bu
+2001      8   14     4293  Evaluating Affordance Short-circuits by Reviewers and Author  Essays in Personalizable Software
+
+2002      3   13     5271  Rediscovering the Collaboration                               Group Cognition: Computer Support for Bu
+2002      3   14     7075  Contributions to a Theory of Collaboration                    Group Cognition: Computer Support for Bu
+2002      3   15     4869  In a Moment of Collaboration                                  Group Cognition: Computer Support for Bu
+
+2003      3   10     5179  Knowledge Negotiation Online                                  Group Cognition: Computer Support for Bu
+2003      3   20     6957  Group Meaning / Individual Interpretation                     Group Cognition: Computer Support for Bu
+2003      3   21     5891  Shared Meaning, Common Ground, Group Cognition                Group Cognition: Computer Support for Bu
+2003      3   24     8755  Opening New Worlds for Collaboration                          Group Cognition: Computer Support for Bu
+
+2004      3    9     8560  Groupware Goes to School                                      Group Cognition: Computer Support for Bu
+2004      3   16     7264  Collaborating with Relational References                      Group Cognition: Computer Support for Bu
+2004      3   18     6028  Communicating with Technology                                 Group Cognition: Computer Support for Bu
+2004      3   19    11366  Building Collaborative Knowing                                Group Cognition: Computer Support for Bu
+2004      3   25    26812  Thinking at the SmallGroup Unit of Analysis                   Group Cognition: Computer Support for Bu
+2004     10   11    13894  A Multi-Dimensional Coding Scheme for Mathematical Collabora  Essays in Group-Cognitive Science
+
+2005      3   23    10043  Can Collaborative Groups Think?                               Group Cognition: Computer Support for Bu
+2005      4   27     8390  A Multidimensional Coding Scheme for VMT                      Studying Virtual Math Teams
+2005      4   28    10933  Combining Coding and Conversation Analysis of VMT Chats       Studying Virtual Math Teams
+2005      8   12     3652  Reflections on Supporting and Studying Collaborative Team Fo  Essays in Personalizable Software
+2005      9    6    12979  Sustaining Interaction in a CSCL Environment                  Essays in Computer-Supported Collaborati
+
+2006  *   3    1     8534  Essays on Technology, Interaction and Cognition               Group Cognition: Computer Support for Bu
+2006  *   3    2     2016  Introduction to Part I: Studies of Technology Design          Group Cognition: Computer Support for Bu
+2006  *   3    4     7885  Evolving a Learning Environment                               Group Cognition: Computer Support for Bu
+2006  *   3   11     3228  Introduction to Part II: Studies of Interaction Analysis      Group Cognition: Computer Support for Bu
+2006  *   3   17     2653  Introduction to Part III: Studies of Collaboration Theory     Group Cognition: Computer Support for Bu
+2006      4    6     7999  From Individual Representations to Group Cognition            Studying Virtual Math Teams
+2006      4   22     3429  Scripting Group Processes in VMT                              Studying Virtual Math Teams
+2006      8   17     2048  Introduction: Computer Support for Learning Communities       Essays in Personalizable Software
+2006      9    2     1726  Engaging with Engaged Learning                                Essays in Computer-Supported Collaborati
+2006     11   14    13034  Sustaining Group Cognition                                    Essays in Philosophy of Group Cognition
+2006     12    7     3247  Polyphonic Support for Collaborative Learning                 Essays in Online Mathematics Interaction
+2006     15    2     7745  English original version (2006)                               Global Introduction to CSCL
+2006     16    1     2238  1(1): ijCSCL – a journal for research in CSCL                 Editorial Introductions to ijCSCL
+2006     16    2     1325  1(2): Building knowledge in the classroom, building knowledg  Editorial Introductions to ijCSCL
+2006     16    3      848  1(3): Focusing on participation in group meaning making       Editorial Introductions to ijCSCL
+2006     16    4     1307  1(4): Social practices of computer-supported collaborative l  Editorial Introductions to ijCSCL
+
+2007      3   22    10776  Making Group Cognition Visible                                Group Cognition: Computer Support for Bu
+2007      4   19     4771  The Integration of Dual-interaction Spaces                    Studying Virtual Math Teams
+2007      8   16     4430  Designing Collaborative Learning Environments using Digital   Essays in Personalizable Software
+2007      9    9     3939  Designing Problems to Support Knowledge Building              Essays in Computer-Supported Collaborati
+2007     10   10     6142  Methodological issues in developing a multi-dimensional codi  Essays in Group-Cognitive Science
+2007     16    5     2249  2(1): Welcome to the future: ijCSCL volume 2                  Editorial Introductions to ijCSCL
+2007     16    6     2430  2(2&3): A double issue for CSCL 2007                          Editorial Introductions to ijCSCL
+2007     16    7     2104  2(4): CSCL and its flash themes                               Editorial Introductions to ijCSCL
+
+2008      4    2     4362  A Chat about Chat                                             Studying Virtual Math Teams
+2008      4   29     8293  Polyphonic Inter-Animation of Voices in VMT                   Studying Virtual Math Teams
+2008      9    8     7147  Temporality of the Joint Problem Space                        Essays in Computer-Supported Collaborati
+2008     12    6     6330  Group Creativity in InterAction: Collaborative Referencing,   Essays in Online Mathematics Interaction
+2008     12    8     4303  Book review: Exploring thinking as communicating in CSCL      Essays in Online Mathematics Interaction
+2008     15    4     8157  Portuguese Translation by Hugo Fuks & Tatiana Escovedo        Global Introduction to CSCL
+2008     15    7     8439  Romanian Translation by Ştefan Trăuşan-Matu                   Global Introduction to CSCL
+2008     16    8     1841  3(1): The many levels of CSCL                                 Editorial Introductions to ijCSCL
+2008     16    9     2144  3(2): The strength of the lone wolf                           Editorial Introductions to ijCSCL
+2008     16   10      817  3(3): Explorations of participation in discourse              Editorial Introductions to ijCSCL
+2008     16   11     1537  3(4): CSCL practices                                          Editorial Introductions to ijCSCL
+
+2009  *   4    1     1723  Introduction to Part I: Introducing Group Cognition in Virtu  Studying Virtual Math Teams
+2009      4    3     5192  The VMT Vision                                                Studying Virtual Math Teams
+2009      4    4     4128  Mathematical Discourse as Group Cognition                     Studying Virtual Math Teams
+2009  *   4    7     2555  Introduction to Part II: Studying Group Cognition in Virtual  Studying Virtual Math Teams
+2009  *   4    8     6772  The Sequential Co-construction of the Joint Problem Space     Studying Virtual Math Teams
+2009  *   4    9    19105  The Organization of Graphical, Narrative and Symbolic Intera  Studying Virtual Math Teams
+2009  *   4   10     8927  Question Co-Construction in VMT Chats                         Studying Virtual Math Teams
+2009  *   4   11     7959  Resolving Differences of Perspective in a VMT Session         Studying Virtual Math Teams
+2009  *   4   12     1302  Introduction to Part III: Studying Group Discourse in Virtua  Studying Virtual Math Teams
+2009  *   4   13     6856  Representational practices in VMT                             Studying Virtual Math Teams
+2009  *   4   14     8680  Student and Team Agency in VMT                                Studying Virtual Math Teams
+2009  *   4   15     4698  Group Creativity in VMT                                       Studying Virtual Math Teams
+2009  *   4   16    10030  Inscriptions, Mathematical Ideas and Reasoning in VMT         Studying Virtual Math Teams
+2009  *   4   17     7224  Reading’s work in VMT                                         Studying Virtual Math Teams
+2009  *   4   18      763  Introduction to Part IV: Designing the VMT Collaboration Env  Studying Virtual Math Teams
+2009      4   20     5988  Designing a Mix of Synchronous and Asynchronous Media for VM  Studying Virtual Math Teams
+2009      4   21     7393  Deictic Referencing in VMT                                    Studying Virtual Math Teams
+2009  *   4   23     8005  Helping Agents in VMT                                         Studying Virtual Math Teams
+2009  *   4   24      848  Introduction to Part V: Representing Group Interaction in VM  Studying Virtual Math Teams
+2009  *   4   25     4006  Thread-based Analysis of Patterns in VMT                      Studying Virtual Math Teams
+2009  *   4   26     6016  Studying Response-Structure Confusion in VMT                  Studying Virtual Math Teams
+2009  *   4   30     7846  A Model for Analyzing Math Knowledge Building in VMT          Studying Virtual Math Teams
+2009  *   4   32     1157  Introduction to Part VI: Conceptualizing Group Cognition in   Studying Virtual Math Teams
+2009      4   33     9469  Meaning Making in VMT                                         Studying Virtual Math Teams
+2009  *   4   34    12082  Critical Ethnography in the VMT Project                       Studying Virtual Math Teams
+2009      4   35    27590  Toward a Science of Group Cognition                           Studying Virtual Math Teams
+2009      9    7     9718  Synchronous Chat in CSCL                                      Essays in Computer-Supported Collaborati
+2009     12    2    18863  The Joint Organization of Interaction within a Multimodal CS  Essays in Online Mathematics Interaction
+2009     12    4     4522  “You can divide the thing into two parts”: Analyzing Referen  Essays in Online Mathematics Interaction
+2009     12    5     5172  Repairing Indexicality in Virtual Math Teams                  Essays in Online Mathematics Interaction
+2009     16   12     1934  4(1): Yes we can!                                             Editorial Introductions to ijCSCL
+2009     16   13     2698  4(2): Practice perspectives in CSCL                           Editorial Introductions to ijCSCL
+2009     16   14     1931  4(3): Classical dialogs in CSCL                               Editorial Introductions to ijCSCL
+2009     16   15     2096  4(4): Paradigms of shared knowledge                           Editorial Introductions to ijCSCL
+2009     18    4     3533  Catch.Up.Me (2009)                                            Overview and Autobiographical Essays
+2009     18    8     2629  A Career in Informatics (2009)                                Overview and Autobiographical Essays
+
+2010  *   1    2     6340  Chapter II. Heidegger’s Critique of Marx                      Marx and Heidegger
+2010  *   1    3     3096  Chapter III. A Marxist Critique of Heidegger                  Marx and Heidegger
+2010  *   1    4     7072  Chapter IV. Anticipations: The Early Works                    Marx and Heidegger
+2010  *   1    5    14464  Chapter V. Research: The Grundrisse                           Marx and Heidegger
+2010  *   1    6     8819  Chapter VI. Presentation: Capital                             Marx and Heidegger
+2010  *   1    7     1479  Transitional Remarks                                          Marx and Heidegger
+2010  *   1    8     5789  Chapter VII: The Work                                         Marx and Heidegger
+2010  *   1    9     4032  Chapter VIII: The Thing                                       Marx and Heidegger
+2010  *   1   10     7349  Chapter IX: Being-Itself                                      Marx and Heidegger
+2010  *   1   11     1657  Concluding Remarks                                            Marx and Heidegger
+2010  *   2    1     1951  INTRODUCTION                                                  Tacit and Explicit Understanding in Comp
+2010  *   2    2    13781  CHAPTER 1. OVERVIEW                                           Tacit and Explicit Understanding in Comp
+2010  *   2    4     9728  CHAPTER 2. THREE METHODOLOGIES OF DESIGN                      Tacit and Explicit Understanding in Comp
+2010  *   2    5    12413  CHAPTER 3. INTERPRETATION IN LUNAR HABITAT DESIGN             Tacit and Explicit Understanding in Comp
+2010  *   2    6    13590  CHAPTER 4. HEIDEGGER’S PHILOSOPHY OF INTERPRETATION           Tacit and Explicit Understanding in Comp
+2010  *   2    7     8966  CHAPTER 5. GROUNDING EXPLICIT DESIGN KNOWLEDGE                Tacit and Explicit Understanding in Comp
+2010  *   2    8     4996  CHAPTER 6. A THEORY OF COMPUTER SUPPORT                       Tacit and Explicit Understanding in Comp
+2010  *   2    9    12819  CHAPTER 7. RELATED COMPUTER SYSTEMS FOR DESIGN                Tacit and Explicit Understanding in Comp
+2010  *   2   10      446  Part III. Computer Support of Cooperative Design              Tacit and Explicit Understanding in Comp
+2010  *   2   11     6993  CHAPTER 8. REPRESENTING THE DESIGN SITUATION                  Tacit and Explicit Understanding in Comp
+2010  *   2   12     8861  CHAPTER 9. INTERPRETIVE PERSPECTIVES FOR COLLABORATION        Tacit and Explicit Understanding in Comp
+2010  *   2   13    13837  CHAPTER 10. A LANGUAGE FOR SUPPORTING INTERPRETATION          Tacit and Explicit Understanding in Comp
+2010  *   2   14     6201  CHAPTER 11. CONTRIBUTIONS                                     Tacit and Explicit Understanding in Comp
+2010  *   2   15    15940  APPENDIX                                                      Tacit and Explicit Understanding in Comp
+2010  *   7    8      124  The Economic Facts of Unemployment                            Essays in Social Philosophy
+2010      9    3     4093  Toward a New Science of Collaborative Learning                Essays in Computer-Supported Collaborati
+2010      9    4     2177  Team Cognition in Socio-Technical Systems                     Essays in Computer-Supported Collaborati
+2010      9   10     7891  Enhancing Mathematical Communication for Virtual Math Teams   Essays in Computer-Supported Collaborati
+2010      9   11     3600  Analyzing the Discourse of GeoGebra Collaborations            Essays in Computer-Supported Collaborati
+2010      9   12     2877  Supporting Group Math with Software Conversational Agents     Essays in Computer-Supported Collaborati
+2010     10    1     9177  Group Cognition as a Foundation for the New Science of Learn  Essays in Group-Cognitive Science
+2010     10    9     5263  Coordinating Collaborative Action in Online Math ProblemSolv  Essays in Group-Cognitive Science
+2010     12    1     5671  Interactional Achievement of Shared Mathematical Understandi  Essays in Online Mathematics Interaction
+2010     13    1     3868  Multi-User GeoGebra for Virtual Math Teams                    Essays in Collaborative Dynamic Geometry
+2010  *  15    1     9312  English third edition (2020)                                  Global Introduction to CSCL
+2010  *  15    3     8809  Spanish Translation by Cesar Alberto  & Collazos Ordoñez      Global Introduction to CSCL
+2010  *  15    5      984  Simplified Chinese Translation by Nan Zhou                    Global Introduction to CSCL
+2010  *  15    6     1099  Traditional Chinese Translation by Fei-Ching Chen             Global Introduction to CSCL
+2010  *  15    8     9652  German Translation by Martin Mühlpfordt                       Global Introduction to CSCL
+2010     16   16     1139  5(1): The CSCL field matures                                  Editorial Introductions to ijCSCL
+2010     16   17     1358  5(2): A prism of CSCL research                                Editorial Introductions to ijCSCL
+2010     16   18     1400  5(3): Guiding group cognition in CSCL                         Editorial Introductions to ijCSCL
+2010     16   19     2060  5(4): Beyond folk theories of CSCL                            Editorial Introductions to ijCSCL
+2010  *  16   24     5215  7(1): Ethnomethodologically informed                          Editorial Introductions to ijCSCL
+2010  *  16   25     2724  7(2): Cognizing mediating: Unpacking the entanglement of art  Editorial Introductions to ijCSCL
+2010  *  16   38     4809  10(3): Conceptualizing the intersubjective group              Editorial Introductions to ijCSCL
+2010  *  17    1     2690  Restoration of the Founding Homestead of Chatham              Proposals for Research
+2010  *  17    2     3497  Frost Fish Creek Salt Marsh Preservation                      Proposals for Research
+2010  *  17    3     8632  Frost Fish Creek Restoration Project Application to DER Prio  Proposals for Research
+2010  *  17    4    12596  DR K-12: Computer-Supported Math Discourse Among Teachers an  Proposals for Research
+2010  *  17    5    12009  ONR: Theories and Models of Group Cognition                   Proposals for Research
+2010  *  17    6    12573  ALT: Dynamic Support for Virtual Math Teams                   Proposals for Research
+2010  *  17    7    11329  SLC: Engaged Learning in Online Communities                   Proposals for Research
+2010  *  17    8    11685  ITR: Catalyzing & Nurturing Online Workgroups to Power Virtu  Proposals for Research
+2010  *  17    9    13083  NSDL: Collaboration Services for the Math Forum Digital Libr  Proposals for Research
+2010  *  17   10     1724  Foundations: Educational Online Communities for At-Risk Yout  Proposals for Research
+2010  *  17   11     2122  New Media to Support Collaborative Knowledge Building: Beyon  Proposals for Research
+2010  *  17   12     1135  Interoperability among Knowledge-Building Environments        Proposals for Research
+2010  *  17   13    11918  Conceptual Frameworks and Computational Support for Organiza  Proposals for Research
+2010  *  17   14     8525  Allowing Learners to be Articulate: Incorporating Automated   Proposals for Research
+2010  *  17   15     3249  Collaborative Research on KnowledgeBuilding Environments: Gr  Proposals for Research
+2010  *  17   16     1462  Models for Organizing Collaboration: Ways of Supporting Dist  Proposals for Research
+2010  *  17   17     2835  POW! (Perspectives On the Web)                                Proposals for Research
+2010  *  17   18     2846  The Research CyberStudio: Supporting Researchers as LifeLong  Proposals for Research
+
+2011      4    5     6989  Interactional Methods and Social Practices in VMT             Studying Virtual Math Teams
+2011      9    1     1702  Introduction to the Proceedings of CSCL 2011                  Essays in Computer-Supported Collaborati
+2011      9    5    11528  Analyzing Cognition in Online Teams                           Essays in Computer-Supported Collaborati
+2011     10    4    11893  How I View Learning and Thinking in CSCL Groups               Essays in Group-Cognitive Science
+2011     10    6     8239  How a Virtual Math Team Structured its Problem Solving        Essays in Group-Cognitive Science
+2011     10    8      739  Coding Scheme for Sequential Discourse                        Essays in Group-Cognitive Science
+2011     11   11     6962  Co-experiencing a Virtual World                               Essays in Philosophy of Group Cognition
+2011     16   20     3123  6(1): CSCL in Asia                                            Editorial Introductions to ijCSCL
+2011     16   21     3320  6(2): Let a hundred flowers bloom; let a hundred schools of   Editorial Introductions to ijCSCL
+2011     16   22     2333  6(3): Tweets from #cscl2011                                   Editorial Introductions to ijCSCL
+2011     16   23     3034  6(4): Collaborating around the tabletop                       Editorial Introductions to ijCSCL
+
+2012      5    1     7159  Chapter 1.  Vision: The Cognitive Potential of Collaborative  Translating Euclid: Designing a Human-Ce
+2012     10    2     8171  A View of ComputerSupported Collaborative Learning Research   Essays in Group-Cognitive Science
+2012     13    2     2971  Designing a Learning Environment to Promote Math Discourse    Essays in Collaborative Dynamic Geometry
+2012     13    3     2256  Supporting Group Cognition, Individual Learning and Communit  Essays in Collaborative Dynamic Geometry
+2012     13    4     3640  Evaluating Significant Math Discourse in a Learning Environm  Essays in Collaborative Dynamic Geometry
+2012     16   26     2037  7(3): An international research community                     Editorial Introductions to ijCSCL
+2012     16   27     3207  7(4): Traversing planes of learning                           Editorial Introductions to ijCSCL
+
+2013  *   5    2     5044  Chapter 2.  History: The Origin of Geometry                   Translating Euclid: Designing a Human-Ce
+2013  *   5    3     5746  Chapter 3.  Philosophy: The Obfuscation of Geometry           Translating Euclid: Designing a Human-Ce
+2013  *   5    4     2563  Chapter 4.  Mathematics: Demythologizing Geometry             Translating Euclid: Designing a Human-Ce
+2013  *   5    5     5527  Chapter 5.  Technology: Deconstructing Geometry               Translating Euclid: Designing a Human-Ce
+2013  *   5    6     6225  Chapter 6.  Collaboration: Group Geometry                     Translating Euclid: Designing a Human-Ce
+2013      5    7    11404  Chapter 7.  Research: Analyzing Geometry                      Translating Euclid: Designing a Human-Ce
+2013      5    8    11754  Chapter 8.  Theory: Resources for Geometry                    Translating Euclid: Designing a Human-Ce
+2013  *   5    9     5550  Chapter 9.  Pedagogy: Designing Geometry                      Translating Euclid: Designing a Human-Ce
+2013  *   5   10     3777  Chapter 10.  Practice: Doing Geometry                         Translating Euclid: Designing a Human-Ce
+2013  *   5   11     9087  Chapter 11.  Design-Based Research: Human-Centered Geometry   Translating Euclid: Designing a Human-Ce
+2013     10    5     7827  Theories of Group Cognition: Foundations for CSCL and CSCW    Essays in Group-Cognitive Science
+2013     10    7    10044  Interaction Analysis of a Biology Chat                        Essays in Group-Cognitive Science
+2013     12    3    18393  The Integration of Mathematics Discourse, Graphical Reasonin  Essays in Online Mathematics Interaction
+2013     14    3    16660  Topics in Dynamic Geometry for Virtual Math Teams             Adventures in Dynamic Geometry
+2013     16   28     6530  8(1): Learning across levels                                  Editorial Introductions to ijCSCL
+2013     16   29     1502  8(2): Transactive discourse in CSCL                           Editorial Introductions to ijCSCL
+2013     16   30     1397  8(3): Collaborative learning at CSCL 2013                     Editorial Introductions to ijCSCL
+2013     16   31     3076  8(4): Reigniting CSCL flash themes                            Editorial Introductions to ijCSCL
+
+2014      6    3     8090  Analyzing Development of Group Cognition                      Constructing Dynamic Triangles Together:
+2014     11   13     5761  Constituting Group Cognition                                  Essays in Philosophy of Group Cognition
+2014     13    9     1476  Working Group: Developing Comprehensive Open-Source Geometry  Essays in Collaborative Dynamic Geometry
+2014     14    2     8687  Explore Dynamic Geometry Together                             Adventures in Dynamic Geometry
+2014     14    4    31559  Dynamic-Geometry Activities with GeoGebra for Virtual Math T  Adventures in Dynamic Geometry
+2014     16   32     2793  9(1): Analyzing the multidimensional construction of knowled  Editorial Introductions to ijCSCL
+2014     16   33     4903  9(2): Dialogic foundations of CSCL                            Editorial Introductions to ijCSCL
+2014     16   34     4506  9(3): CSCL artifacts                                          Editorial Introductions to ijCSCL
+2014     16   35     3198  9(4): Analyzing roles of individuals in small-group collabor  Editorial Introductions to ijCSCL
+
+2015  *  11   15    12952  Structuring Group Cognition                                   Essays in Philosophy of Group Cognition
+2015     13    5    13247  Tracing the Change in Discourse in a Collaborative Dynamic G  Essays in Collaborative Dynamic Geometry
+2015     13    6     5268  Constructing Knowledge: A Community of Practice Framework fo  Essays in Collaborative Dynamic Geometry
+2015     13    7     5501  Dragging as a Referential Resource for Mathematical Meaning   Essays in Collaborative Dynamic Geometry
+2015  *  13    8     1442  Collaborative Exploration of Geometric Dependencies in Dynam  Essays in Collaborative Dynamic Geometry
+2015     14    1     6004  The Construction Crew Game                                    Adventures in Dynamic Geometry
+2015     16   36     3099  10(1): From the editors: Collaboration and the formation of   Editorial Introductions to ijCSCL
+2015     16   37     4070  10(2): The core features of CSCL: Social situation, collabor  Editorial Introductions to ijCSCL
+2015     16   39     4270  10(4): A decade of CSCL                                       Editorial Introductions to ijCSCL
+2015  *  18    1      309  Part I: Introduction to My Life and Writings                  Overview and Autobiographical Essays
+2015  *  18    2     1251  Intro to My Life                                              Overview and Autobiographical Essays
+2015  *  18    3     1497  Intro to My Research & Writings                               Overview and Autobiographical Essays
+2015  *  18    5     1135  Union Organizing at Temple (1975-1977)                        Overview and Autobiographical Essays
+2015  *  18    6      779  Community Development in Philadelphia (1978-1985)             Overview and Autobiographical Essays
+2015  *  18    7      536  Rehabbing My First House (1980-1989)                          Overview and Autobiographical Essays
+2015  *  18   11      267  Homes Where I Have Lived                                      Overview and Autobiographical Essays
+2015  *  18   12      445  Travels Abroad                                                Overview and Autobiographical Essays
+2015  *  18   13      376  Academic Conferences and Presentations                        Overview and Autobiographical Essays
+2015  *  18   14     8500  E-Library Volumes                                             Overview and Autobiographical Essays
+2015  *  18   15     4071  Chronological Listing of Essays with Volume and Chapter       Overview and Autobiographical Essays
+2015  *  18   16     3401  Summaries of the Volumes                                      Overview and Autobiographical Essays
+2015  *  18   17    14837  Reflections on the Volumes                                    Overview and Autobiographical Essays
+2015  *  18   18    16712  Part V. Detailed CV                                           Overview and Autobiographical Essays
+
+2016  *   6    1     3328  Introduction to the Analysis                                  Constructing Dynamic Triangles Together:
+2016  *   6    2     3961  Researching Mathematical Cognition                            Constructing Dynamic Triangles Together:
+2016  *   6    4    16802  Session 1: The Team Develops Collaboration Practices          Constructing Dynamic Triangles Together:
+2016  *   6    5     7034  Session 2: The Team Develops Dragging Practices               Constructing Dynamic Triangles Together:
+2016  *   6    6     6652  Session 3: The Team Develops Construction Practices           Constructing Dynamic Triangles Together:
+2016  *   6    7     4278  Session 4: The Team Develops Tool-Usage Practices             Constructing Dynamic Triangles Together:
+2016  *   6    8     3534  Session 5: The Team Identifies Dependencies                   Constructing Dynamic Triangles Together:
+2016  *   6    9     5900  Session 6: The Team Constructs Dependencies                   Constructing Dynamic Triangles Together:
+2016  *   6   10     4093  Session 7: The Team Uses Transformation Tools                 Constructing Dynamic Triangles Together:
+2016  *   6   11    11916  Session 8: The Team Develops Mathematical Discourse and Acti  Constructing Dynamic Triangles Together:
+2016  *   6   12     9030  Contributions to a Theory of Mathematical Group Cognition     Constructing Dynamic Triangles Together:
+2016  *   6   13     8487  Constructing Dynamic Triangles Together                       Constructing Dynamic Triangles Together:
+2016     11    9    12145  A Post-cognitive Theoretical Paradigm                         Essays in Philosophy of Group Cognition
+2016     11   12    13254  From Intersubjectivity to Group Cognition                     Essays in Philosophy of Group Cognition
+
+2017     11   10     7569  Practices in Group Cognition                                  Essays in Philosophy of Group Cognition
+
+2018  *  20    1     1931  Sculpture: 3-D Form from Wood                                 Works of 3-D Form
+2018  *  20    2     5211  Ceramics: 3-D Form from Clay                                  Works of 3-D Form
+2018  *  20    3      905  Architecture: 3-D Form for Living                             Works of 3-D Form
+2018  *  20    4    10141  Reflections: Philosophy of 3-D Form                           Works of 3-D Form
+2018  *  20    5     1290  Space: Opening Up 3-D Form                                    Works of 3-D Form
+2018  *  20    6     5551  Practice: Sculpting 3-D Form in Wood                          Works of 3-D Form
+2018  *  20    7     5981  Catalog: Chronology of Works in 3-D Form                      Works of 3-D Form
+
+2020     18    9     5418  Retirement Activities in Chatham (2014-2021)                  Overview and Autobiographical Essays
+2020     18   10     1875  My Timeline                                                   Overview and Autobiographical Essays
+2020  *  21    1     1082  Welcome                                                       Dynamic Geometry Game for Pods
+2020  *  21    2      455  Intro for Adventurous Students                                Dynamic Geometry Game for Pods
+2020  *  21    3      673  Intro for Parents and Teachers                                Dynamic Geometry Game for Pods
+2020  *  21    4     1287  Game Part A                                                   Dynamic Geometry Game for Pods
+2020  *  21    5     1480  Game Part B                                                   Dynamic Geometry Game for Pods
+2020  *  21    6     1208  Game Part C                                                   Dynamic Geometry Game for Pods
+2020  *  21    7     1101  Game Part D                                                   Dynamic Geometry Game for Pods
+2020  *  21    8     1060  Game Part E                                                   Dynamic Geometry Game for Pods
+2020  *  21    9     6094  Extra Bonus Dynamic Geometry                                  Dynamic Geometry Game for Pods
+2020     22    6     3454  Hydrology Study of Frost Fish Creek                           Studying Climate Locally: The Future of 
+
+2021      7   21     6504  The Working of Aural Being in Electronic Music                Essays in Social Philosophy
+2021     11    1     9350  Introduction to CSCL                                          Essays in Philosophy of Group Cognition
+2021     11    2     8128  Theories of CSCL                                              Essays in Philosophy of Group Cognition
+2021     11    3     7800  Analysis of CSCL                                              Essays in Philosophy of Group Cognition
+2021     11    4     6527  Curriculum for CSCL                                           Essays in Philosophy of Group Cognition
+2021     11    6     1922  Introducing Theoretical Investigations                        Essays in Philosophy of Group Cognition
+2021     11    7    12694  A Vision of Group Cognition                                   Essays in Philosophy of Group Cognition
+2021     11    8    20876  The Theory of Group Cognition                                 Essays in Philosophy of Group Cognition
+2021  *  19    1     1390  Forward                                                       Theoretical Investigations: Philosophica
+2021  *  19    2     2630  Introducing Theoretical Investigations                        Theoretical Investigations: Philosophica
+2021  *  19    3    13340  Investigation 1. Advancing a CSCL Vision                      Theoretical Investigations: Philosophica
+2021  *  19    4    20703  Investigation 2. A Theory of Group Cognition in CSCL          Theoretical Investigations: Philosophica
+2021     19    5    12038  Investigation 15. A Paradigmatic Unit of Analysis             Theoretical Investigations: Philosophica
+2021     19    6     7480  Investigation 16. Adopting Group Practices                    Theoretical Investigations: Philosophica
+2021     19    7     9721  Investigation 17. Co-experiencing a Shared World              Theoretical Investigations: Philosophica
+2021     19    8    13147  Investigation 18. From Intersubjectivity to Group Cognition   Theoretical Investigations: Philosophica
+2021     19    9     5713  Investigation 19. The Constitution of Group Cognition         Theoretical Investigations: Philosophica
+2021     19   10     7778  Investigation 20. Theories of Shared Understanding            Theoretical Investigations: Philosophica
+2021     19   11     5331  Investigation 21. Academically Productive Interaction         Theoretical Investigations: Philosophica
+2021     19   12     8181  Investigation 22. Supporting Group Cognition with a Cognitiv  Theoretical Investigations: Philosophica
+2021     19   13    12936  Investigation 23. Sustaining Interaction in a CSCL Environme  Theoretical Investigations: Philosophica
+2021     19   14    12849  Investigation 24. Viewing Learning and Thinking in Groups     Theoretical Investigations: Philosophica
+2021     19   15    12855  Investigation 25. Structuring Problem Solving                 Theoretical Investigations: Philosophica
+2021     21   10     6515  Redesigning Mathematical Curriculum for Blended Learning      Dynamic Geometry Game for Pods
+2021     22    4      370  Frost Fish Creek: A Salt Marsh of Chatham                     Studying Climate Locally: The Future of 
+2021     22    7     6730  Priority Project for Frost Fish Creek                         Studying Climate Locally: The Future of 
+2021     22    8     1031  Videos of Frost Fish Creek & Cockle Cove                      Studying Climate Locally: The Future of 
+
+2022      1   12     9130  EPILOGUE: THE WORKING OF SONIC BEING IN E-MUSIC               Marx and Heidegger
+2022     11    5     9195  Technological Artifacts                                       Essays in Philosophy of Group Cognition
+2022     22   10     3419  Study of Four Marshes                                         Studying Climate Locally: The Future of 
+
+2023     10    3     4957  CSCL for the era of climate change                            Essays in Group-Cognitive Science
+2023     13   10     8973  CSCL for the Era of Climate Change                            Essays in Collaborative Dynamic Geometry
+
+2024     21   11     7017  Mathematical Group Cognition in the Anthropocene              Dynamic Geometry Game for Pods
+2024     22   11     2664  Study of Nine Marshes                                         Studying Climate Locally: The Future of 
+
+2025     22    2     6301  Climate Change and the Marshes of  South and West Chatham     Studying Climate Locally: The Future of 
+
+2026  *  22    1     1129  Introduction: Studying Climate Locally                        Studying Climate Locally: The Future of 
+2026  *  22    3     1740  Views of Chatham Neighborhoods                                Studying Climate Locally: The Future of 
+2026  *  22    5     1717  The Wonder of Chatham’s Salt Marshes                          Studying Climate Locally: The Future of 
+2026  *  22    9     1811  Early Study of Bucks Creek / Cockle Cove                      Studying Climate Locally: The Future of 
+2026  *  22   12      447  For Further Information                                       Studying Climate Locally: The Future of 
+------------------------------------------------------------------------------------------------------------------------
+TOTAL WORDS: 2,053,079
