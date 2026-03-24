@@ -8,12 +8,29 @@ The project has several components:
 
 1. **RAG query system** — ask free-form questions about the library in natural language and receive
    grounded, cited answers. Uses hybrid retrieval (FAISS dense search + BM25 keyword search +
-   Reciprocal Rank Fusion + cross-encoder reranking) backed by Anthropic Claude or local Ollama
-   models.
+   Reciprocal Rank Fusion + cross-encoder reranking) backed by multiple versions of Anthropic Claude or local Ollama
+   models, using a large semantic vector space of the e-library texts at various semantic levels.
 
-2. **Thematic analysis pipeline** — k-means clustering of the 17,441 base text chunks into 20
+2. **A custom, local query interface for analyzing the e-library** — Allows choice of LMM model and provides
+	long-term memory context for generating meaningful responses to searches of the texts.
+
+3. **Summaries of the books and chapters based on chunk semantics** — Summaries of each of the 22 books 
+	and each of their 337 chapters were generated and are displayed on the webpage for the e-library.
+
+4. **Thematic analysis pipeline** — k-means clustering of the 17,441 base text chunks into 20
    semantic clusters, self-citation extraction (2,852 inline Stahl citations), and cluster
-   publication timeline visualisations tracing thematic development across 1970–2026.
+   publication timeline visualisations tracing thematic development across period 1970–2026.
+
+5. **Long-term memory for the chat Copilot** — supplemental context for queries through several coordinated resources:
+- An overview Guide -- which is computer-readable (in MD format) as well as human-readable -- with technical detail and instructions.
+- Github/copilot-instructions.md -- provides a variety of instructions to the chat Copilot on how to respond to queries.
+- MCP Knowledge Graph (`memory/elibrary_memory.jsonl`) -- a JSONL queryable memory structure about the project.
+- Auto-generated Project Status (`documents/project_status.md`) -- summarizes the current status of the ongoing project.
+- In addition, query_history.json -- is a repository of previous queries; semantically similar queries are also used for context and deambiguity.
+
+6. **GitHub private repository for file backup** — This private repo includes all the files of the project 
+	except for the copywrited texts, the large vector spaces (which can be recreated) 
+	and the LLM models (which can be downloaded). 
 
 ---
 
@@ -26,7 +43,7 @@ The project has several components:
 | `reports/` | CSV, TXT, JSON analysis outputs (cluster assignments, citation data, timelines) |
 | `documents/` | Full project guide, planning docs, chapter/book metrics |
 | `summarizers/book summaries/` | Claude-generated summaries for all 22 books |
-| `webpages/` | Generated HTML pages for the e-library |
+| `webpages/` | Generated HTML pages for the e-library webpages  |
 | `cache/` | Python source files and prompt templates (not the data files) |
 | `memory/elibrary_memory.jsonl` | MCP knowledge graph (42 entities, 27 relations) |
 | `.github/copilot-instructions.md` | Copilot Chat context instructions |
