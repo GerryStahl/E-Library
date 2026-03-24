@@ -29,9 +29,12 @@ The project has several components:
 - Auto-generated Project Status (`documents/project_status.md`) -- summarizes the current status of the ongoing project.
 - In addition, query_history.json -- is a repository of previous queries; semantically similar queries are also used for context and deambiguity.
 
-6. **GitHub private repository for file backup** — This private repo includes all the files of the project 
-	except for the copywrited texts, the large vector spaces (which can be recreated) 
+6. **GitHub repository for E-Library** — This public repo includes all the files of the project 
+	except for the large vector spaces (which can be recreated) 
 	and the LLM models (which can be downloaded). 
+
+7. **Timeline analysis of litereary style**— The narrative text of the elibrary is analyzed in terms of many measures of literary style.
+The various factors are then graphed to compare their historical variation (1967-2026) and their differences in thematic clusters of the writings.
 
 ---
 
@@ -53,7 +56,6 @@ The project has several components:
 
 Large or copyrighted files are excluded via `.gitignore` and backed up separately:
 
-- `sourcepdfs/` — the 22 source books (copyright)
 - `cache/elibrary_cache.pkl` (86 MB) — parsed text + Claude summaries; backed up to local disk
 - `vector_store/*.faiss` — FAISS vector indexes (recreatable in ~20 min)
 - `.venv/` — Python virtual environment (recreatable via `pip install -r requirements.txt`)
