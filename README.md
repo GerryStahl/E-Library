@@ -33,7 +33,7 @@ The project has several components:
 	except for the large vector spaces (which can be recreated) 
 	and the LLM models (which can be downloaded). 
 
-7. **Timeline analysis of litereary style**— The narrative text of the elibrary is analyzed in terms of many measures of literary style.
+7. **Timeline analysis of literary style**— The narrative text of the elibrary is analyzed in terms of many measures of literary style.
 The various factors are then graphed to compare their historical variation (1967-2026) and their differences in thematic clusters of the writings.
 
 ---
